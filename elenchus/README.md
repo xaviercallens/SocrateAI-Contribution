@@ -124,7 +124,7 @@ A paper is published (Zenodo, CC-BY-4.0, with an AI-use statement) only when all
 
 ## 2. Registry
 
-The full metadata (Lean files, code PRs, auditor and caveats) is in [`REGISTRY.md`](REGISTRY.md) and [`REGISTRY.json`](REGISTRY.json). Each DOI was resolved against the public Zenodo API, and every title matched the local metadata exactly. The md5 of every copied PDF matched the checksum of the PDF that Zenodo serves. Tiers count the rows of each paper's own ledger. ED-06 and ED-07 share one ledger.
+The full metadata (Lean files, code PRs, auditor and caveats) is in [`REGISTRY.md`](REGISTRY.md) and [`REGISTRY.json`](REGISTRY.json). Each DOI was resolved against the public Zenodo API, and every title matched the local metadata exactly. (In the original record, the md5 of every copied PDF also matched the PDF that Zenodo serves; this public copy holds no PDFs.) Tiers count the rows of each paper's own ledger. ED-06 and ED-07 share one ledger.
 
 | id | date | publication | DOI | result | tiers A/L/C/X | AI audit |
 |---|---|---|---|---|---|---|

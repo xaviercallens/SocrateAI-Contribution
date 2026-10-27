@@ -30,7 +30,7 @@ python3 elenchus/tools/check_consistency.py
 
 The script writes [`elenchus/CONSISTENCY_REPORT.md`](../elenchus/CONSISTENCY_REPORT.md). It:
 - runs the Elenchus ledger gate on all 17 claim ledgers, re-hashing every evidence file;
-- re-hashes the 360 copied Lean files against the hashes recorded when the claims were filed;
+- re-hashes the 360 copied Lean files. 136 are compared with the hashes recorded when the claims were filed. The other 224 come from papers written before hashes were recorded, so they are compared with the version last committed before publication, which is a proxy, not a lock;
 - scans the Lean files for the known ways of fooling the proof checker;
 - lists which modules appear in the kernel-replay record;
 - checks every DOI on Zenodo.

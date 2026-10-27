@@ -9,7 +9,7 @@ This is the story of two years of work with AI agents, from October 2024 to Octo
 Nothing verified came out of the first year, and that is the honest summary.
 
 - **Reading other people's work.** Most activity on GitHub that year consisted of copies ("forks") of other people's projects, used to learn: game-playing AI (chess, poker), protein and code models, mathematics and proof-writing language models, agent frameworks, machine learning for finance. They are other people's work, and no authorship is claimed.
-- **First projects of my own, in September and October 2025:** a framework for making software agents talk to each other (AMCP, in Java) and an educational game for children, built around my son's idea, with computer opponents. The game's training log reports a win rate that was never independently re-run.
+- **First projects of my own, in September and October 2025:** a framework for making software agents talk to each other (AMCP, in Java) and an educational game for children, with computer opponents. The game's training log reports a win rate that was never independently re-run.
 - **No science.** No repository from that year touches mathematics, physics or formal proof.
 
 ## November 2025 to April 2026: small projects

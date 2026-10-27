@@ -30,7 +30,7 @@ python3 elenchus/tools/check_consistency.py
 
 Le script écrit [`elenchus/CONSISTENCY_REPORT.md`](../elenchus/CONSISTENCY_REPORT.md). Il :
 - passe les 17 registres d'affirmations au vérificateur de registres Elenchus, en recalculant l'empreinte de chaque fichier de preuve ;
-- recalcule l'empreinte des 360 fichiers Lean copiés et la compare à celle notée au moment où les affirmations ont été déposées ;
+- recalcule l'empreinte des 360 fichiers Lean copiés. 136 sont comparés à l'empreinte notée au dépôt des affirmations. Les 224 autres viennent d'articles écrits avant que l'on note les empreintes : ils sont comparés à la dernière version enregistrée avant publication, ce qui est une approximation, pas un verrou ;
 - cherche dans les fichiers Lean les moyens connus de tromper le vérificateur ;
 - liste les modules qui figurent dans le relevé de relecture par le noyau ;
 - contrôle chaque DOI sur Zenodo.

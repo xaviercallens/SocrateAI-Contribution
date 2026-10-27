@@ -9,7 +9,7 @@ Voici l'histoire de deux années de travail avec des agents d'IA, d'octobre 2024
 Rien de vérifié n'est sorti de cette première année : c'est le résumé honnête.
 
 - **Lire le travail des autres.** Cette année-là, l'essentiel de l'activité sur GitHub consiste en copies (*forks*) de projets d'autres personnes, pour apprendre : IA de jeu (échecs, poker), modèles de protéines et de code, modèles de langage pour les mathématiques et l'écriture de preuves, cadres pour agents, apprentissage automatique pour la finance. C'est le travail d'autres personnes, et aucune paternité n'est revendiquée.
-- **Premiers projets personnels, en septembre et octobre 2025 :** un cadre pour faire dialoguer des agents logiciels (AMCP, en Java) et un jeu éducatif pour enfants, né d'une idée de mon fils, avec des adversaires pilotés par l'ordinateur. Le journal d'entraînement du jeu donne un taux de victoire qui n'a jamais été recalculé de façon indépendante.
+- **Premiers projets personnels, en septembre et octobre 2025 :** un cadre pour faire dialoguer des agents logiciels (AMCP, en Java) et un jeu éducatif pour enfants, avec des adversaires pilotés par l'ordinateur. Le journal d'entraînement du jeu donne un taux de victoire qui n'a jamais été recalculé de façon indépendante.
 - **Pas de science.** Aucun dépôt de cette année ne touche aux mathématiques, à la physique ou à la preuve formelle.
 
 ## Novembre 2025 à avril 2026 : de petits projets

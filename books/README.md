@@ -1,5 +1,7 @@
 # The books
 
+Part of [SocrateAI-Contribution](https://github.com/xaviercallens/SocrateAI-Contribution).
+
 ## The Discovery Journal (two editions)
 
 A book for readers who are not scientists. It tells one year of work with AI agents, with twenty contributions chosen by a scoring grid that was fixed before anything was scored, the method used to check them, and the list of claims that were withdrawn. 153 pages in each language.
