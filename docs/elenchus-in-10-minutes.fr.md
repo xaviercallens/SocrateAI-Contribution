@@ -78,3 +78,5 @@ Mais les encadrements eux-mêmes ont été calculés par un programme extérieur
 Elenchus n'est pas une garantie. La méthode ne remplace pas la relecture humaine. Elle ne dit pas si une question vaut la peine d'être posée. Elle n'empêche pas les erreurs : elle les rend plus faciles à trouver. Et elle ne s'applique pas toute seule : la rechute du 19 octobre 2026 est survenue un mois *après* la mise par écrit de la méthode ([nos erreurs](what-we-got-wrong.fr.md)).
 
 Versions longues : le chapitre 1 du *Journal des découvertes* ([français](../books/discovery-journal-2026-fr.pdf)) et, pour les spécialistes, [`elenchus/METHODOLOGY.md`](../elenchus/METHODOLOGY.md) (en anglais).
+
+Voir aussi : [comment lire une preuve écrite par une IA : cinq questions](how-to-read-an-ai-generated-proof.fr.md).

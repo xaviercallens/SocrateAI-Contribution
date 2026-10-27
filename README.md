@@ -46,6 +46,7 @@ The method explained without jargon: [docs/elenchus-in-10-minutes.md](docs/elenc
 ## Start here
 
 - **If you are curious and not a scientist:** read the *Discovery Journal* ([English PDF](books/discovery-journal-2026-en.pdf), [French PDF](books/discovery-journal-2026-fr.pdf)). It starts with the method, explained with a trial, a smoke detector and a recipe tasted by someone else. Then read [the two-year story](docs/two-years.md) and [what we got wrong](docs/what-we-got-wrong.md).
+- **If you saw a headline about an AI "proof":** read [how to read an AI-generated proof: five questions](docs/how-to-read-an-ai-generated-proof.md).
 - **If you are a student:** read the textbook *From Conjecture to the Lean Kernel* ([doi:10.5281/zenodo.23665873](https://doi.org/10.5281/zenodo.23665873); French edition [doi:10.5281/zenodo.23665820](https://doi.org/10.5281/zenodo.23665820)). It gives each result three ways: as a human proof, as a Lean statement and as computer tests. Then try [check it yourself](docs/check-it-yourself.md).
 - **If you are a specialist and want to check:** start with [`elenchus/README.md`](elenchus/README.md), [`elenchus/REGISTRY.md`](elenchus/REGISTRY.md) (24 Zenodo publications with their claim ledgers) and [`elenchus/CONSISTENCY_REPORT.md`](elenchus/CONSISTENCY_REPORT.md) and the ledger checker in [`elenchus/tool/`](elenchus/tool/). Then please try to break something: [CONTRIBUTING.md](CONTRIBUTING.md).
 

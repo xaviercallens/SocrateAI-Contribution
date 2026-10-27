@@ -78,3 +78,5 @@ But the enclosures themselves were computed by a program outside the kernel, and
 Elenchus is not a guarantee. It does not replace human review. It does not say whether a question is worth asking. It does not prevent mistakes; it makes them easier to find. And it does not apply itself: the relapse of 19 October 2026 came one month *after* the method was written down ([what we got wrong](what-we-got-wrong.md)).
 
 Longer versions: chapter 1 of the *Discovery Journal* ([English](../books/discovery-journal-2026-en.pdf)) and, for specialists, [`elenchus/METHODOLOGY.md`](../elenchus/METHODOLOGY.md).
+
+See also: [how to read an AI-generated proof: five questions](how-to-read-an-ai-generated-proof.md).
