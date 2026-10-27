@@ -1,0 +1,101 @@
+{
+ "slug": "ar_sigma3_enstrophy",
+ "files": [
+  {
+   "ref": "<producer-repo>/results/autoresearch/2026-10-25/H7/Autoresearch_Enstrophy.lean",
+   "aliases": [
+    "<producer-repo>/results/autoresearch/2026-10-25/H7/Autoresearch_Enstrophy.lean"
+   ],
+   "recorded_sha256": [
+    "c7c9f24cfe2e623f36600d11e11841e7cbd75f4b3801fa602681980735c97f03"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "c7c9f24cfe2e623f36600d11e11841e7cbd75f4b3801fa602681980735c97f03",
+   "copied_to": "lean/results/autoresearch/2026-10-25/H7/Autoresearch_Enstrophy.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/results/autoresearch/2026-10-25/H7/contribution/Autoresearch_EnstrophyFlow.lean",
+   "aliases": [
+    "<producer-repo>/results/autoresearch/2026-10-25/H7/contribution/Autoresearch_EnstrophyFlow.lean"
+   ],
+   "recorded_sha256": [
+    "4cd746897f58f7a18eb27e95f703b43d49ec0eb5c5f38753cd5f0bc1a99a8dd4"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "4cd746897f58f7a18eb27e95f703b43d49ec0eb5c5f38753cd5f0bc1a99a8dd4",
+   "copied_to": "lean/results/autoresearch/2026-10-25/H7/contribution/Autoresearch_EnstrophyFlow.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/results/autoresearch/2026-10-25/H7/contribution/Autoresearch_EnstrophyFlowControls.lean",
+   "aliases": [
+    "<producer-repo>/results/autoresearch/2026-10-25/H7/contribution/Autoresearch_EnstrophyFlowControls.lean"
+   ],
+   "recorded_sha256": [
+    "7a3904240f4734df1360471af1bce7fb420ff279298298da6effc9f5c9e065ce"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "7a3904240f4734df1360471af1bce7fb420ff279298298da6effc9f5c9e065ce",
+   "copied_to": "lean/results/autoresearch/2026-10-25/H7/contribution/Autoresearch_EnstrophyFlowControls.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/results/autoresearch/2026-10-25/H7/contribution/OwnerAxioms.lean",
+   "aliases": [
+    "<producer-repo>/results/autoresearch/2026-10-25/H7/contribution/OwnerAxioms.lean"
+   ],
+   "recorded_sha256": [
+    "706ac512aef519e4bcfe0312f86d102d32b4f6ecdf789ac0fe81b5eb67997a81"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "706ac512aef519e4bcfe0312f86d102d32b4f6ecdf789ac0fe81b5eb67997a81",
+   "copied_to": "lean/results/autoresearch/2026-10-25/H7/contribution/OwnerAxioms.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<data-disk>/leanmaster/SocrateAI-Scientific-QuantumFluids/lean_src/QuantumFluidsShell.lean",
+   "aliases": [
+    "<data-disk>/leanmaster/SocrateAI-Scientific-QuantumFluids/lean_src/QuantumFluidsShell.lean"
+   ],
+   "recorded_sha256": [
+    "8da44064789a2489f51993ff8b30c70ebc2a2c679e6a7824992d8f7be71a731f"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "8da44064789a2489f51993ff8b30c70ebc2a2c679e6a7824992d8f7be71a731f",
+   "copied_to": "lean/external/SocrateAI-Scientific-QuantumFluids/lean_src/QuantumFluidsShell.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<data-disk>/leanmaster/SocrateAI-Scientific-QuantumFluids/lean_src/ShellHamiltonian.lean",
+   "aliases": [
+    "<data-disk>/leanmaster/SocrateAI-Scientific-QuantumFluids/lean_src/ShellHamiltonian.lean"
+   ],
+   "recorded_sha256": [
+    "5755576ed170a56115ea20d3712fc514e3cfbe27950cfeba934daa2fa22ef882"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "5755576ed170a56115ea20d3712fc514e3cfbe27950cfeba934daa2fa22ef882",
+   "copied_to": "lean/external/SocrateAI-Scientific-QuantumFluids/lean_src/ShellHamiltonian.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  }
+ ]
+}

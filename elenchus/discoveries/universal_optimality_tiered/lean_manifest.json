@@ -1,0 +1,134 @@
+{
+ "slug": "universal_optimality_tiered",
+ "files": [
+  {
+   "ref": "<producer-repo>/formal_cert/Triangular/AnyDensity.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Triangular/AnyDensity.lean"
+   ],
+   "recorded_sha256": [
+    "0a6d86eef3ee24b2b6828ff602707868e160969bfbebc41db375c05b383c5168"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "0a6d86eef3ee24b2b6828ff602707868e160969bfbebc41db375c05b383c5168",
+   "copied_to": "lean/formal_cert/Triangular/AnyDensity.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Triangular/Axioms.lean",
+   "aliases": [
+    "formal_cert/Triangular/Axioms.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "ee372fbc85e382ab2454ebd11a0c6c275dc388d17901eb210744cf9d863a4fbc",
+   "copied_to": "lean/formal_cert/Triangular/Axioms.lean",
+   "upstream": null,
+   "status": "copied AT PUBLICATION COMMIT 96ff79c0ccb6 (the file changed later; HEAD sha256 ba2ec76ae5acd245... differs)",
+   "pub_commit": "96ff79c0ccb62a195c29e5aa95a5cf23c8d11001",
+   "pub_sha256": "ee372fbc85e382ab2454ebd11a0c6c275dc388d17901eb210744cf9d863a4fbc",
+   "head_sha256": "ba2ec76ae5acd245f5211346b44a9376044f2080b32db084fa7f3d2c61bc08e5"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Triangular/Riesz.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Triangular/Riesz.lean"
+   ],
+   "recorded_sha256": [
+    "a99c2024b065360bc027ab05bd08b1fbc3335545dbf0815bcf7ee619e2e4b23b"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "a99c2024b065360bc027ab05bd08b1fbc3335545dbf0815bcf7ee619e2e4b23b",
+   "copied_to": "lean/formal_cert/Triangular/Riesz.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Triangular/RieszFinite.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Triangular/RieszFinite.lean"
+   ],
+   "recorded_sha256": [
+    "7aa2f523e83a1d9e981e3610c05acda030aa268c005d8681d6ef2daa4bd57f01"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "7aa2f523e83a1d9e981e3610c05acda030aa268c005d8681d6ef2daa4bd57f01",
+   "copied_to": "lean/formal_cert/Triangular/RieszFinite.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Triangular/UniversalOptimality.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Triangular/UniversalOptimality.lean"
+   ],
+   "recorded_sha256": [
+    "7f1b10d29863fe385c8cbe4984804f8d1b3ea437c0e2d32a89c4ffb178bb36ce"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "7f1b10d29863fe385c8cbe4984804f8d1b3ea437c0e2d32a89c4ffb178bb36ce",
+   "copied_to": "lean/formal_cert/Triangular/UniversalOptimality.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<data-disk>/openai_math_pinned/lean/ComparatorChallenges/TriangularEnergy.lean",
+   "aliases": [
+    "<data-disk>/openai_math_pinned/lean/ComparatorChallenges/TriangularEnergy.lean"
+   ],
+   "recorded_sha256": [
+    "af51979c7baecd3e9852637bbba29eff96cbb09cec84e15eff7d686f1a770616"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "af51979c7baecd3e9852637bbba29eff96cbb09cec84e15eff7d686f1a770616",
+   "copied_to": null,
+   "upstream": "openai/math @ fd4aeeb2ee4fc729c18d98444fed42fd0529eeeb (Apache-2.0; pinned local copy)",
+   "status": "upstream: listed, not copied"
+  },
+  {
+   "ref": "<data-disk>/openai_math_pinned/lean/OAI/Analysis/Triangular/Energy/Basic.lean",
+   "aliases": [
+    "<data-disk>/openai_math_pinned/lean/OAI/Analysis/Triangular/Energy/Basic.lean"
+   ],
+   "recorded_sha256": [
+    "1b201a3f0062fc596b738fe2bfdc7b6dde60e9cdaade41e5821b3a8dd752f330"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "1b201a3f0062fc596b738fe2bfdc7b6dde60e9cdaade41e5821b3a8dd752f330",
+   "copied_to": null,
+   "upstream": "openai/math @ fd4aeeb2ee4fc729c18d98444fed42fd0529eeeb (Apache-2.0; pinned local copy)",
+   "status": "upstream: listed, not copied"
+  },
+  {
+   "ref": "<data-disk>/openai_math_pinned/lean/OAI/Analysis/Triangular/Energy/Universal.lean",
+   "aliases": [
+    "<data-disk>/openai_math_pinned/lean/OAI/Analysis/Triangular/Energy/Universal.lean"
+   ],
+   "recorded_sha256": [
+    "35765ec2deda6020ae292681a4f56c6d73dfbcbdfbb7baa831e06e52dec82b1d"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "35765ec2deda6020ae292681a4f56c6d73dfbcbdfbb7baa831e06e52dec82b1d",
+   "copied_to": null,
+   "upstream": "openai/math @ fd4aeeb2ee4fc729c18d98444fed42fd0529eeeb (Apache-2.0; pinned local copy)",
+   "status": "upstream: listed, not copied"
+  }
+ ]
+}

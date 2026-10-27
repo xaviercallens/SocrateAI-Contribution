@@ -1,0 +1,388 @@
+{
+ "schema_version": 1,
+ "claims": [
+  {
+   "schema_version": 1,
+   "id": "DX-A-0001",
+   "statement": "Upstream OAI.AtomicTriangular.universal_energy_minimum (openai/math, AI-generated, not peer reviewed): for every g with AdmissiblePotential g and every C with LocallyFinite C and DensityOne C, latticeEnergy g <= energy g C and latticeEnergy g = energy g A (energies in [0, infinity], energy = liminf of disk averages over ordered pairs). Certifies the statement about upstream's definitions only.",
+   "tier": "A",
+   "kind": "lean_axioms",
+   "depends_on": [],
+   "evidence": "sha256:36c1ad9431e9571552d3b4d29c6087f628ab39f25ee66e76ceb9d3bd6826b51d",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-A-0002",
+   "statement": "TriangularDensity.triangular_optimal_any_density (D2, 2026-10-10, imported unchanged): for rho > 0 and admissible h, (sqrt rho)^-1 A is locally finite with DensityRho rho and its h-energy is <= that of every locally finite DensityRho-rho configuration.",
+   "tier": "A",
+   "kind": "lean_axioms",
+   "depends_on": [
+    "DX-A-0001"
+   ],
+   "evidence": "sha256:4b608de0c740459f25e26e6f97a53ae05efa9cbabbc32dda1aabf657e1290246",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-A-0003",
+   "statement": "AutoresearchDipolar.dipolar_admissible: for d > 0 (hypothesis unused), g d = fun t => 2 (t^(-1/2) - (t + d^2)^(-1/2)) is AdmissiblePotential (C^infinity on (0, infinity), nonnegative, (-1)^r g^(r) >= 0).",
+   "tier": "A",
+   "kind": "lean_axioms",
+   "depends_on": [],
+   "evidence": "sha256:1599230a8db70c8eb0bc042ed66c0ea5285bcccc860e169d2cfceb74d3fe9b8e",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-A-0004",
+   "statement": "AutoresearchDipolar.triangular_dipolar_optimal: for d > 0 and every locally finite density-one C, latticeEnergy (g d) <= energy (g d) C.",
+   "tier": "A",
+   "kind": "lean_axioms",
+   "depends_on": [
+    "DX-A-0001",
+    "DX-A-0003"
+   ],
+   "evidence": "sha256:e22c49767d37c4bd7a2f2e2a5cc64f8774b9fa8f138a7f79a173f8c747b2ebbe",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-A-0005",
+   "statement": "AutoresearchDipolar.latticeEnergy_dipolar_lt_top: for every real d, latticeEnergy (g d) < top (via g d t <= d^2 t^(-3/2) and finiteness of the Riesz-3 lattice sum, TriangularRiesz.latticeEnergy_riesz_lt_top).",
+   "tier": "A",
+   "kind": "lean_axioms",
+   "depends_on": [],
+   "evidence": "sha256:c27cdf0fdfeedc2cc6bf15597f6b711d9652008bfd9ad721bcfae9ccc78ab91a",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-A-0006",
+   "statement": "Negative control AutoresearchDipolar.h_not_admissible: for d > 0, h d t = t^(-1/2) - 2 (t + d^2)^(-1/2) is not AdmissiblePotential (h d (d^2) < 0).",
+   "tier": "A",
+   "kind": "lean_axioms",
+   "depends_on": [],
+   "evidence": "sha256:0d99bc049ea2746bbacd78e1c3445b10fbdcc9e3890ecbaf26d487f2f065650d",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-A-0007",
+   "statement": "shiftDiff_admissible, admissible_const_mul, g_eq_shiftDiff, dipolar_admissible_all: for s > 0 and c >= 0, shiftDiff s c t = t^(-s/2) - (t + c)^(-s/2) is admissible; nonnegative multiples of admissible functions are admissible; g d = 2 shiftDiff 1 (d^2); hence g d is admissible for every real d.",
+   "tier": "A",
+   "kind": "lean_axioms",
+   "depends_on": [],
+   "evidence": "sha256:31d3d07296cabc5c6885ed0445cb22bc94462fa400651f01eee2766a8bad2e9a",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-A-0008",
+   "statement": "Negative control for the family: shiftDiff_neg_of_neg and shiftDiff_not_admissible_of_neg: for s > 0 and c < 0, shiftDiff s c (-2c) < 0, so shiftDiff s c is not admissible (the sign of c is load-bearing).",
+   "tier": "A",
+   "kind": "lean_axioms",
+   "depends_on": [],
+   "evidence": "sha256:b7e3db4b28718b7fe6a4997f7fc880b6f2341587f061d8810417a35eb5737474",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-A-0009",
+   "statement": "triangular_shiftDiff_optimal and triangular_shiftDiff_optimal_any_density: for s > 0, c >= 0 the triangular-lattice inequalities of DX-A-0001/DX-A-0002 hold for shiftDiff s c (at density one, and at every density rho > 0 for (sqrt rho)^-1 A). For s != 1 a mathematical generalisation only. No finiteness (non-vacuity) theorem is proved for this family; at c = 0 shiftDiff s 0 is identically 0, so the statement is then trivially 0 <= energy. Non-vacuity is proved for g d only (DX-A-0005, DX-A-0011).",
+   "tier": "A",
+   "kind": "lean_axioms",
+   "depends_on": [
+    "DX-A-0001",
+    "DX-A-0002",
+    "DX-A-0007"
+   ],
+   "evidence": "sha256:dd7fe268ef4b2fb3be5055c218ae84bdc405d546a5eeeddfc2b327b0da0b2bd8",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-A-0010",
+   "statement": "triangular_dipolar_optimal_any_density: for d > 0 and rho > 0, (sqrt rho)^-1 A is locally finite, has DensityRho rho, and energy (g d) ((sqrt rho)^-1 A) <= energy (g d) C for every locally finite DensityRho-rho configuration C.",
+   "tier": "A",
+   "kind": "lean_axioms",
+   "depends_on": [
+    "DX-A-0002",
+    "DX-A-0003"
+   ],
+   "evidence": "sha256:4178033c2ff4915cb514eb00e29409c0c337ea387a1c6117dcd20acd4c41caf4",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-A-0011",
+   "statement": "Non-vacuity at every density: g_scaled_le (g d (t/rho) <= d^2 rho^(3/2) t^(-3/2)), latticeEnergy_dipolar_scaled_lt_top and energy_dipolar_any_density_lt_top: for d > 0, rho > 0, energy (g d) ((sqrt rho)^-1 A) < top, so DX-A-0010 is not top <= top.",
+   "tier": "A",
+   "kind": "lean_axioms",
+   "depends_on": [
+    "DX-A-0002",
+    "DX-A-0003",
+    "DX-A-0005"
+   ],
+   "evidence": "sha256:b8f9291911e794dafa5b6a92faf5afe731e71ccf448f00a169689686e96411ca",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-A-0012",
+   "statement": "Planted controls (separate file DipolarExcitonMultipolarControls.lean, importing the built module) are caught by #print axioms: ctl_sorry depends on sorryAx and ctl_axiom on the planted axiom ctl_cheat; the file compiles with rc 0, so exit status is not the gate.",
+   "tier": "A",
+   "kind": "lean_axioms",
+   "depends_on": [],
+   "evidence": "sha256:5942c0e51168e45fc0309ce2d24b3d19ce9a3378024bb4e38854cdc7da50fb38",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-A-0013",
+   "statement": "AutoresearchDipolarStep1.g_sqrt, g_inplane, g_inplane_pos: for t > 0, g d t = 2 (1/sqrt t - 1/sqrt (t + d^2)); for r > 0, g d (r^2) = 2 (1/r - 1/sqrt (r^2 + d^2)); for d != 0 and r > 0, g d (r^2) > 0. Algebra of Step 1 only; the physical pair counting is DX-C-0001.",
+   "tier": "A",
+   "kind": "lean_axioms",
+   "depends_on": [],
+   "evidence": "sha256:9b35aeb7904316e0b0cc5b406333c985ab9ec5955c8de90266806851b60ca1d1",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-A-0014",
+   "statement": "Planted controls for the Step-1 module (separate file DipolarExcitonStep1Controls.lean): ctl1_sorry depends on sorryAx and ctl1_axiom on the planted axiom ctl1_cheat; ctl1_wrong_sign_false proves that the wrong-sign in-plane form is false at r = d = 1; the file compiles with rc 0.",
+   "tier": "A",
+   "kind": "lean_axioms",
+   "depends_on": [
+    "DX-A-0013"
+   ],
+   "evidence": "sha256:2b8db7a7c6bf7f99bdf3de3ca66d99e0d3e253734eae5f5c9b80147f28201894",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-L-0001",
+   "statement": "Petrache-Serfaty (arXiv:1908.09714v3): the Cohn-Kumar conjecture (universal minimality of the triangular lattice in dimension 2 among density-1 configurations for completely monotone functions of squared distance) 'remains open in dimension 2'; the lower energy is the liminf of ball averages (1.1); Riesz potentials are Gaussian superpositions (1.2).",
+   "tier": "L",
+   "kind": "citation",
+   "depends_on": [],
+   "evidence": "sha256:7b99964f138049d8914cd12f5c374d65d125b1d4fcd38cd564b08202c6a42f06",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-L-0002",
+   "statement": "Wang et al. (arXiv:2001.03812v5), MoSe2/WSe2 heterobilayers (h-BN encapsulated, 4 K): free interlayer-exciton gas only in the narrow density range around 1e11 ~ 1e12 cm^-2; trap-to-gas transition at n ~ 1-5e11 cm^-2; Mott transition at n_Mott = 1.6-3e12 cm^-2; moire potential wells of depth 10s-100 meV.",
+   "tier": "L",
+   "kind": "citation",
+   "depends_on": [],
+   "evidence": "sha256:1313b42147e74c60a8ae98403e72de7b5cb90b8829b20eff24c89a7d186b4cd8",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-L-0003",
+   "statement": "Choudhary et al. (JARVIS, arXiv:2007.01831v2; publication doi:10.1038/s41524-020-00440-1): JARVIS-DFT uses the vdW-DF-OptB88 functional (VASP) consistently, shown to give accurate lattice parameters for vdW-bonded materials.",
+   "tier": "L",
+   "kind": "citation",
+   "depends_on": [],
+   "evidence": "sha256:744e445cd2018a7c214579caa06b0974bc6bd99acc28df0fed106d1e316861c5",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-L-0004",
+   "statement": "HuggingFace colabfit/JARVIS_DFT_3D_12_12_2022 at revision f4de0085edcf92885870c67459363d2c7080c90b: card license 'unknown'; cites ColabFit doi:10.60732/e9e65ccd and publication doi:10.1038/s41524-020-00440-1; original data doi:10.6084/m9.figshare.6815699.",
+   "tier": "L",
+   "kind": "citation",
+   "depends_on": [],
+   "evidence": "sha256:40a0e1f0b43d60913dbd56c804dcb14dbc695070ee96bbe46d7f3d58ac206ac5",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-C-0001",
+   "statement": "Physics model: two rigid vertical dipoles (electron above hole, layer separation d) at in-plane distance r interact by e-e + h-h = 2/r and two cross pairs -2/sqrt(r^2 + d^2), in units e^2/(4 pi eps); in t = r^2 this is g d. For r > 0, g d (r^2) = 2 (1/r - 1/sqrt(r^2 + d^2)). The algebraic identity is now kernel-checked (DX-A-0013); the pair counting (which charges, which distances, dropping the intra-exciton binding) is the physical reading and stays an argument.",
+   "tier": "C",
+   "kind": "argument",
+   "depends_on": [
+    "DX-A-0013"
+   ],
+   "evidence": "sha256:78473ac2e8fdeeb21cbe26e15f2c93db91af6cb88a2129d85ab2bee9fbb3502e",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-C-0002",
+   "statement": "Gloss of DX-A-0004/DX-A-0010: within the classical, zero-temperature, rigid-dipole, unscreened model of DX-C-0001, no locally finite configuration of the given density has lower (liminf) energy than the triangular lattice, conditional on upstream DX-A-0001 and on definition fidelity. It says nothing about uniqueness, quantum excitons, screening, moire potentials, separate e/h crystals or the e-h plasma.",
+   "tier": "C",
+   "kind": "argument",
+   "depends_on": [
+    "DX-A-0004",
+    "DX-A-0010",
+    "DX-C-0001"
+   ],
+   "evidence": "sha256:3a16a932ea4780af118d99cc1ede4ab8971193d6c90e6b7c41817ed0a6199cda",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-C-0003",
+   "statement": "Novelty: complete monotonicity of t^(-1/2) - (t + c)^(-1/2) is elementary (Bernstein: it equals the integral of e^(-ut)(1 - e^(-uc)) u^(-1/2)/sqrt(pi) du); given upstream the optimality corollary is immediate. A literature search (alphaXiv, 2026-10-25; absence by search, not proof) found no explicit statement for the bilayer potential; the only new item is the explicit kernel-checked corollary.",
+   "tier": "C",
+   "kind": "argument",
+   "depends_on": [
+    "DX-L-0001"
+   ],
+   "evidence": "sha256:d2e4e6941c9af11271daf5e3e11c3728ac1ee6fcbcdcce9c4d148beb0132bef7",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-C-0004",
+   "statement": "Scaling identity g_d(t/rho) = sqrt(rho) g_{d sqrt(rho)}(t): density rho at separation d is density one at separation d sqrt(rho), with energies multiplied by sqrt(rho). Not kernel-checked (DX-A-0010 does not need it); used to define d_tilde = d sqrt(n) in the numerics.",
+   "tier": "C",
+   "kind": "argument",
+   "depends_on": [],
+   "evidence": "sha256:9030941c30cd0a0e8a2a7ee156233b7057df5ed744b32b7a22fd1ac5d5ca3fbe",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-C-0005",
+   "statement": "Proxy assumption: the electron-hole separation d of a MoSe2/WSe2 interlayer exciton is approximated by the adjacent metal-plane spacing of MoSe2 and WSe2 homo-stacks computed with OptB88vdW; real carrier centroids, stacking and heterostructure relaxation differ.",
+   "tier": "C",
+   "kind": "argument",
+   "depends_on": [
+    "DX-L-0003"
+   ],
+   "evidence": "sha256:3b78ca8ef8fe50f98a4a5c225124ba600e4264b815a2a302d367c9d47df18695",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-C-0006",
+   "statement": "Normalisation: the Rust per-particle energy e is (1/2) sum over nonzero lattice vectors of U = V/d^2 at density one, so latticeEnergy (g d) (ordered-pair convention, sum over all nonzero lattice points) equals 2 d^2 e_tri in the same length units.",
+   "tier": "C",
+   "kind": "argument",
+   "depends_on": [
+    "DX-C-0001"
+   ],
+   "evidence": "sha256:a5e2263f29bcb239b0aae53468bd6d084286ec6d3b83d0bc735813893ffe6981",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-C-0007",
+   "statement": "Regime: with d = 0.66 nm, n = 1e11 cm^-2 lies at the lower edge of the free-gas window and below or at the trap-to-gas transition (moire-trapped regime), n = 1e12 inside the window, n = 3e12 at or above n_Mott; the samples are h-BN encapsulated, so the eps_r = 1 energy scales are upper bounds (divide by the effective eps_r), and moire depths of 10s-100 meV dominate the sub-meV lattice gaps.",
+   "tier": "C",
+   "kind": "argument",
+   "depends_on": [
+    "DX-L-0002",
+    "DX-C-0005"
+   ],
+   "evidence": "sha256:45f318d2ed36827be3271e1b9910f2171a7991dc92770fabec23f6f660759323",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-X-0001",
+   "statement": "Exact (Ewald) energies: Rust Ewald vs independent Python Ewald (scipy quad, eta = 1.0) agree to <= 1.9e-13 relative (tri and square, five d); Python direct sums R = 100..400 plus exact tail agree to <= 1.9e-5 (oscillating lattice-minus-continuum residual); dropping the tail (negative control) gives 3.14e-2; Rust e_tri at eta 0.6/0.8/1.2 agree to <= 1.3e-13 relative (1.32e-13; an earlier note said 1.5e-13) and to <= 4.8e-13 over the 41-point grid d in [0.01, 3]; 288-particle box vs primitive cell <= 2.6e-14.",
+   "tier": "X",
+   "kind": "numeric",
+   "depends_on": [
+    "DX-C-0001"
+   ],
+   "evidence": "sha256:80ead07b10b00a8f27d8442f9051d19089ba7941dffcb6188500eb14752dcfdb",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-X-0002",
+   "statement": "Lattice gaps (exact): e_sq/e_tri - 1 falls from 1.58e-2 (d_tilde = 0.01) to 1.36e-3 (d_tilde = 3) and e_hc/e_tri - 1 from 9.53e-2 to 8.75e-3 on the 41-point grid; both positive everywhere sampled. Two competitor lattices only.",
+   "tier": "X",
+   "kind": "numeric",
+   "depends_on": [
+    "DX-C-0001"
+   ],
+   "evidence": "sha256:66d4f5debe28c4bb2985669f74cdd718ec73baf56c0a1faa7220b54ef8bf8adf",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-X-0003",
+   "statement": "Controls at all five d (0.0209, 0.066, 0.114, 0.3, 1): perfect and noisy triangular lattices relax back (|rel gap| <= 2.6e-14, 0 defects, 0 negative Hessian modes); the square lattice is a saddle of the dynamics potential (64-72 negative modes) and square+noise relaxes to a distorted state with rel gap 1.73e-3..4.77e-3; incommensurate boxes (d = 0.066) stay defected (rel gaps 2.0e-3, 7.9e-4).",
+   "tier": "X",
+   "kind": "numeric",
+   "depends_on": [
+    "DX-X-0001"
+   ],
+   "evidence": "sha256:e6d27200f254d46b0f5cf5a21f7470051a4d8162b78948fbe9a0765750e240c1",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-X-0004",
+   "statement": "Preregistered P1 (DIP-TRI-1): 0 of 21 relaxed competitors (12 T=0 quenches, 2 anneals, 2 incommensurate boxes, 5 square+noise; d = 0.0209, 0.066, 1 for the quenches) lies below the exact triangular energy by more than 1e-9 relative; most negative competitor rel gap -2.3e-14; smallest gap among states not at the lattice 1.54e-4; |gap_exact - gap_sf| <= 1.6e-5. 3/12 quenches (all from seed 501) and 1/2 anneals reach the lattice. Of the 21, only 14 (12 quenches + 2 anneals) are open searches; the 2 incommensurate boxes and 5 square+noise relaxations are designed negative controls. anneal_01 and uniform_04 (d = 0.066, different seeds) end in the same state (e_exact 4.43936745573261, psi6 0.998112), so independent outcomes are fewer than 21. Deviations from DIP-TRI-1: reduced run counts at d = 0.0209 and 1, none at 0.114 and 0.3; first attempts at d = 0.0209 and d = 1 were killed after about 34 min (budget) and their finished jobs were never printed (driver kept them in memory; fix 916fc88); reported energies are Ewald energies, not the preregistered image sum plus tail (reported_potential), because the truncated residual is non-monotone (DX-X-0005).",
+   "tier": "X",
+   "kind": "numeric",
+   "depends_on": [
+    "DX-X-0001",
+    "DX-X-0003"
+   ],
+   "evidence": "sha256:178067ff74a7aea401e57335b6df74c03f7d0ce688b11ee32035d8568d6ec36c",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-X-0005",
+   "statement": "Truncation residual: at d = 0.066, |e_tri(R) - e_tri^Ewald| with exact uniform tail is 1.7e-3 (R = 8), 7.9e-5 (16), 6.6e-7 (32), 4.0e-5 (64), 7.6e-7 (128), 2.5e-7 (256), not monotone; reported gaps are therefore Ewald gaps.",
+   "tier": "X",
+   "kind": "numeric",
+   "depends_on": [
+    "DX-X-0001"
+   ],
+   "evidence": "sha256:a524359466f8753c31f6ff680dd8169411965b51b10406b51698375c39b2ff9a",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-X-0006",
+   "statement": "HuggingFace illustration: from colabfit/JARVIS_DFT_3D_12_12_2022 (rev f4de0085edcf92885870c67459363d2c7080c90b, co/co_0.parquet) the adjacent metal-plane spacings of semiconducting TMD homo-stacks are MoSe2 6.5827 A (3 slabs, 6 spacings), WSe2 6.6151 A (1 slab), MoS2 6.2371 A (bulk-like cell); proxy d = 6.599 A gives d_tilde = 0.0209 / 0.0660 / 0.1143 at n = 1e11 / 1e12 / 3e12 cm^-2. 26 Hub queries found no heterobilayer or interlayer-separation dataset.",
+   "tier": "X",
+   "kind": "numeric",
+   "depends_on": [
+    "DX-L-0003",
+    "DX-L-0004",
+    "DX-C-0005",
+    "DX-C-0004"
+   ],
+   "evidence": "sha256:eea9f4809c978e9835c43e9205a5b5f3346abc55ef2c47c617602b26f9fdbfb2",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-X-0007",
+   "statement": "Physical scale (unscreened, eps_r = 1): square-minus-triangular gap per exciton 0.0014 / 0.044 / 0.223 meV at n = 1e11 / 1e12 / 3e12 cm^-2 (physical d_tilde^2 times the gap evaluated at the simulated d_tilde 0.0209 / 0.066 / 0.114; the stage-4 auditor, evaluating at the physical d_tilde 0.1143, gets 0.224 meV at 3e12), about 1.5 to 5 orders of magnitude below moire depths of 10s-100 meV; divide by eps_r.",
+   "tier": "X",
+   "kind": "numeric",
+   "depends_on": [
+    "DX-X-0002",
+    "DX-X-0006",
+    "DX-C-0007"
+   ],
+   "evidence": "sha256:0ae853e652b84a653fa4a6e25bf2278da5af56b78dbe57bf5c420c4ef426f6fe",
+   "audit": null
+  },
+  {
+   "schema_version": 1,
+   "id": "DX-X-0008",
+   "statement": "Paper-stage reruns by the same agent pipeline (not independent human verification): cargo test -p qf-yukawa-crystal at the branch HEAD: 28 passed, 0 failed, 1 ignored; Lean source sha256 values match those recorded in FORMAL.md; Lean recompile of the controls file (imports the stage-1 oleans): rc 0 in 755.4 s, axiom output identical to stage 1; Lean recompile of the Multipolar source without writing oleans (imports the prior-round DipolarExciton olean): rc 0 in 660.7 s, axiom output identical to compile_attempt1.json. Same AI pipeline; not producer != verifier.",
+   "tier": "X",
+   "kind": "numeric",
+   "depends_on": [],
+   "evidence": "sha256:71e207912d6da269e94fc05e0ab6644f6702ad56f6baa65d6b9238aa0a44338d",
+   "audit": null
+  }
+ ]
+}

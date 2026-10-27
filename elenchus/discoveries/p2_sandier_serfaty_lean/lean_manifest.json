@@ -1,0 +1,879 @@
+{
+ "slug": "p2_sandier_serfaty_lean",
+ "files": [
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/Asserts.lean",
+   "aliases": [
+    "Asserts.lean",
+    "formal_cert/Programmes/SandierSerfaty/Asserts.lean"
+   ],
+   "recorded_sha256": [
+    "8867bbd1223bebe356b482f979a2f4ef2e9e8ab86a7f4ea7405d407bf644865b"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json",
+    "ledger evidence"
+   ],
+   "current_sha256": "8867bbd1223bebe356b482f979a2f4ef2e9e8ab86a7f4ea7405d407bf644865b",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/Asserts.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/Axioms.lean",
+   "aliases": [
+    "Axioms.lean"
+   ],
+   "recorded_sha256": [
+    "40045ba27247c73de72733c0afc32145edf4419568758a290de3dc363eaecb6c"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "40045ba27247c73de72733c0afc32145edf4419568758a290de3dc363eaecb6c",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/Axioms.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/AxiomsAll.lean",
+   "aliases": [
+    "AxiomsAll.lean"
+   ],
+   "recorded_sha256": [
+    "eb173c85476983939a2aa4de94ecbc2e8fee3e128f4f4a7738acb59367615dd5"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "eb173c85476983939a2aa4de94ecbc2e8fee3e128f4f4a7738acb59367615dd5",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/AxiomsAll.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/AxiomsCalcK.lean",
+   "aliases": [
+    "AxiomsCalcK.lean"
+   ],
+   "recorded_sha256": [
+    "cf323f9069323d1ad4b3ca214ec5d803b566334ec18b6b54949b224929cb4c49"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "cf323f9069323d1ad4b3ca214ec5d803b566334ec18b6b54949b224929cb4c49",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/AxiomsCalcK.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/Bcons.lean",
+   "aliases": [
+    "Bcons.lean",
+    "formal_cert/Programmes/SandierSerfaty/Bcons.lean"
+   ],
+   "recorded_sha256": [
+    "9e0af8f6e1b468682919d3f3eb22d536eb20212fb4f5ca8cf68048c82c8d73d9"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json",
+    "ledger evidence"
+   ],
+   "current_sha256": "9e0af8f6e1b468682919d3f3eb22d536eb20212fb4f5ca8cf68048c82c8d73d9",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/Bcons.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/Bridge.lean",
+   "aliases": [
+    "Bridge.lean",
+    "formal_cert/Programmes/SandierSerfaty/Bridge.lean"
+   ],
+   "recorded_sha256": [
+    "f8374c9944a62b239ebc79b0048bbfc64396fdd297254693626aee5e348ef6b8"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json",
+    "ledger evidence"
+   ],
+   "current_sha256": "f8374c9944a62b239ebc79b0048bbfc64396fdd297254693626aee5e348ef6b8",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/Bridge.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcControls.lean",
+   "aliases": [
+    "CalcControls.lean",
+    "formal_cert/Programmes/SandierSerfaty/CalcControls.lean"
+   ],
+   "recorded_sha256": [
+    "18705134969a253e41cadbdc16664be3175db254e54782945d3cbcdb116b06cf"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json",
+    "ledger evidence"
+   ],
+   "current_sha256": "18705134969a253e41cadbdc16664be3175db254e54782945d3cbcdb116b06cf",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcControls.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcControlsReject.lean",
+   "aliases": [
+    "CalcControlsReject.lean"
+   ],
+   "recorded_sha256": [
+    "fe813cbaf09282933e74b5720ee543f488052a0535de5bf36cd5b8583c5a4dc1"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "fe813cbaf09282933e74b5720ee543f488052a0535de5bf36cd5b8583c5a4dc1",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcControlsReject.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcK.lean",
+   "aliases": [
+    "CalcK.lean",
+    "formal_cert/Programmes/SandierSerfaty/CalcK.lean"
+   ],
+   "recorded_sha256": [
+    "ed4b5bcf80438b0937f9ee1e402d1f06391c6f7d740d2d9f12d131e1e0bdbc7f"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json",
+    "ledger evidence"
+   ],
+   "current_sha256": "ed4b5bcf80438b0937f9ee1e402d1f06391c6f7d740d2d9f12d131e1e0bdbc7f",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcK.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcKCore.lean",
+   "aliases": [
+    "CalcKCore.lean",
+    "formal_cert/Programmes/SandierSerfaty/CalcKCore.lean"
+   ],
+   "recorded_sha256": [
+    "ad540325a0a3f70e6fe91379fa5ed8d409328a9496b38cb474a36e69a18af7af"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json",
+    "ledger evidence"
+   ],
+   "current_sha256": "ad540325a0a3f70e6fe91379fa5ed8d409328a9496b38cb474a36e69a18af7af",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcKCore.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcKF0.lean",
+   "aliases": [
+    "CalcKF0.lean"
+   ],
+   "recorded_sha256": [
+    "8a9b9473f6e3c4d88b28bd7e708100aaf43377db5c333ff29e8c6415cd5b5b37"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "8a9b9473f6e3c4d88b28bd7e708100aaf43377db5c333ff29e8c6415cd5b5b37",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcKF0.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcKF1.lean",
+   "aliases": [
+    "CalcKF1.lean"
+   ],
+   "recorded_sha256": [
+    "cc98ef006ca4d206dd155de58bba5459edaec3b02193ae12798381d44b4a2de7"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "cc98ef006ca4d206dd155de58bba5459edaec3b02193ae12798381d44b4a2de7",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcKF1.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcKF2.lean",
+   "aliases": [
+    "CalcKF2.lean"
+   ],
+   "recorded_sha256": [
+    "04148206eecb3b13b5e3f1cf754efb9af410610d0b90883f9fae3ad052c532b3"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "04148206eecb3b13b5e3f1cf754efb9af410610d0b90883f9fae3ad052c532b3",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcKF2.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcKF3.lean",
+   "aliases": [
+    "CalcKF3.lean"
+   ],
+   "recorded_sha256": [
+    "b963c3d6a1e403ba59870f497af6062d496f4dbc9157d1f841a6ed46e7cd52f7"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "b963c3d6a1e403ba59870f497af6062d496f4dbc9157d1f841a6ed46e7cd52f7",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcKF3.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcKF4.lean",
+   "aliases": [
+    "CalcKF4.lean"
+   ],
+   "recorded_sha256": [
+    "e5461c4df0b22037407f5aa01065627b18c583b43c13e8fcc77005415f83e462"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "e5461c4df0b22037407f5aa01065627b18c583b43c13e8fcc77005415f83e462",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcKF4.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcKF5.lean",
+   "aliases": [
+    "CalcKF5.lean"
+   ],
+   "recorded_sha256": [
+    "50e0141320d65efdb3fb613bb9e4a8db53a3497119bce5d24650bbc57a4e1e7f"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "50e0141320d65efdb3fb613bb9e4a8db53a3497119bce5d24650bbc57a4e1e7f",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcKF5.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcKF6.lean",
+   "aliases": [
+    "CalcKF6.lean"
+   ],
+   "recorded_sha256": [
+    "58bc544aeaba83cf2a66b103cb5037ca5b8f4a809bb2cfe6d3d35164e7c3e079"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "58bc544aeaba83cf2a66b103cb5037ca5b8f4a809bb2cfe6d3d35164e7c3e079",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcKF6.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcKF7.lean",
+   "aliases": [
+    "CalcKF7.lean"
+   ],
+   "recorded_sha256": [
+    "74ac89d0325be6f75e37a7c07027bc34dc9031c5bc77b18c44c0e8ca5f94adb4"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "74ac89d0325be6f75e37a7c07027bc34dc9031c5bc77b18c44c0e8ca5f94adb4",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcKF7.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcKPilot.lean",
+   "aliases": [
+    "CalcKPilot.lean"
+   ],
+   "recorded_sha256": [
+    "41d3087ddb4ad88ecc585c11a1241048a3a2bab91bae27008d40f7a6b7ba9b6d"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "41d3087ddb4ad88ecc585c11a1241048a3a2bab91bae27008d40f7a6b7ba9b6d",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcKPilot.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcKReject.lean",
+   "aliases": [
+    "CalcKReject.lean"
+   ],
+   "recorded_sha256": [
+    "1aae3eefa5cffb4d75c41b5eb087a786374da8ddc36e9eb6de855d06646572c1"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "1aae3eefa5cffb4d75c41b5eb087a786374da8ddc36e9eb6de855d06646572c1",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcKReject.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcKS0.lean",
+   "aliases": [
+    "CalcKS0.lean"
+   ],
+   "recorded_sha256": [
+    "5e7524a56898fa4096d2a914e8256a578f599b96a246401ca21038bbadd9821e"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "5e7524a56898fa4096d2a914e8256a578f599b96a246401ca21038bbadd9821e",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcKS0.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcKS1.lean",
+   "aliases": [
+    "CalcKS1.lean"
+   ],
+   "recorded_sha256": [
+    "1b1fba87483ef77c42b0ad1f3d8445edd7ee20c38f55d2aa201c4ace3d9dc408"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "1b1fba87483ef77c42b0ad1f3d8445edd7ee20c38f55d2aa201c4ace3d9dc408",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcKS1.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcKS2.lean",
+   "aliases": [
+    "CalcKS2.lean"
+   ],
+   "recorded_sha256": [
+    "1090cbcf14272aa46f09ef04bc56fdf95f2539ce9b1fdfa02542429ef8b649b9"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "1090cbcf14272aa46f09ef04bc56fdf95f2539ce9b1fdfa02542429ef8b649b9",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcKS2.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcKS3.lean",
+   "aliases": [
+    "CalcKS3.lean"
+   ],
+   "recorded_sha256": [
+    "20580894360b15466fa2189a40fb336d12679bc57d6ceffded1cba91c287cb4e"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "20580894360b15466fa2189a40fb336d12679bc57d6ceffded1cba91c287cb4e",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcKS3.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLam.lean",
+   "aliases": [
+    "CalcLam.lean",
+    "formal_cert/Programmes/SandierSerfaty/CalcLam.lean"
+   ],
+   "recorded_sha256": [
+    "a54d5ad263b8a41c5fc2b3a04c3694fc51d8a98954592a0683849436a9b370dd"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json",
+    "ledger evidence"
+   ],
+   "current_sha256": "a54d5ad263b8a41c5fc2b3a04c3694fc51d8a98954592a0683849436a9b370dd",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLam.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamCore.lean",
+   "aliases": [
+    "CalcLamCore.lean",
+    "formal_cert/Programmes/SandierSerfaty/CalcLamCore.lean"
+   ],
+   "recorded_sha256": [
+    "411f2e3fc8ec7bb16d88f7b3241e985ac38eccac1e1ce58501450da252d70089"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json",
+    "ledger evidence"
+   ],
+   "current_sha256": "411f2e3fc8ec7bb16d88f7b3241e985ac38eccac1e1ce58501450da252d70089",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamCore.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamE0.lean",
+   "aliases": [
+    "CalcLamE0.lean"
+   ],
+   "recorded_sha256": [
+    "2cf3bdff2d9547cf5ce1f61829e156458734451f8ba285c435f13999bd77369a"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "2cf3bdff2d9547cf5ce1f61829e156458734451f8ba285c435f13999bd77369a",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamE0.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamE1.lean",
+   "aliases": [
+    "CalcLamE1.lean"
+   ],
+   "recorded_sha256": [
+    "bbbb1c8d152babc4203d8c4a52f5d2cd382b9d9284d525f7ce3337e307294cdd"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "bbbb1c8d152babc4203d8c4a52f5d2cd382b9d9284d525f7ce3337e307294cdd",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamE1.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamE2.lean",
+   "aliases": [
+    "CalcLamE2.lean"
+   ],
+   "recorded_sha256": [
+    "044459ad5b46d6697ab2f99bfcbabf4be669ceb39b4a207120113728d2cbc61f"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "044459ad5b46d6697ab2f99bfcbabf4be669ceb39b4a207120113728d2cbc61f",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamE2.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamE3.lean",
+   "aliases": [
+    "CalcLamE3.lean"
+   ],
+   "recorded_sha256": [
+    "267a4e6676c980d0a18fc909ed74e16f3a431b535ed07ff2d49a3d3b6dea7714"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "267a4e6676c980d0a18fc909ed74e16f3a431b535ed07ff2d49a3d3b6dea7714",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamE3.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamE4.lean",
+   "aliases": [
+    "CalcLamE4.lean"
+   ],
+   "recorded_sha256": [
+    "3718c802e5183bdf29472cb860c600884e2fd0b798f08c5e62f53b4922eee29f"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "3718c802e5183bdf29472cb860c600884e2fd0b798f08c5e62f53b4922eee29f",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamE4.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamE5.lean",
+   "aliases": [
+    "CalcLamE5.lean"
+   ],
+   "recorded_sha256": [
+    "bcf5345c634938abef5b9aac65941290f6f4907ec4702978adfc61597050ca99"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "bcf5345c634938abef5b9aac65941290f6f4907ec4702978adfc61597050ca99",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamE5.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamE6.lean",
+   "aliases": [
+    "CalcLamE6.lean"
+   ],
+   "recorded_sha256": [
+    "3b5e8a5384c4f6d623c1bb7310d5645af524bc85c7abe77eac4c33e8681d87b0"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "3b5e8a5384c4f6d623c1bb7310d5645af524bc85c7abe77eac4c33e8681d87b0",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamE6.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamE7.lean",
+   "aliases": [
+    "CalcLamE7.lean"
+   ],
+   "recorded_sha256": [
+    "b8f52ba2782d930ac91e5611a4d33afd12534c01bff9853736560cf5ebc14f8c"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "b8f52ba2782d930ac91e5611a4d33afd12534c01bff9853736560cf5ebc14f8c",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamE7.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamE8.lean",
+   "aliases": [
+    "CalcLamE8.lean"
+   ],
+   "recorded_sha256": [
+    "d89ffef8e0cf7f5af04c102e2c8d76fc8b88c06791e53231c276a0a13595d7a3"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "d89ffef8e0cf7f5af04c102e2c8d76fc8b88c06791e53231c276a0a13595d7a3",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamE8.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamE9.lean",
+   "aliases": [
+    "CalcLamE9.lean"
+   ],
+   "recorded_sha256": [
+    "ed3785d4581b7121d2730d200f2b35c937af3c51b07c3afc57236a4717598fc0"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "ed3785d4581b7121d2730d200f2b35c937af3c51b07c3afc57236a4717598fc0",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamE9.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamF0.lean",
+   "aliases": [
+    "CalcLamF0.lean"
+   ],
+   "recorded_sha256": [
+    "53760f39fe58d451941f6df5cf341d5662590e9492f9d5b216e03cdb68681aca"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "53760f39fe58d451941f6df5cf341d5662590e9492f9d5b216e03cdb68681aca",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamF0.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamF1.lean",
+   "aliases": [
+    "CalcLamF1.lean"
+   ],
+   "recorded_sha256": [
+    "889a3c1a3c234aeafcf40cb83f22e9282813c92ade90ce508244a1fc5768fc31"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "889a3c1a3c234aeafcf40cb83f22e9282813c92ade90ce508244a1fc5768fc31",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamF1.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamF2.lean",
+   "aliases": [
+    "CalcLamF2.lean"
+   ],
+   "recorded_sha256": [
+    "c00e1f7e0c68194d023c49fbd7a949f49f4de1cd89a6c777c11170816ab4f48b"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "c00e1f7e0c68194d023c49fbd7a949f49f4de1cd89a6c777c11170816ab4f48b",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamF2.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamF3.lean",
+   "aliases": [
+    "CalcLamF3.lean"
+   ],
+   "recorded_sha256": [
+    "6543a1cfd861d933d18860ad43dd2605724e09887c247010272967e13e26f14b"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "6543a1cfd861d933d18860ad43dd2605724e09887c247010272967e13e26f14b",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamF3.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamF4.lean",
+   "aliases": [
+    "CalcLamF4.lean"
+   ],
+   "recorded_sha256": [
+    "cbb4edfbcd8f5870e956f3b602ac0c810a5ba6a817cb343a664d20c43d582396"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "cbb4edfbcd8f5870e956f3b602ac0c810a5ba6a817cb343a664d20c43d582396",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamF4.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamF5.lean",
+   "aliases": [
+    "CalcLamF5.lean"
+   ],
+   "recorded_sha256": [
+    "680aa10a6d1b2903fa0724323bdd28950c92cdc0120fdeb393718ec69a85504d"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "680aa10a6d1b2903fa0724323bdd28950c92cdc0120fdeb393718ec69a85504d",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamF5.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamF6.lean",
+   "aliases": [
+    "CalcLamF6.lean"
+   ],
+   "recorded_sha256": [
+    "7dff7fa1ce8dbfc06381a1b324a2fdafb4b61f1d45af13fb9586280deeeb1788"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "7dff7fa1ce8dbfc06381a1b324a2fdafb4b61f1d45af13fb9586280deeeb1788",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamF6.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamF7.lean",
+   "aliases": [
+    "CalcLamF7.lean"
+   ],
+   "recorded_sha256": [
+    "46088dec3ede70ced8ca63078cb9591222f11a896346b3e6a87fa0b163d5d0b5"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "46088dec3ede70ced8ca63078cb9591222f11a896346b3e6a87fa0b163d5d0b5",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamF7.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamF8.lean",
+   "aliases": [
+    "CalcLamF8.lean"
+   ],
+   "recorded_sha256": [
+    "e230acb44908512dca371ac36daa3658b67618c2f6b78569169f7783748629e2"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "e230acb44908512dca371ac36daa3658b67618c2f6b78569169f7783748629e2",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamF8.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/CalcLamF9.lean",
+   "aliases": [
+    "CalcLamF9.lean"
+   ],
+   "recorded_sha256": [
+    "ebb10bb7001aa86c474a235129b89badce1dbb8eca59da65f83528e0c833509c"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "ebb10bb7001aa86c474a235129b89badce1dbb8eca59da65f83528e0c833509c",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/CalcLamF9.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/Chain.lean",
+   "aliases": [
+    "Chain.lean",
+    "formal_cert/Programmes/SandierSerfaty/Chain.lean"
+   ],
+   "recorded_sha256": [
+    "6e3fc2abae2badf60d797694c38679602f666315b4798573fd0b761d6225d055"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json",
+    "ledger evidence"
+   ],
+   "current_sha256": "6e3fc2abae2badf60d797694c38679602f666315b4798573fd0b761d6225d055",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/Chain.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/ChainLink.lean",
+   "aliases": [
+    "formal_cert/Programmes/SandierSerfaty/ChainLink.lean"
+   ],
+   "recorded_sha256": [
+    "ecb144e19dfde7001fa608e8e2f62e6e43a6a6a169ab5bfa946346add4a1d136"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "ecb144e19dfde7001fa608e8e2f62e6e43a6a6a169ab5bfa946346add4a1d136",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/ChainLink.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/Constants.lean",
+   "aliases": [
+    "Constants.lean",
+    "formal_cert/Programmes/SandierSerfaty/Constants.lean"
+   ],
+   "recorded_sha256": [
+    "758eef1e4a64de2a134e7c76f1919f43a52b379b9d90d52465fc49980f57ad62"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json",
+    "ledger evidence"
+   ],
+   "current_sha256": "758eef1e4a64de2a134e7c76f1919f43a52b379b9d90d52465fc49980f57ad62",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/Constants.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/Controls.lean",
+   "aliases": [
+    "Controls.lean",
+    "formal_cert/Programmes/SandierSerfaty/Controls.lean"
+   ],
+   "recorded_sha256": [
+    "09d16c4d2d3deacd66500f5f97b29eb56d75e27559daed618f7bc777d14fb806"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json",
+    "ledger evidence"
+   ],
+   "current_sha256": "09d16c4d2d3deacd66500f5f97b29eb56d75e27559daed618f7bc777d14fb806",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/Controls.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/ControlsReject.lean",
+   "aliases": [
+    "ControlsReject.lean"
+   ],
+   "recorded_sha256": [
+    "1d50d3c59b79692d59ae48f89b74b774bc87b8e7b0c161281dc7080c809dc069"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "1d50d3c59b79692d59ae48f89b74b774bc87b8e7b0c161281dc7080c809dc069",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/ControlsReject.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/IV.lean",
+   "aliases": [
+    "IV.lean",
+    "formal_cert/Programmes/SandierSerfaty/IV.lean"
+   ],
+   "recorded_sha256": [
+    "1dd54660a9d75e6e705874d9b482b226fc34dcf91287b6c0231fd72192824b9f"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json",
+    "ledger evidence"
+   ],
+   "current_sha256": "1dd54660a9d75e6e705874d9b482b226fc34dcf91287b6c0231fd72192824b9f",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/IV.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfaty/SignedEndpoints.lean",
+   "aliases": [
+    "SignedEndpoints.lean",
+    "formal_cert/Programmes/SandierSerfaty/SignedEndpoints.lean"
+   ],
+   "recorded_sha256": [
+    "ec046f04865f51355d4b560ec22880f80203f568e1bdf9a517a2a14d7faba2ac"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json",
+    "ledger evidence"
+   ],
+   "current_sha256": "ec046f04865f51355d4b560ec22880f80203f568e1bdf9a517a2a14d7faba2ac",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfaty/SignedEndpoints.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  }
+ ]
+}

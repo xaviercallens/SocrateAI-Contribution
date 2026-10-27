@@ -1,0 +1,70 @@
+{
+ "slug": "triangular_riesz",
+ "files": [
+  {
+   "ref": "<producer-repo>/formal_cert/Triangular/AnyDensity.lean",
+   "aliases": [
+    "formal_cert/Triangular/AnyDensity.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "0a6d86eef3ee24b2b6828ff602707868e160969bfbebc41db375c05b383c5168",
+   "copied_to": "lean/formal_cert/Triangular/AnyDensity.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (63b24aaf9802)",
+   "pub_commit": "63b24aaf98023706fe5ca8f3c5b6c46dfa1f353d",
+   "pub_sha256": "0a6d86eef3ee24b2b6828ff602707868e160969bfbebc41db375c05b383c5168"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Triangular/Axioms.lean",
+   "aliases": [
+    "formal_cert/Triangular/Axioms.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "ee1066a538f0ee199216705fc5ad26eb8d3dba2f71f5385e6466fb693c0931bf",
+   "copied_to": "lean/formal_cert/Triangular/Axioms.lean",
+   "upstream": null,
+   "status": "copied AT PUBLICATION COMMIT 9eb1773f0e7b (the file changed later; HEAD sha256 ba2ec76ae5acd245... differs)",
+   "pub_commit": "9eb1773f0e7b2bc394d4b685df29cf1f88327f49",
+   "pub_sha256": "ee1066a538f0ee199216705fc5ad26eb8d3dba2f71f5385e6466fb693c0931bf",
+   "head_sha256": "ba2ec76ae5acd245f5211346b44a9376044f2080b32db084fa7f3d2c61bc08e5"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Triangular/Riesz.lean",
+   "aliases": [
+    "formal_cert/Triangular/Riesz.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "a99c2024b065360bc027ab05bd08b1fbc3335545dbf0815bcf7ee619e2e4b23b",
+   "copied_to": "lean/formal_cert/Triangular/Riesz.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (8912d764bcfb)",
+   "pub_commit": "8912d764bcfb2c6067582b3b8f22ea858016d36f",
+   "pub_sha256": "a99c2024b065360bc027ab05bd08b1fbc3335545dbf0815bcf7ee619e2e4b23b"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Triangular/RieszFinite.lean",
+   "aliases": [
+    "formal_cert/Triangular/RieszFinite.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "7aa2f523e83a1d9e981e3610c05acda030aa268c005d8681d6ef2daa4bd57f01",
+   "copied_to": "lean/formal_cert/Triangular/RieszFinite.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (4d5a6b3f1296)",
+   "pub_commit": "4d5a6b3f1296a1a6f5e4e715c0b696a6526f29cc",
+   "pub_sha256": "7aa2f523e83a1d9e981e3610c05acda030aa268c005d8681d6ef2daa4bd57f01"
+  }
+ ]
+}

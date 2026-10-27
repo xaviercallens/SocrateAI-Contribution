@@ -1,0 +1,101 @@
+{
+ "slug": "certified_bao",
+ "files": [
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/Axioms.lean",
+   "aliases": [
+    "formal_cert/BAOCert/Axioms.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "eaa2b561449d235fbea1bc4a2eab7059e195762aaa3da82510a3e587612e15c4",
+   "copied_to": "lean/formal_cert/BAOCert/Axioms.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7e26b9cbc83a)",
+   "pub_commit": "7e26b9cbc83a22ae603a7473d1cbb968bb189d37",
+   "pub_sha256": "eaa2b561449d235fbea1bc4a2eab7059e195762aaa3da82510a3e587612e15c4"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/Core.lean",
+   "aliases": [
+    "formal_cert/BAOCert/Core.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "73ad1bb2bcec5744cc03a738a011509223f938d82eb88a6c083aab6b1035da14",
+   "copied_to": "lean/formal_cert/BAOCert/Core.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (04ad62f74250)",
+   "pub_commit": "04ad62f7425013afee36914f222fc1a0a78b19cc",
+   "pub_sha256": "73ad1bb2bcec5744cc03a738a011509223f938d82eb88a6c083aab6b1035da14"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/EdS.lean",
+   "aliases": [
+    "formal_cert/BAOCert/EdS.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "85ba8e0517737eba7497dbe5c3944558d8b6e2fe47bc79b7c8f4cfae38f6dcaf",
+   "copied_to": "lean/formal_cert/BAOCert/EdS.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (04ad62f74250)",
+   "pub_commit": "04ad62f7425013afee36914f222fc1a0a78b19cc",
+   "pub_sha256": "85ba8e0517737eba7497dbe5c3944558d8b6e2fe47bc79b7c8f4cfae38f6dcaf"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/Fit.lean",
+   "aliases": [
+    "formal_cert/BAOCert/Fit.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "93a3c3262c5f77dde8455aefa9488df9818a3a34ab06fa16c10e6c0eb422461b",
+   "copied_to": "lean/formal_cert/BAOCert/Fit.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (04ad62f74250)",
+   "pub_commit": "04ad62f7425013afee36914f222fc1a0a78b19cc",
+   "pub_sha256": "93a3c3262c5f77dde8455aefa9488df9818a3a34ab06fa16c10e6c0eb422461b"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/FitOm101.lean",
+   "aliases": [
+    "formal_cert/BAOCert/FitOm101.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "84859e548f727fabbe6bf1609822e76afd5606a29c2104963bcaa51f27d9c6ce",
+   "copied_to": "lean/formal_cert/BAOCert/FitOm101.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (04ad62f74250)",
+   "pub_commit": "04ad62f7425013afee36914f222fc1a0a78b19cc",
+   "pub_sha256": "84859e548f727fabbe6bf1609822e76afd5606a29c2104963bcaa51f27d9c6ce"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/Tampered.lean",
+   "aliases": [
+    "formal_cert/BAOCert/Tampered.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "75ab19072d8d79d80a6e9a3614b9f0412e9ed4dd247257a7fcc194aa71794762",
+   "copied_to": "lean/formal_cert/BAOCert/Tampered.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (04ad62f74250)",
+   "pub_commit": "04ad62f7425013afee36914f222fc1a0a78b19cc",
+   "pub_sha256": "75ab19072d8d79d80a6e9a3614b9f0412e9ed4dd247257a7fcc194aa71794762"
+  }
+ ]
+}

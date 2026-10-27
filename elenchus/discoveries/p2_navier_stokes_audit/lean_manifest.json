@@ -1,0 +1,151 @@
+{
+ "slug": "p2_navier_stokes_audit",
+ "files": [
+  {
+   "ref": "<producer-repo>/results/proposal2/2026-10-26/A2/evidence/audit/ChallengeDump_NS.lean",
+   "aliases": [
+    "results/proposal2/2026-10-26/A2/evidence/audit/ChallengeDump_NS.lean"
+   ],
+   "recorded_sha256": [
+    "f7421203d6366170e1132b402e67744d82b1b49568b293b39b47aa58dcc46712"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "f7421203d6366170e1132b402e67744d82b1b49568b293b39b47aa58dcc46712",
+   "copied_to": null,
+   "upstream": null,
+   "status": "copied; sha256 matches record",
+   "withheld_in_public_release": "statement dump of the upstream openai/NavierStokesAndEuler challenge file; it embeds producing-machine paths and upstream docstrings; fetch the upstream file at the pinned commit listed in LEAN.md"
+  },
+  {
+   "ref": "<producer-repo>/results/proposal2/2026-10-26/A2/evidence/audit/Semantics.lean",
+   "aliases": [
+    "results/proposal2/2026-10-26/A2/evidence/audit/Semantics.lean"
+   ],
+   "recorded_sha256": [
+    "48544ac7febe09f1f28c69a5eba4d1a1a4e240d42d67b0ff3681d32d4acc1209"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "48544ac7febe09f1f28c69a5eba4d1a1a4e240d42d67b0ff3681d32d4acc1209",
+   "copied_to": "lean/results/proposal2/2026-10-26/A2/evidence/audit/Semantics.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/results/proposal2/2026-10-26/A2/evidence/audit/Semantics2.lean",
+   "aliases": [
+    "results/proposal2/2026-10-26/A2/evidence/audit/Semantics2.lean"
+   ],
+   "recorded_sha256": [
+    "10e3d9bff7637a41444bc72e7afb458036f319e5e2f90d2ad3388bbbda6ff992"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "10e3d9bff7637a41444bc72e7afb458036f319e5e2f90d2ad3388bbbda6ff992",
+   "copied_to": "lean/results/proposal2/2026-10-26/A2/evidence/audit/Semantics2.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/results/proposal2/2026-10-26/A2/evidence/controls/env/EnvControl.lean",
+   "aliases": [
+    "results/proposal2/2026-10-26/A2/evidence/controls/env/EnvControl.lean"
+   ],
+   "recorded_sha256": [
+    "dacec70f1df142fcb537365823f93886683a882f7370e256b8411cfdc8148cb1"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "dacec70f1df142fcb537365823f93886683a882f7370e256b8411cfdc8148cb1",
+   "copied_to": null,
+   "upstream": null,
+   "status": "copied; sha256 matches record",
+   "withheld_in_public_release": "planted-control file whose text embeds producing-machine paths; the control's verdict is recorded in the ledger evidence"
+  },
+  {
+   "ref": "<producer-repo>/results/proposal2/2026-10-26/A2/evidence/controls/forged/Importer.lean",
+   "aliases": [
+    "results/proposal2/2026-10-26/A2/evidence/controls/forged/Importer.lean"
+   ],
+   "recorded_sha256": [
+    "80ce448a29b373efb2ed7a331cbb718a0d1e8c8a7ed308d6b6b8b6cfd9dfa64b"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "80ce448a29b373efb2ed7a331cbb718a0d1e8c8a7ed308d6b6b8b6cfd9dfa64b",
+   "copied_to": "lean/results/proposal2/2026-10-26/A2/evidence/controls/forged/Importer.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/results/proposal2/2026-10-26/A2/evidence/controls/forged/src/A2Forged.lean",
+   "aliases": [
+    "results/proposal2/2026-10-26/A2/evidence/controls/forged/src/A2Forged.lean"
+   ],
+   "recorded_sha256": [
+    "0417c7073a2f21ad848a6b77f5b312f11ff39704410c3e7f38da378e4bb6d0e3"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "0417c7073a2f21ad848a6b77f5b312f11ff39704410c3e7f38da378e4bb6d0e3",
+   "copied_to": "lean/results/proposal2/2026-10-26/A2/evidence/controls/forged/src/A2Forged.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/results/proposal2/2026-10-26/A2/evidence/lean_scripts/A2Replay.lean",
+   "aliases": [
+    "results/proposal2/2026-10-26/A2/evidence/lean_scripts/A2Replay.lean"
+   ],
+   "recorded_sha256": [
+    "d93172e97de47b6f10b9e19b981de45b7d6d96a00ba30cd0622c0e7ca81801ad"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "d93172e97de47b6f10b9e19b981de45b7d6d96a00ba30cd0622c0e7ca81801ad",
+   "copied_to": "lean/results/proposal2/2026-10-26/A2/evidence/lean_scripts/A2Replay.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<data-disk>/SocrateAI-Scientific-Agora-LeanMaster/lean4basesource/openai-navierstokes/Euler/Solution.lean",
+   "aliases": [
+    "<data-disk>/SocrateAI-Scientific-Agora-LeanMaster/lean4basesource/openai-navierstokes/Euler/Solution.lean"
+   ],
+   "recorded_sha256": [
+    "5dced6caecbfd85d952ff9537e420a85d4f38386e2c655a9c569a21b7139ea4f"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "5dced6caecbfd85d952ff9537e420a85d4f38386e2c655a9c569a21b7139ea4f",
+   "copied_to": null,
+   "upstream": "openai/NavierStokesAndEuler @ f9e8bc5b38b6e212696e8a30e3e91517af887bbd (Apache-2.0)",
+   "status": "upstream: listed, not copied"
+  },
+  {
+   "ref": "<data-disk>/SocrateAI-Scientific-Agora-LeanMaster/lean4basesource/openai-navierstokes/NavierStokes/ComparatorSolution.lean",
+   "aliases": [
+    "<data-disk>/SocrateAI-Scientific-Agora-LeanMaster/lean4basesource/openai-navierstokes/NavierStokes/ComparatorSolution.lean"
+   ],
+   "recorded_sha256": [
+    "52950d5d618a8d34c9bfbdb16641c81c276e97b6d7fd2a76c08577353f0b0227"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "52950d5d618a8d34c9bfbdb16641c81c276e97b6d7fd2a76c08577353f0b0227",
+   "copied_to": null,
+   "upstream": "openai/NavierStokesAndEuler @ f9e8bc5b38b6e212696e8a30e3e91517af887bbd (Apache-2.0)",
+   "status": "upstream: listed, not copied"
+  }
+ ]
+}

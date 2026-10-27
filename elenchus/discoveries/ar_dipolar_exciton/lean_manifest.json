@@ -1,0 +1,149 @@
+{
+ "slug": "ar_dipolar_exciton",
+ "files": [
+  {
+   "ref": "<producer-repo>/formal_cert/Autoresearch/DipolarExciton.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Autoresearch/DipolarExciton.lean"
+   ],
+   "recorded_sha256": [
+    "b85389a50373adaf877e866c79f0696ba0a284d9626bc9a56040821c3e11f27d"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "b85389a50373adaf877e866c79f0696ba0a284d9626bc9a56040821c3e11f27d",
+   "copied_to": "lean/formal_cert/Autoresearch/DipolarExciton.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Autoresearch/DipolarExcitonMultipolar.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Autoresearch/DipolarExcitonMultipolar.lean"
+   ],
+   "recorded_sha256": [
+    "7f52ea64903c43cbfe95b76eea74a2ea01040c45d778ae05bbb848aa9554f98a"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "7f52ea64903c43cbfe95b76eea74a2ea01040c45d778ae05bbb848aa9554f98a",
+   "copied_to": "lean/formal_cert/Autoresearch/DipolarExcitonMultipolar.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Autoresearch/DipolarExcitonMultipolarControls.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Autoresearch/DipolarExcitonMultipolarControls.lean"
+   ],
+   "recorded_sha256": [
+    "1754e1a9ba6ed844a1d0356872cf2a5662c89d13e85d1fd39747f3fe1215106d"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "1754e1a9ba6ed844a1d0356872cf2a5662c89d13e85d1fd39747f3fe1215106d",
+   "copied_to": "lean/formal_cert/Autoresearch/DipolarExcitonMultipolarControls.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Autoresearch/DipolarExcitonStep1.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Autoresearch/DipolarExcitonStep1.lean"
+   ],
+   "recorded_sha256": [
+    "ceb2c607498086e8f865ebeee944842548345501d704a54b0dfc465cd9f42f7d"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "ceb2c607498086e8f865ebeee944842548345501d704a54b0dfc465cd9f42f7d",
+   "copied_to": "lean/formal_cert/Autoresearch/DipolarExcitonStep1.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Autoresearch/DipolarExcitonStep1Controls.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Autoresearch/DipolarExcitonStep1Controls.lean"
+   ],
+   "recorded_sha256": [
+    "8a26b6ba14882ad6fc3e57cc69376786c30993695fc50846fc8a75add1ca4987"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "8a26b6ba14882ad6fc3e57cc69376786c30993695fc50846fc8a75add1ca4987",
+   "copied_to": "lean/formal_cert/Autoresearch/DipolarExcitonStep1Controls.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Triangular/AnyDensity.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Triangular/AnyDensity.lean"
+   ],
+   "recorded_sha256": [
+    "0a6d86eef3ee24b2b6828ff602707868e160969bfbebc41db375c05b383c5168"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "0a6d86eef3ee24b2b6828ff602707868e160969bfbebc41db375c05b383c5168",
+   "copied_to": "lean/formal_cert/Triangular/AnyDensity.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Triangular/RieszFinite.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Triangular/RieszFinite.lean"
+   ],
+   "recorded_sha256": [
+    "7aa2f523e83a1d9e981e3610c05acda030aa268c005d8681d6ef2daa4bd57f01"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "7aa2f523e83a1d9e981e3610c05acda030aa268c005d8681d6ef2daa4bd57f01",
+   "copied_to": "lean/formal_cert/Triangular/RieszFinite.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<data-disk>/openai_math_pinned/lean/OAI/Analysis/Triangular/Energy/Basic.lean",
+   "aliases": [
+    "<data-disk>/openai_math_pinned/lean/OAI/Analysis/Triangular/Energy/Basic.lean"
+   ],
+   "recorded_sha256": [
+    "1b201a3f0062fc596b738fe2bfdc7b6dde60e9cdaade41e5821b3a8dd752f330"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "1b201a3f0062fc596b738fe2bfdc7b6dde60e9cdaade41e5821b3a8dd752f330",
+   "copied_to": null,
+   "upstream": "openai/math @ fd4aeeb2ee4fc729c18d98444fed42fd0529eeeb (Apache-2.0; pinned local copy)",
+   "status": "upstream: listed, not copied"
+  },
+  {
+   "ref": "<data-disk>/openai_math_pinned/lean/OAI/Analysis/Triangular/Energy/Universal.lean",
+   "aliases": [
+    "<data-disk>/openai_math_pinned/lean/OAI/Analysis/Triangular/Energy/Universal.lean"
+   ],
+   "recorded_sha256": [
+    "35765ec2deda6020ae292681a4f56c6d73dfbcbdfbb7baa831e06e52dec82b1d"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "35765ec2deda6020ae292681a4f56c6d73dfbcbdfbb7baa831e06e52dec82b1d",
+   "copied_to": null,
+   "upstream": "openai/math @ fd4aeeb2ee4fc729c18d98444fed42fd0529eeeb (Apache-2.0; pinned local copy)",
+   "status": "upstream: listed, not copied"
+  }
+ ]
+}

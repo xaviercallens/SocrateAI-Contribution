@@ -1,0 +1,69 @@
+{
+ "slug": "prog_superfluid_structure_factor",
+ "files": [
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/FeynmanBijl/Basic.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Programmes/FeynmanBijl/Basic.lean"
+   ],
+   "recorded_sha256": [
+    "a8ed4357bce846e675af161a81dbeddeedcba07c0a2e7f2ae09fce21c5cb6432"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "a8ed4357bce846e675af161a81dbeddeedcba07c0a2e7f2ae09fce21c5cb6432",
+   "copied_to": "lean/formal_cert/Programmes/FeynmanBijl/Basic.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/FeynmanBijl/Controls.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Programmes/FeynmanBijl/Controls.lean"
+   ],
+   "recorded_sha256": [
+    "a0f2e8edab9b5aa211fd1a5b39d8836cc22220b483390413edda46135e0c0099"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "a0f2e8edab9b5aa211fd1a5b39d8836cc22220b483390413edda46135e0c0099",
+   "copied_to": "lean/formal_cert/Programmes/FeynmanBijl/Controls.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/FeynmanBijl/NegativeControls.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Programmes/FeynmanBijl/NegativeControls.lean"
+   ],
+   "recorded_sha256": [
+    "182f8135dd3c778703a8523e46724f600227a3bdcaadc4da5a8bc843373bfc3a"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "182f8135dd3c778703a8523e46724f600227a3bdcaadc4da5a8bc843373bfc3a",
+   "copied_to": "lean/formal_cert/Programmes/FeynmanBijl/NegativeControls.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/FeynmanBijl/PositiveControls.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Programmes/FeynmanBijl/PositiveControls.lean"
+   ],
+   "recorded_sha256": [
+    "1555d75cda679a600b667ac0f559b7bd72f9cee3982c644531ee6f81d4bffc05"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "1555d75cda679a600b667ac0f559b7bd72f9cee3982c644531ee6f81d4bffc05",
+   "copied_to": "lean/formal_cert/Programmes/FeynmanBijl/PositiveControls.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  }
+ ]
+}

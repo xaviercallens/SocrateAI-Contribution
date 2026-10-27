@@ -1,0 +1,229 @@
+{
+ "slug": "prog_cm_bernstein_library",
+ "files": [
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/Applications.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/Applications.lean"
+   ],
+   "recorded_sha256": [
+    "a6a0d17048eb3e2dd56ee0837e5f688f027b7beecb6cd275e5b5ceb45dceb83f"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "a6a0d17048eb3e2dd56ee0837e5f688f027b7beecb6cd275e5b5ceb45dceb83f",
+   "copied_to": "lean/formal_cert/Programmes/CompletelyMonotone/Applications.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/Basic.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/Basic.lean"
+   ],
+   "recorded_sha256": [
+    "eaebc8f68fcab5cc53719f8e7c90ef9e2e4ffe0ce2235a792808c2c85ee10c52"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "eaebc8f68fcab5cc53719f8e7c90ef9e2e4ffe0ce2235a792808c2c85ee10c52",
+   "copied_to": "lean/formal_cert/Programmes/CompletelyMonotone/Basic.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/Bernstein.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/Bernstein.lean"
+   ],
+   "recorded_sha256": [
+    "9e192c438a949b6d76403135b295a82f93d9918ed00121c630487e9dd909f39d"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "9e192c438a949b6d76403135b295a82f93d9918ed00121c630487e9dd909f39d",
+   "copied_to": "lean/formal_cert/Programmes/CompletelyMonotone/Bernstein.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/Controls.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/Controls.lean"
+   ],
+   "recorded_sha256": [
+    "1469ffd336424ef3dc784a5d65281e4c3e1d943563083cb622c083690c435fce"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "1469ffd336424ef3dc784a5d65281e4c3e1d943563083cb622c083690c435fce",
+   "copied_to": "lean/formal_cert/Programmes/CompletelyMonotone/Controls.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/Corollaries.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/Corollaries.lean"
+   ],
+   "recorded_sha256": [
+    "45e2ff5f4e8562f71ad4d36d1c85e384fe3c23060ef01b63e876b93972ed319f"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "45e2ff5f4e8562f71ad4d36d1c85e384fe3c23060ef01b63e876b93972ed319f",
+   "copied_to": "lean/formal_cert/Programmes/CompletelyMonotone/Corollaries.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/Examples.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/Examples.lean"
+   ],
+   "recorded_sha256": [
+    "27994bc788426556f45c62674412e36242e108d0e7ea6302506dbc8f8a6a9d39"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "27994bc788426556f45c62674412e36242e108d0e7ea6302506dbc8f8a6a9d39",
+   "copied_to": "lean/formal_cert/Programmes/CompletelyMonotone/Examples.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/Laplace.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/Laplace.lean"
+   ],
+   "recorded_sha256": [
+    "fc721ec52eb51e97523e6c07b4d1b3624f608254c28b0a9477f09809c0aa952c"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "fc721ec52eb51e97523e6c07b4d1b3624f608254c28b0a9477f09809c0aa952c",
+   "copied_to": "lean/formal_cert/Programmes/CompletelyMonotone/Laplace.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/Limits.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/Limits.lean"
+   ],
+   "recorded_sha256": [
+    "04819006b336f37ca54f6e8459d29c7d9461e17462985ea2f257110282ba78fc"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "04819006b336f37ca54f6e8459d29c7d9461e17462985ea2f257110282ba78fc",
+   "copied_to": "lean/formal_cert/Programmes/CompletelyMonotone/Limits.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/MathlibOnly.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/MathlibOnly.lean"
+   ],
+   "recorded_sha256": [
+    "d0da3c865357431db3817ae7f800c89e9f1289103cdbb7f08fb2184e4b32685d"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "d0da3c865357431db3817ae7f800c89e9f1289103cdbb7f08fb2184e4b32685d",
+   "copied_to": "lean/formal_cert/Programmes/CompletelyMonotone/MathlibOnly.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/MathlibOnlyBridge.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/MathlibOnlyBridge.lean"
+   ],
+   "recorded_sha256": [
+    "40c0d8be82caacc70e83ba25bfce46fb25e2bc0a31e3f26c27cbdf172cc6e7e0"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "40c0d8be82caacc70e83ba25bfce46fb25e2bc0a31e3f26c27cbdf172cc6e7e0",
+   "copied_to": "lean/formal_cert/Programmes/CompletelyMonotone/MathlibOnlyBridge.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/NegativeControls.lean",
+   "aliases": [
+    "<producer-repo>/formal_cert/Programmes/CompletelyMonotone/NegativeControls.lean"
+   ],
+   "recorded_sha256": [
+    "83f5de212ee3f6ad2f2cfb169238c0e1b80a0d3c79af91f69187a47a1661772e"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "83f5de212ee3f6ad2f2cfb169238c0e1b80a0d3c79af91f69187a47a1661772e",
+   "copied_to": "lean/formal_cert/Programmes/CompletelyMonotone/NegativeControls.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<data-disk>/openai_math_pinned/lean/.lake/packages/mathlib/Mathlib/Analysis/Calculus/AbsolutelyMonotone.lean",
+   "aliases": [
+    "<data-disk>/openai_math_pinned/lean/.lake/packages/mathlib/Mathlib/Analysis/Calculus/AbsolutelyMonotone.lean"
+   ],
+   "recorded_sha256": [
+    "55d9937e8c6b7285da94d8f278e4684381971aec853ddcc390c82745edde891d"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "55d9937e8c6b7285da94d8f278e4684381971aec853ddcc390c82745edde891d",
+   "copied_to": null,
+   "upstream": "openai/math @ fd4aeeb2ee4fc729c18d98444fed42fd0529eeeb (Apache-2.0; pinned local copy)",
+   "status": "upstream: listed, not copied"
+  },
+  {
+   "ref": "<data-disk>/openai_math_pinned/lean/OAI/Analysis/Triangular/Energy/Basic.lean",
+   "aliases": [
+    "<data-disk>/openai_math_pinned/lean/OAI/Analysis/Triangular/Energy/Basic.lean"
+   ],
+   "recorded_sha256": [
+    "1b201a3f0062fc596b738fe2bfdc7b6dde60e9cdaade41e5821b3a8dd752f330"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "1b201a3f0062fc596b738fe2bfdc7b6dde60e9cdaade41e5821b3a8dd752f330",
+   "copied_to": null,
+   "upstream": "openai/math @ fd4aeeb2ee4fc729c18d98444fed42fd0529eeeb (Apache-2.0; pinned local copy)",
+   "status": "upstream: listed, not copied"
+  },
+  {
+   "ref": "<data-disk>/openai_math_pinned/lean/OAI/Analysis/Triangular/Energy/Universal.lean",
+   "aliases": [
+    "<data-disk>/openai_math_pinned/lean/OAI/Analysis/Triangular/Energy/Universal.lean"
+   ],
+   "recorded_sha256": [
+    "35765ec2deda6020ae292681a4f56c6d73dfbcbdfbb7baa831e06e52dec82b1d"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "35765ec2deda6020ae292681a4f56c6d73dfbcbdfbb7baa831e06e52dec82b1d",
+   "copied_to": null,
+   "upstream": "openai/math @ fd4aeeb2ee4fc729c18d98444fed42fd0529eeeb (Apache-2.0; pinned local copy)",
+   "status": "upstream: listed, not copied"
+  }
+ ]
+}

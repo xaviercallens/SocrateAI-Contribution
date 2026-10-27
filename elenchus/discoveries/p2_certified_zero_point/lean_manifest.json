@@ -1,0 +1,149 @@
+{
+ "slug": "p2_certified_zero_point",
+ "files": [
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/ZeroPoint/Basic.lean",
+   "aliases": [
+    "formal_cert/Programmes/ZeroPoint/Basic.lean"
+   ],
+   "recorded_sha256": [
+    "7d59f1817767ae64cc37d017348e1eb5f5b9ed83ed068086fae839baff0d64f0"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "7d59f1817767ae64cc37d017348e1eb5f5b9ed83ed068086fae839baff0d64f0",
+   "copied_to": "lean/formal_cert/Programmes/ZeroPoint/Basic.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/ZeroPointCert/Basic.lean",
+   "aliases": [
+    "formal_cert/Programmes/ZeroPointCert/Basic.lean"
+   ],
+   "recorded_sha256": [
+    "0241b6afa500e46a2fb79cdedc7770eb20cdb0dc336283d683d55096f4d54c00"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "0241b6afa500e46a2fb79cdedc7770eb20cdb0dc336283d683d55096f4d54c00",
+   "copied_to": "lean/formal_cert/Programmes/ZeroPointCert/Basic.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/ZeroPointCert/Controls.lean",
+   "aliases": [
+    "formal_cert/Programmes/ZeroPointCert/Controls.lean"
+   ],
+   "recorded_sha256": [
+    "2e95e21b70af3b4a1719b761636c992cfec8d52a61a7c63962f02ff5562d4ff3"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "2e95e21b70af3b4a1719b761636c992cfec8d52a61a7c63962f02ff5562d4ff3",
+   "copied_to": "lean/formal_cert/Programmes/ZeroPointCert/Controls.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/ZeroPointCert/RejectA2.lean",
+   "aliases": [
+    "formal_cert/Programmes/ZeroPointCert/RejectA2.lean"
+   ],
+   "recorded_sha256": [
+    "ab0f5f297b0a24bafa84175d66e225fbe626a941bbcff31c28dd7010c28dada9"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "ab0f5f297b0a24bafa84175d66e225fbe626a941bbcff31c28dd7010c28dada9",
+   "copied_to": "lean/formal_cert/Programmes/ZeroPointCert/RejectA2.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/ZeroPointCert/RejectTampered.lean",
+   "aliases": [
+    "formal_cert/Programmes/ZeroPointCert/RejectTampered.lean"
+   ],
+   "recorded_sha256": [
+    "02f6930b22e47d7cdc26c89a13102bb1c7af33351e80ec09b7aa4b7ef22e4288"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json"
+   ],
+   "current_sha256": "02f6930b22e47d7cdc26c89a13102bb1c7af33351e80ec09b7aa4b7ef22e4288",
+   "copied_to": "lean/formal_cert/Programmes/ZeroPointCert/RejectTampered.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/papers/p2_certified_zero_point/data/lean/Basic.lean",
+   "aliases": [
+    "data/lean/Basic.lean"
+   ],
+   "recorded_sha256": [
+    "0241b6afa500e46a2fb79cdedc7770eb20cdb0dc336283d683d55096f4d54c00"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "0241b6afa500e46a2fb79cdedc7770eb20cdb0dc336283d683d55096f4d54c00",
+   "copied_to": "lean/papers/p2_certified_zero_point/data/lean/Basic.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/papers/p2_certified_zero_point/data/lean/Controls.lean",
+   "aliases": [
+    "data/lean/Controls.lean"
+   ],
+   "recorded_sha256": [
+    "2e95e21b70af3b4a1719b761636c992cfec8d52a61a7c63962f02ff5562d4ff3"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "2e95e21b70af3b4a1719b761636c992cfec8d52a61a7c63962f02ff5562d4ff3",
+   "copied_to": "lean/papers/p2_certified_zero_point/data/lean/Controls.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/papers/p2_certified_zero_point/data/lean/RejectA2.lean",
+   "aliases": [
+    "data/lean/RejectA2.lean"
+   ],
+   "recorded_sha256": [
+    "ab0f5f297b0a24bafa84175d66e225fbe626a941bbcff31c28dd7010c28dada9"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "ab0f5f297b0a24bafa84175d66e225fbe626a941bbcff31c28dd7010c28dada9",
+   "copied_to": "lean/papers/p2_certified_zero_point/data/lean/RejectA2.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/papers/p2_certified_zero_point/data/lean/RejectTampered.lean",
+   "aliases": [
+    "data/lean/RejectTampered.lean"
+   ],
+   "recorded_sha256": [
+    "02f6930b22e47d7cdc26c89a13102bb1c7af33351e80ec09b7aa4b7ef22e4288"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "02f6930b22e47d7cdc26c89a13102bb1c7af33351e80ec09b7aa4b7ef22e4288",
+   "copied_to": "lean/papers/p2_certified_zero_point/data/lean/RejectTampered.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  }
+ ]
+}

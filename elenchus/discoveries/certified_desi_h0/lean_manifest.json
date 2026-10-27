@@ -1,0 +1,3301 @@
+{
+ "slug": "certified_desi_h0",
+ "files": [
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/H0/BBNBase.lean",
+   "aliases": [
+    "formal_cert/BAOCert/H0/BBNBase.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "2b6530838efa0df9bfb475a5d8b25ee29aa121989cc83d04e07f595f5f616e38",
+   "copied_to": "lean/formal_cert/BAOCert/H0/BBNBase.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "2b6530838efa0df9bfb475a5d8b25ee29aa121989cc83d04e07f595f5f616e38"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/H0/Lemmas.lean",
+   "aliases": [
+    "formal_cert/BAOCert/H0/Lemmas.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "6532c9ac58cd22ebc55341a7964131f97fd64b79601c9b4d0df917b723218896",
+   "copied_to": "lean/formal_cert/BAOCert/H0/Lemmas.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "6532c9ac58cd22ebc55341a7964131f97fd64b79601c9b4d0df917b723218896"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/H0/PSD.lean",
+   "aliases": [
+    "formal_cert/BAOCert/H0/PSD.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "a2fd4256f7f7366f9a9344ac12ddf519903fbb5ea4734e4e6478715f4c0d6895",
+   "copied_to": "lean/formal_cert/BAOCert/H0/PSD.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "a2fd4256f7f7366f9a9344ac12ddf519903fbb5ea4734e4e6478715f4c0d6895"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/H0/Pow.lean",
+   "aliases": [
+    "formal_cert/BAOCert/H0/Pow.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "c3b7af979a59ce1570da5550ffb2d824717cf37930138d8b093624e32bd8acf4",
+   "copied_to": "lean/formal_cert/BAOCert/H0/Pow.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "c3b7af979a59ce1570da5550ffb2d824717cf37930138d8b093624e32bd8acf4"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/Likelihood.lean",
+   "aliases": [
+    "formal_cert/BAOCert/Likelihood.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "1b05eda44ca45da421ca147cb605cff2a21d64fe61ccba6c234ce210cbceba7c",
+   "copied_to": "lean/formal_cert/BAOCert/Likelihood.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "1b05eda44ca45da421ca147cb605cff2a21d64fe61ccba6c234ce210cbceba7c"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Axioms.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Axioms.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "6bfda651e54eb9e30315a03d48ebc615d7019d5cfe564a8f2fdcc52044184684",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Axioms.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "6bfda651e54eb9e30315a03d48ebc615d7019d5cfe564a8f2fdcc52044184684"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Data.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Data.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "7a2818246f5bbbb91d0b090c32a952a2b9de5dd9a7b43c00f20feb0c182c65b7",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Data.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "7a2818246f5bbbb91d0b090c32a952a2b9de5dd9a7b43c00f20feb0c182c65b7"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Data_Tamper.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Data_Tamper.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "8b1b4a054e1079025ccb7bf5822a235ee7507ff5fef35a7d117405877d2103e0",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Data_Tamper.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "8b1b4a054e1079025ccb7bf5822a235ee7507ff5fef35a7d117405877d2103e0"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/EdS.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/EdS.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "66571011ebcbe06e69fd3eda5497b4b8e8810442d04b5e44e196b9111a8b3ea4",
+   "copied_to": "lean/formal_cert/BAOCert/P2/EdS.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "66571011ebcbe06e69fd3eda5497b4b8e8810442d04b5e44e196b9111a8b3ea4"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Fit.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Fit.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "e4ec2dd2b9486ff9d7a342ca4904d071be6ed9909973281405bf50f81a09481c",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Fit.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "e4ec2dd2b9486ff9d7a342ca4904d071be6ed9909973281405bf50f81a09481c"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Fit_Tamper.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Fit_Tamper.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "f2b8d95d2c1e9f6346df5ed9dc169bf5b9f10d8ca6ac6f1699f5a67a8c2766f0",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Fit_Tamper.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "f2b8d95d2c1e9f6346df5ed9dc169bf5b9f10d8ca6ac6f1699f5a67a8c2766f0"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_O000_R1_40.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_O000_R1_40.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "8f93c48e40383a8077fd146e0cc2c0d87f8478cc255919a500a91d57dea469dc",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_O000_R1_40.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "8f93c48e40383a8077fd146e0cc2c0d87f8478cc255919a500a91d57dea469dc"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_O005_O010.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_O005_O010.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "8ed8c3d9189da11bfef6e186f50fc49ff1da4c29fd20acc29562f055516e31dc",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_O005_O010.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "8ed8c3d9189da11bfef6e186f50fc49ff1da4c29fd20acc29562f055516e31dc"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_O010_R1_8.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_O010_R1_8.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "80374bc1ff3e0d203f3f376f90cf5942d1b017bfd3871bf49d6ddf48544dfba2",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_O010_R1_8.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "80374bc1ff3e0d203f3f376f90cf5942d1b017bfd3871bf49d6ddf48544dfba2"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_O015_R7_40.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_O015_R7_40.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "801a6c75608bc8641f55e8afda32dbedc4c5ca7413ba00361bc3ef23df05a8e8",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_O015_R7_40.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "801a6c75608bc8641f55e8afda32dbedc4c5ca7413ba00361bc3ef23df05a8e8"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_O020_O022.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_O020_O022.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "c56448dd7598c3438e22368f9c4e8800f68127f449b53f4620861c22e9eb16c8",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_O020_O022.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "c56448dd7598c3438e22368f9c4e8800f68127f449b53f4620861c22e9eb16c8"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_O022_R23_100.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_O022_R23_100.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "9b174dcfe236a51eed7d85429143fff02784aaac9b0085f2e833cbb67911fb1c",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_O022_R23_100.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "9b174dcfe236a51eed7d85429143fff02784aaac9b0085f2e833cbb67911fb1c"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_O024_R49_200.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_O024_R49_200.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "2992b6efea5edef2d04aa15f236bdb1c1361d8ec584d05755caffaed9a7bbdc1",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_O024_R49_200.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "2992b6efea5edef2d04aa15f236bdb1c1361d8ec584d05755caffaed9a7bbdc1"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_O025_R101_400.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_O025_R101_400.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "20f1976924f6ea6acfca3249f0e430e6284306b167fb5258b944239061475f95",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_O025_R101_400.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "20f1976924f6ea6acfca3249f0e430e6284306b167fb5258b944239061475f95"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_O035_R141_400.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_O035_R141_400.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "7cc55fc211afd10fed140f9f87495905fe1ee0a9f4cdd0d802f4e41da7a50cb7",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_O035_R141_400.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "7cc55fc211afd10fed140f9f87495905fe1ee0a9f4cdd0d802f4e41da7a50cb7"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_O036_R37_100.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_O036_R37_100.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "0b48e7a4351b8965b1e7a2e7bc6afee8c042c7c7d5869c2d03e34178934ded78",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_O036_R37_100.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "0b48e7a4351b8965b1e7a2e7bc6afee8c042c7c7d5869c2d03e34178934ded78"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_O038_O040.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_O038_O040.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "5c14094dd42d8a8d0682e11850919b5e418f44d0ba34f38e5b32a07012377bf8",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_O038_O040.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "5c14094dd42d8a8d0682e11850919b5e418f44d0ba34f38e5b32a07012377bf8"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_O040_R17_40.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_O040_R17_40.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "aacdb87dbccf9ab5f3e05355efbf164880af658c436f56dea75de7030409876b",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_O040_R17_40.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "aacdb87dbccf9ab5f3e05355efbf164880af658c436f56dea75de7030409876b"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_O045_O050.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_O045_O050.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "7ca3d4e2594f0f693e2b4829bd57ca9765d89fbc630ea8ad520c12d25e41bbc0",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_O045_O050.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "7ca3d4e2594f0f693e2b4829bd57ca9765d89fbc630ea8ad520c12d25e41bbc0"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_O050_R11_20.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_O050_R11_20.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "e94b369018123d243b5ed1abbbbfed7ca5f9d5540efe435a7afe593115217fb9",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_O050_R11_20.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "e94b369018123d243b5ed1abbbbfed7ca5f9d5540efe435a7afe593115217fb9"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_O060_O070.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_O060_O070.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "59f8fe7a826bbac9139387bde7365b65ffeaa75f2f1ee4d8e15b9be62a2c2a30",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_O060_O070.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "59f8fe7a826bbac9139387bde7365b65ffeaa75f2f1ee4d8e15b9be62a2c2a30"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_O070_O080.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_O070_O080.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "4575e4db88dbe23c57ab12a2cbba3137475b60ace9799727686adfcc146e9dc6",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_O070_O080.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "4575e4db88dbe23c57ab12a2cbba3137475b60ace9799727686adfcc146e9dc6"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_O080_O090.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_O080_O090.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "adfc75d377a5e0d9bfa1dc1f962cfc9cf8381ef43482ebb280c4b81a112c93bd",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_O080_O090.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "adfc75d377a5e0d9bfa1dc1f962cfc9cf8381ef43482ebb280c4b81a112c93bd"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_O090_O100.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_O090_O100.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "407a9e66e13a4db04f41ae4cc090aca866c508634536e7e1399c14a45c399ea6",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_O090_O100.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "407a9e66e13a4db04f41ae4cc090aca866c508634536e7e1399c14a45c399ea6"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_R101_400_R51_200.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_R101_400_R51_200.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "e8b569b21bf3232cd312309e98f46e8853b1f93ce0e20a5f13dc87fd8f5282c3",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_R101_400_R51_200.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "e8b569b21bf3232cd312309e98f46e8853b1f93ce0e20a5f13dc87fd8f5282c3"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_R11_20_O060.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_R11_20_O060.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "890fe3bf19660eeb2bee729f01a365b5a52bdbc5300812275cc5efb59729dd2a",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_R11_20_O060.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "890fe3bf19660eeb2bee729f01a365b5a52bdbc5300812275cc5efb59729dd2a"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_R141_400_R71_200.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_R141_400_R71_200.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "4d01b163c64aff9f3c669853a3a9c7e6a882ee75519b647779b670b837771978",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_R141_400_R71_200.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "4d01b163c64aff9f3c669853a3a9c7e6a882ee75519b647779b670b837771978"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_R17_40_O045.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_R17_40_O045.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "f1027814f723ef04db5413782eeed15123e634c45fe65bf73b5b861da868d219",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_R17_40_O045.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "f1027814f723ef04db5413782eeed15123e634c45fe65bf73b5b861da868d219"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_R1_40_O005.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_R1_40_O005.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "94a8018b8998bb2bca3f96ff11dfbe73c3749f82494d6bafed211ad03e06aca4",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_R1_40_O005.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "94a8018b8998bb2bca3f96ff11dfbe73c3749f82494d6bafed211ad03e06aca4"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_R1_8_O015.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_R1_8_O015.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "11eadfc2411986dd9b44bec866f635c0f5dbfd244e47f4c683b9e21ccb134b53",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_R1_8_O015.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "11eadfc2411986dd9b44bec866f635c0f5dbfd244e47f4c683b9e21ccb134b53"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_R23_100_O024.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_R23_100_O024.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "fc40fcad0a7943a9e5e68cd7c35df5bc0369a012d8a8844e519a329a7947e619",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_R23_100_O024.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "fc40fcad0a7943a9e5e68cd7c35df5bc0369a012d8a8844e519a329a7947e619"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_R37_100_O038.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_R37_100_O038.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "a078c589fc959c87e2edc0fd3ef2d1e0f24e7cabf53b71b16c113feaa3d39002",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_R37_100_O038.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "a078c589fc959c87e2edc0fd3ef2d1e0f24e7cabf53b71b16c113feaa3d39002"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_R49_200_O025.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_R49_200_O025.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "f0181ab545d51c5e0d1421b95031da7ca8205c626b5527066222215c55efb8ad",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_R49_200_O025.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "f0181ab545d51c5e0d1421b95031da7ca8205c626b5527066222215c55efb8ad"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_R71_200_O036.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_R71_200_O036.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "55132f99790496a831913defa58bcde53d0a412dec9b97e0ff2c260e231f5c68",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_R71_200_O036.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "55132f99790496a831913defa58bcde53d0a412dec9b97e0ff2c260e231f5c68"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Ref_R7_40_O020.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Ref_R7_40_O020.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "d99ae7d926935cd2a849ba0473a3eab5b19c314777eaf3a99003ed9b21c77114",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Ref_R7_40_O020.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "d99ae7d926935cd2a849ba0473a3eab5b19c314777eaf3a99003ed9b21c77114"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Slab_O000_O005.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Slab_O000_O005.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "5e430cb8dbec71b4a5923d9e0fe714635a907bf2bd1f8f824f88c3b495ef5329",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Slab_O000_O005.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "5e430cb8dbec71b4a5923d9e0fe714635a907bf2bd1f8f824f88c3b495ef5329"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Slab_O005_O010.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Slab_O005_O010.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "6b7d258ab5908353bbbeedaf69bf2cb12351f9611e90e64358044348efe08c9a",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Slab_O005_O010.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "6b7d258ab5908353bbbeedaf69bf2cb12351f9611e90e64358044348efe08c9a"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Slab_O010_O015.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Slab_O010_O015.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "b7080e9e8c500f4086a84a716f75e94e242bd7e45bdfac6b6244e33c81cc9dba",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Slab_O010_O015.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "b7080e9e8c500f4086a84a716f75e94e242bd7e45bdfac6b6244e33c81cc9dba"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Slab_O015_O020.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Slab_O015_O020.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "441afd6752291e286a051bd2f52d5400100d2809fe76ee09481ef7e37ae168b4",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Slab_O015_O020.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "441afd6752291e286a051bd2f52d5400100d2809fe76ee09481ef7e37ae168b4"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Slab_O020_O022.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Slab_O020_O022.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "13a00f74400625d04cf55a7773b81dabc3e8aa2584af752798b958a80a77d7d8",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Slab_O020_O022.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "13a00f74400625d04cf55a7773b81dabc3e8aa2584af752798b958a80a77d7d8"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Slab_O022_O024.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Slab_O022_O024.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "80641b15bd19eb0f150450828ab9d43293bf5a1ff63fde7c39ca2804cf0ca8d4",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Slab_O022_O024.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "80641b15bd19eb0f150450828ab9d43293bf5a1ff63fde7c39ca2804cf0ca8d4"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Slab_O024_O025.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Slab_O024_O025.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "35f4d5a78be2a6cbea890cd444db32d7dd4f23b2c12e9cd26d8654c3095a3f2a",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Slab_O024_O025.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "35f4d5a78be2a6cbea890cd444db32d7dd4f23b2c12e9cd26d8654c3095a3f2a"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Slab_O025_O026.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Slab_O025_O026.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "7b6bd01e40b7895cc978cd534ac4093ac3ec96422a46a48f586f73b066b72dcd",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Slab_O025_O026.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "7b6bd01e40b7895cc978cd534ac4093ac3ec96422a46a48f586f73b066b72dcd"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Slab_O029_O030.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Slab_O029_O030.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "1d57161f91998c8afe7104e3aaf13ad115e1ac82b6095b64215892d49754ded0",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Slab_O029_O030.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "1d57161f91998c8afe7104e3aaf13ad115e1ac82b6095b64215892d49754ded0"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Slab_O034_O035.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Slab_O034_O035.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "9af58fa2fda6fbc6f5487d3b4453377fd1d2ae63a2ea75e3e3f8160874ea5441",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Slab_O034_O035.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "9af58fa2fda6fbc6f5487d3b4453377fd1d2ae63a2ea75e3e3f8160874ea5441"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Slab_O035_O036.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Slab_O035_O036.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "d4b59ef3dd75b3e4c9266244ebf25804b4509c274806d18911c4c932b87d4772",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Slab_O035_O036.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "d4b59ef3dd75b3e4c9266244ebf25804b4509c274806d18911c4c932b87d4772"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Slab_O036_O038.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Slab_O036_O038.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "4932e9dc1151fc1b3c4b28b55fc5486ba85ea53fb5c192ab69eee1e6664702f5",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Slab_O036_O038.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "4932e9dc1151fc1b3c4b28b55fc5486ba85ea53fb5c192ab69eee1e6664702f5"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Slab_O038_O040.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Slab_O038_O040.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "3147eb97f849a6b64d69adf7c4a853a2fbb9ffaa2243fef2cae0011c441fda95",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Slab_O038_O040.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "3147eb97f849a6b64d69adf7c4a853a2fbb9ffaa2243fef2cae0011c441fda95"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Slab_O040_O045.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Slab_O040_O045.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "e8ccee219e114338cb2aa9ba6f3bbc59ae320bdd875159f0a542a1d197a640c8",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Slab_O040_O045.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "e8ccee219e114338cb2aa9ba6f3bbc59ae320bdd875159f0a542a1d197a640c8"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Slab_O045_O050.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Slab_O045_O050.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "e2d94e0c6e6e90d6c174a41f0597eda7ce219c84c1617ca23c53238961a0aa91",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Slab_O045_O050.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "e2d94e0c6e6e90d6c174a41f0597eda7ce219c84c1617ca23c53238961a0aa91"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Slab_O050_O060.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Slab_O050_O060.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "d7be6f014e741af0bae8edad76341f5da4a9719e1b2f2de9f97c7bf292b97122",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Slab_O050_O060.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "d7be6f014e741af0bae8edad76341f5da4a9719e1b2f2de9f97c7bf292b97122"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Slab_O060_O070.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Slab_O060_O070.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "a48cdac253e87ae134779b272594a47daf7d3603db8da13e09097830dcbc8e37",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Slab_O060_O070.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "a48cdac253e87ae134779b272594a47daf7d3603db8da13e09097830dcbc8e37"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Slab_O070_O080.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Slab_O070_O080.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "f8e9d76d41b6d1e62c8d064a3971a009c40d919f6d192df212499380c4d6b4b1",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Slab_O070_O080.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "f8e9d76d41b6d1e62c8d064a3971a009c40d919f6d192df212499380c4d6b4b1"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Slab_O080_O090.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Slab_O080_O090.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "6e5ab0c53b493c3982cc791daf820d74e8be1d66aa313e3c5ceed53028d8f62f",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Slab_O080_O090.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "6e5ab0c53b493c3982cc791daf820d74e8be1d66aa313e3c5ceed53028d8f62f"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/Slab_O090_O100.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/Slab_O090_O100.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "0d8fcb3208dff20b9e2183221bc41f8f569a250dd2b8bb5a02eefd486629c9ee",
+   "copied_to": "lean/formal_cert/BAOCert/P2/Slab_O090_O100.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "0d8fcb3208dff20b9e2183221bc41f8f569a250dd2b8bb5a02eefd486629c9ee"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_FitFine.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_FitFine.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "f4a6a8e4ecc15612674b18286bed332285cdfcdd57150dde430d0a32903a6926",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_FitFine.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "f4a6a8e4ecc15612674b18286bed332285cdfcdd57150dde430d0a32903a6926"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O000.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O000.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "bc61fb887bf34371ffb0117e35fcbbbee9146b03ab221e19f6ce4f0a9e862cd4",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O000.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "bc61fb887bf34371ffb0117e35fcbbbee9146b03ab221e19f6ce4f0a9e862cd4"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O005.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O005.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "f321f73bffcaaf4010c7ce07595599361a26aa4cb625ec5db095076e7c421fd6",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O005.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "f321f73bffcaaf4010c7ce07595599361a26aa4cb625ec5db095076e7c421fd6"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O010.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O010.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "239a2c24f21c3becf8f8338eb489576b88ec5383117947d19163fea1c1f5822e",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O010.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "239a2c24f21c3becf8f8338eb489576b88ec5383117947d19163fea1c1f5822e"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O015.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O015.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "807ef9e17da0411baecb4449fb4c73430292f80fcd9f7a72d4bf7e3c9d7f53a7",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O015.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "807ef9e17da0411baecb4449fb4c73430292f80fcd9f7a72d4bf7e3c9d7f53a7"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O020.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O020.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "b98ec087de4ad8277a68dc9315b4a06646a8075a25989f89abb2abb0e0e30874",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O020.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "b98ec087de4ad8277a68dc9315b4a06646a8075a25989f89abb2abb0e0e30874"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O022.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O022.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "a4510988915f1d463e7b366b9d70991cbd96070e751bb346adaf16a6ee6820e9",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O022.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "a4510988915f1d463e7b366b9d70991cbd96070e751bb346adaf16a6ee6820e9"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O024.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O024.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "fe6fdd9739f010a4026b9f66b27d46638ad3311465a6ef6bc46a5d687020969a",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O024.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "fe6fdd9739f010a4026b9f66b27d46638ad3311465a6ef6bc46a5d687020969a"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O025.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O025.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "691d1c96f0911cf6ad305c63a31100f59a30f354b0c75f55492d1a667c3ab368",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O025.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "691d1c96f0911cf6ad305c63a31100f59a30f354b0c75f55492d1a667c3ab368"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O026.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O026.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "a6812d0d21758d69f411193ec78642b1a2d67fb54c61429187e05ac9d4a8b647",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O026.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "a6812d0d21758d69f411193ec78642b1a2d67fb54c61429187e05ac9d4a8b647"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O029.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O029.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "5a76ea615729bfe9b31698eabf38fac2a3528d94c82cc4314d850e0d8480de6a",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O029.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "5a76ea615729bfe9b31698eabf38fac2a3528d94c82cc4314d850e0d8480de6a"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O030.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O030.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "725f93c329a8cf461626d39503b61b005c9eac303836ad0de4c0b351413c7bf8",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O030.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "725f93c329a8cf461626d39503b61b005c9eac303836ad0de4c0b351413c7bf8"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O034.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O034.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "e26901f1217fcef7297c0974af773a272c948791298ff2ce0534440ddbf8274e",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O034.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "e26901f1217fcef7297c0974af773a272c948791298ff2ce0534440ddbf8274e"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O035.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O035.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "382af6d1cbbbb51dacf97d8ddb60311e00d99b2a467f7a9a7a69a7867ba84386",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O035.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "382af6d1cbbbb51dacf97d8ddb60311e00d99b2a467f7a9a7a69a7867ba84386"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O036.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O036.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "31527ce15bba1e7602bcf455bafaca2b15c681473f2b45a9ad6441a7ae4a0827",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O036.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "31527ce15bba1e7602bcf455bafaca2b15c681473f2b45a9ad6441a7ae4a0827"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O038.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O038.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "2385325c43241dae3158880b8ef339cb1d4dc8c1224d3cb1a4147bec6fed4986",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O038.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "2385325c43241dae3158880b8ef339cb1d4dc8c1224d3cb1a4147bec6fed4986"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O040.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O040.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "087863ac12e9cc0e46dad85f2c1a6ce04700e01588e29e15e471d42393875fed",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O040.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "087863ac12e9cc0e46dad85f2c1a6ce04700e01588e29e15e471d42393875fed"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O045.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O045.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "e11d478482239961f8adae462222a4d27284c32909fe1b5d746d574a4123a2bf",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O045.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "e11d478482239961f8adae462222a4d27284c32909fe1b5d746d574a4123a2bf"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O050.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O050.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "4f7e3539ca4b2de07a620b2cb3df0786fa04ec02b071e413fcf64ced3c7eed5e",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O050.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "4f7e3539ca4b2de07a620b2cb3df0786fa04ec02b071e413fcf64ced3c7eed5e"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O060.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O060.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "c0797202c9fc0cdbe4e1f36265bd74e0e5e8afeed4a3a060e8b4696daddc9cc2",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O060.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "c0797202c9fc0cdbe4e1f36265bd74e0e5e8afeed4a3a060e8b4696daddc9cc2"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O070.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O070.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "8925b3c664db178f8c4e60837c0d887c19a984b648b99b6ad96abed9e6c45a9a",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O070.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "8925b3c664db178f8c4e60837c0d887c19a984b648b99b6ad96abed9e6c45a9a"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O080.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O080.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "31b202b828ded0b4b198608d9d813af1ff49abd00503f4949361e6e36d012d52",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O080.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "31b202b828ded0b4b198608d9d813af1ff49abd00503f4949361e6e36d012d52"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O090.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O090.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "9f5789edae838d6b08fa7e7cdce59351c221361e06854b1341f9bc7ac21c8570",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O090.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (7ba230f6e274)",
+   "pub_commit": "7ba230f6e2749217a8d82f9f20199ab23b9698c1",
+   "pub_sha256": "9f5789edae838d6b08fa7e7cdce59351c221361e06854b1341f9bc7ac21c8570"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_O100.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_O100.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "283ba2303a263e0af6fa2adaa77e7863a7a49cbe6b31f3e76ebf7e17e6503cf8",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_O100.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "283ba2303a263e0af6fa2adaa77e7863a7a49cbe6b31f3e76ebf7e17e6503cf8"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R101_400.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R101_400.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "93b4e9a119107b1eb4cabde071de8cdd5dddcefdd24bb3def3d25db849bfc7a6",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R101_400.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "93b4e9a119107b1eb4cabde071de8cdd5dddcefdd24bb3def3d25db849bfc7a6"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R103_400.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R103_400.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "a04bcb7b65471553f83e63b003d82cc8fc45de75b56443da300f7848b22b1251",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R103_400.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "a04bcb7b65471553f83e63b003d82cc8fc45de75b56443da300f7848b22b1251"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R1063_3200.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R1063_3200.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "d29a367d81fc600f61bac710ca4602819c1d3b3de8b930a8acf6700121e64cc1",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R1063_3200.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "d29a367d81fc600f61bac710ca4602819c1d3b3de8b930a8acf6700121e64cc1"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R1101_3200.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R1101_3200.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "24c6128e5596744db136ed69236321fd2efd368961061a1d927f9b5f8d886116",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R1101_3200.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "24c6128e5596744db136ed69236321fd2efd368961061a1d927f9b5f8d886116"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R11_20.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R11_20.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "7f7ba0fa3626ab25a84167828f03e2a2173287dda75f4f1ff0297b019cda39ee",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R11_20.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "7f7ba0fa3626ab25a84167828f03e2a2173287dda75f4f1ff0297b019cda39ee"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R121_400.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R121_400.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "cd6faf427406b6c9945bd618241f9239ddd1b0db6add5ced24896e1c88a3e6a9",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R121_400.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "cd6faf427406b6c9945bd618241f9239ddd1b0db6add5ced24896e1c88a3e6a9"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R137_400.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R137_400.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "ee94d4defdf791b14fc0448eacd568c021abc8226915dd65c4c68f8adbeef481",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R137_400.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "ee94d4defdf791b14fc0448eacd568c021abc8226915dd65c4c68f8adbeef481"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R139_400.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R139_400.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "ef10e088c8baf7aec1078dc0a2240173aac1c84cf5064c29087b4e6f6dce3dd1",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R139_400.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "ef10e088c8baf7aec1078dc0a2240173aac1c84cf5064c29087b4e6f6dce3dd1"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R141_400.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R141_400.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "a930ad4cf5ce0189954fb59e1e152c6f5f73082c00e4a45e257d8f8ddf2894a7",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R141_400.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "a930ad4cf5ce0189954fb59e1e152c6f5f73082c00e4a45e257d8f8ddf2894a7"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R17_40.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R17_40.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "9e313ca20d8885e2e4065de4d4a8f174350893b4e9ea5efaeb80fb9809d8c63e",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R17_40.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "9e313ca20d8885e2e4065de4d4a8f174350893b4e9ea5efaeb80fb9809d8c63e"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R1_40.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R1_40.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "5d81f20a53aa25e0acf5fdd28fac18f9c1590bdd6878b99204e7fb043b840c54",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R1_40.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "5d81f20a53aa25e0acf5fdd28fac18f9c1590bdd6878b99204e7fb043b840c54"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R1_8.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R1_8.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "195ff67c0595026c775fb01eb94717672a13974d48af8ba06db87f2022a5c081",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R1_8.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "195ff67c0595026c775fb01eb94717672a13974d48af8ba06db87f2022a5c081"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R223_800.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R223_800.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "fa0fa701ccb48ebeb63cb4519664bcea5db2ed515b6a5717f6c16b30fbd3794a",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R223_800.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "fa0fa701ccb48ebeb63cb4519664bcea5db2ed515b6a5717f6c16b30fbd3794a"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R23_100.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R23_100.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "148dada355e3673f3b4a0423b93dd5e5a6fe1b3fbbf276057e6b5aa22e08e09c",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R23_100.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "148dada355e3673f3b4a0423b93dd5e5a6fe1b3fbbf276057e6b5aa22e08e09c"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R261_800.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R261_800.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "2d17add57371f77ef08a4ae7c16089b2ce2bc23d028dc5db99c06151ecc7b9ab",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R261_800.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "2d17add57371f77ef08a4ae7c16089b2ce2bc23d028dc5db99c06151ecc7b9ab"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R37_100.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R37_100.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "d9e4a901233e4c71d986883f7cca5a47446b768111224b7f7757e45cb0b8ba57",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R37_100.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "d9e4a901233e4c71d986883f7cca5a47446b768111224b7f7757e45cb0b8ba57"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R41_128.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R41_128.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "a1428a04944f62d95e4793e85da6717d7c9e544fce0c78d247c655b6f3abac24",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R41_128.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "a1428a04944f62d95e4793e85da6717d7c9e544fce0c78d247c655b6f3abac24"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R427_1600.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R427_1600.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "b689dc5db8a02721ddd21c78055abdb2df26cf2f83e8b695eb41892513d299cd",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R427_1600.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "b689dc5db8a02721ddd21c78055abdb2df26cf2f83e8b695eb41892513d299cd"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R49_200.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R49_200.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "d3278893664ae1a7690abb78c7fab2dfaf19cbbbe188075f3f5c288296aa9212",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R49_200.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "d3278893664ae1a7690abb78c7fab2dfaf19cbbbe188075f3f5c288296aa9212"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R503_1600.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R503_1600.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "8d78e2eb7fcde7ac14e1ea61c38c63db655027941cc0324e8f05672f977bb2e1",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R503_1600.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "8d78e2eb7fcde7ac14e1ea61c38c63db655027941cc0324e8f05672f977bb2e1"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R51_200.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R51_200.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "faccac805cafb32f1539b332e1fa74498a4d9e45f02088d17c26fa3cc0da04a1",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R51_200.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "faccac805cafb32f1539b332e1fa74498a4d9e45f02088d17c26fa3cc0da04a1"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R541_1600.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R541_1600.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "b9ba12c341f418b25843200fa26eb5212e61d3d8c959d092535eefbe534b98bf",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R541_1600.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "b9ba12c341f418b25843200fa26eb5212e61d3d8c959d092535eefbe534b98bf"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R69_200.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R69_200.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "7eed5828cd3f493e76e795573eda1618491abbdf71e035e7d63a66b77b394c79",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R69_200.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "7eed5828cd3f493e76e795573eda1618491abbdf71e035e7d63a66b77b394c79"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R71_200.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R71_200.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "89be766c3683570e1c1adc04ab799a5a59051917ee99091e7c0233631444d624",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R71_200.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "89be766c3683570e1c1adc04ab799a5a59051917ee99091e7c0233631444d624"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R7_40.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R7_40.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "476daa71ffd5460d6f1ea3c04f63e484210017d150765829efe02fab672fc24f",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R7_40.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (9b002ec0c6c3)",
+   "pub_commit": "9b002ec0c6c3933fde93532e0d35c59f64419846",
+   "pub_sha256": "476daa71ffd5460d6f1ea3c04f63e484210017d150765829efe02fab672fc24f"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R911_3200.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R911_3200.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "6d494896c78d4e44003b0a829155363e5910ea1f1efdff45777d42bce805227e",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R911_3200.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "6d494896c78d4e44003b0a829155363e5910ea1f1efdff45777d42bce805227e"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R93_320.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R93_320.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "24e8b26540ac12a0f0d52b47fc2adb0e5473193a70b7a37a8b09da018d744b18",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R93_320.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "24e8b26540ac12a0f0d52b47fc2adb0e5473193a70b7a37a8b09da018d744b18"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R949_3200.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R949_3200.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "3de32b4b489f5df6551d7649cb3a5cf8d5872f7738cb3dd97df6102336a3cba1",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R949_3200.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "3de32b4b489f5df6551d7649cb3a5cf8d5872f7738cb3dd97df6102336a3cba1"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P2/T_R987_3200.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P2/T_R987_3200.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "e5ba1afd2e15976dc7b12fbc12ffa1373d62b0c8df570360a838df9ccbb92360",
+   "copied_to": "lean/formal_cert/BAOCert/P2/T_R987_3200.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "e5ba1afd2e15976dc7b12fbc12ffa1373d62b0c8df570360a838df9ccbb92360"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Axioms.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Axioms.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "39dcdf28b926a0e416a12988fa2459d971e768a7f641311b7eb4ed9ba3f48114",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Axioms.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "39dcdf28b926a0e416a12988fa2459d971e768a7f641311b7eb4ed9ba3f48114"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_000.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_000.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "ef56e1a389dbfd613610733d6a937577326a35d8fecbc94cde924dd952cfb983",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_000.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "ef56e1a389dbfd613610733d6a937577326a35d8fecbc94cde924dd952cfb983"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_001.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_001.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "4a856574f3051dba85c9c84fcaa8f77ff8ee62eed219262e81a8679321d2697e",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_001.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "4a856574f3051dba85c9c84fcaa8f77ff8ee62eed219262e81a8679321d2697e"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_002.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_002.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "0b5be007d8ce0911594063b8bb615dc0dee146f03c47bd6a2ff83a93dbe5f742",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_002.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "0b5be007d8ce0911594063b8bb615dc0dee146f03c47bd6a2ff83a93dbe5f742"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_003.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_003.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "9362949c805d1f1d1aed4eed0e475a5342ac9f48709863c479afe5eb67ced159",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_003.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "9362949c805d1f1d1aed4eed0e475a5342ac9f48709863c479afe5eb67ced159"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_004.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_004.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "7637bbb54455fd6b892389cab2e3f2f8333472f106d471f45dfd429d6f72b8b2",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_004.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "7637bbb54455fd6b892389cab2e3f2f8333472f106d471f45dfd429d6f72b8b2"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_005.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_005.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "369163c23dbe994c2955073cd81f250a0927f044ae55c35b8eba70a02e32be83",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_005.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "369163c23dbe994c2955073cd81f250a0927f044ae55c35b8eba70a02e32be83"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_006.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_006.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "2b3e4110294ec101552a58137f92abc35476b7653e99d7e28cc0bd3ad440a7f3",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_006.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "2b3e4110294ec101552a58137f92abc35476b7653e99d7e28cc0bd3ad440a7f3"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_007.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_007.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "5fc92973ee3e4aa3b2607f52b49bc627e19841e2e833ae23d3826096e99daa0a",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_007.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "5fc92973ee3e4aa3b2607f52b49bc627e19841e2e833ae23d3826096e99daa0a"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_008.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_008.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "5ec47c21df03a8c12017054b13097a526e89179e7e3fcc00061a0341dd22bbec",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_008.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "5ec47c21df03a8c12017054b13097a526e89179e7e3fcc00061a0341dd22bbec"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_009.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_009.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "2e3bea6795576109b2545b58a7cdf4110a9bd402abeec5cda103da674d05c152",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_009.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "2e3bea6795576109b2545b58a7cdf4110a9bd402abeec5cda103da674d05c152"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_010.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_010.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "f9a6f2322702b716904d1a7b50097582cce0342777da00e686117b2d7028117a",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_010.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "f9a6f2322702b716904d1a7b50097582cce0342777da00e686117b2d7028117a"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_011.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_011.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "b03f4bebe1a70d076c7adf5115c60aa9dd8b202805eda017fe5ef2de64f7f312",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_011.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "b03f4bebe1a70d076c7adf5115c60aa9dd8b202805eda017fe5ef2de64f7f312"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_012.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_012.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "cc0d36e0bff741e98173ebea4a0b176f2c54430316ab16cf76d91e9c5377fb55",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_012.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "cc0d36e0bff741e98173ebea4a0b176f2c54430316ab16cf76d91e9c5377fb55"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_013.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_013.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "e46cae50d665c94eb2c88bc711cd6a178afe8f95f0426ea013b23d2c2f49fd3d",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_013.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "e46cae50d665c94eb2c88bc711cd6a178afe8f95f0426ea013b23d2c2f49fd3d"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_014.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_014.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "f7b94cb670d48aa21ce1136a235c56c7ad84bc47c992262c2d651934b3b03b7b",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_014.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "f7b94cb670d48aa21ce1136a235c56c7ad84bc47c992262c2d651934b3b03b7b"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_015.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_015.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "8d114e16c3a0ff93f73974671e231916b352b1db603c73bfe3a4c9650f228088",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_015.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "8d114e16c3a0ff93f73974671e231916b352b1db603c73bfe3a4c9650f228088"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_016.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_016.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "51e0ee7a3c75642a7d7dba42c025dc68f738fddc63dfdd723c439fb2e2f65909",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_016.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "51e0ee7a3c75642a7d7dba42c025dc68f738fddc63dfdd723c439fb2e2f65909"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_017.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_017.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "4483a957f3c4c558572bc1d0160c0303995cfec6066f44fbc3f95539497a5744",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_017.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "4483a957f3c4c558572bc1d0160c0303995cfec6066f44fbc3f95539497a5744"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_018.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_018.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "e32e90cdf75d0ab2a7cb67608f85463f6f994fcc8e08a03d71d7af0d454d937d",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_018.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "e32e90cdf75d0ab2a7cb67608f85463f6f994fcc8e08a03d71d7af0d454d937d"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_019.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_019.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "50323fa1f08f3245cac5a03f181b7cd397059b7af5b253fbcc6a15e888bc7b2c",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_019.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "50323fa1f08f3245cac5a03f181b7cd397059b7af5b253fbcc6a15e888bc7b2c"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_020.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_020.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "af4ad778d398702763a540c88250f47161de892c3ee2a5969df9bca0c0137c2e",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_020.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "af4ad778d398702763a540c88250f47161de892c3ee2a5969df9bca0c0137c2e"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_021.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_021.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "4cdc3dec38676e51848e6cdfc42f2adee09d537e75c254a55f7397eb82e69d1b",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_021.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "4cdc3dec38676e51848e6cdfc42f2adee09d537e75c254a55f7397eb82e69d1b"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_022.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_022.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "453aa41e9293203a89fb51bf0185e0497b5aedc7b9f79611768f4fc90f81b640",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_022.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "453aa41e9293203a89fb51bf0185e0497b5aedc7b9f79611768f4fc90f81b640"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_023.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_023.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "c8b183f732408684cac9e31fc3c5bd96ac08148392214c9ef6a948db0e8c9120",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_023.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "c8b183f732408684cac9e31fc3c5bd96ac08148392214c9ef6a948db0e8c9120"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_024.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_024.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "b0ba4eeaba295488471e59d0532244ea97567ade5915f287b37c13e86967a466",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_024.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "b0ba4eeaba295488471e59d0532244ea97567ade5915f287b37c13e86967a466"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_025.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_025.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "5d4a33995e7b4afd6519372c9f4953cca2d021dd789de684100c1bd190cb8b28",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_025.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "5d4a33995e7b4afd6519372c9f4953cca2d021dd789de684100c1bd190cb8b28"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_026.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_026.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "543e5b7767d75ad1946083234d3d22ac9ba4b2c33e70185208e4ffc9f6503d32",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_026.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "543e5b7767d75ad1946083234d3d22ac9ba4b2c33e70185208e4ffc9f6503d32"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_027.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_027.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "ff5fdba3af7c79883fad98448b6b56d9e7ff5bd47041d2be5d67aa2c9972c767",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_027.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "ff5fdba3af7c79883fad98448b6b56d9e7ff5bd47041d2be5d67aa2c9972c767"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_028.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_028.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "dd0814881303e5ad99304151652459e1b64760e221d2c8bbe26c7d66e792a375",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_028.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "dd0814881303e5ad99304151652459e1b64760e221d2c8bbe26c7d66e792a375"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_029.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_029.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "3d2ad69e7462a3d26a2574ab7f563154bb1c36b8bf15c4c08fea31b45541c0b0",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_029.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "3d2ad69e7462a3d26a2574ab7f563154bb1c36b8bf15c4c08fea31b45541c0b0"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_030.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_030.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "8f8645e71a0df76daa1f746402a600aee6a65cd2858a9218cd2ff7c603d5d285",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_030.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "8f8645e71a0df76daa1f746402a600aee6a65cd2858a9218cd2ff7c603d5d285"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_031.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_031.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "3396ef74ba37b41e057b71efd21c2cf2577792d0a69bd309602c3af267afc57f",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_031.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "3396ef74ba37b41e057b71efd21c2cf2577792d0a69bd309602c3af267afc57f"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_032.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_032.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "0071e9e3ee751332b85e6edd48746737de98c972e7bc06a69a04e2d7c9d0a8c4",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_032.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "0071e9e3ee751332b85e6edd48746737de98c972e7bc06a69a04e2d7c9d0a8c4"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_033.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_033.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "ff4ed57227cb8653ebf6ee3ea1cd7748df0031c308263bfcd35725d21321cf04",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_033.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "ff4ed57227cb8653ebf6ee3ea1cd7748df0031c308263bfcd35725d21321cf04"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_034.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_034.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "e37063b6087305c4e8860acb50d62747e07acd1823edc761bd42299db7020c87",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_034.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "e37063b6087305c4e8860acb50d62747e07acd1823edc761bd42299db7020c87"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_035.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_035.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "0c64779f3bd8a95560cab9f60e626818aed3aa64ee1a5b437c5e976fc8b0f915",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_035.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "0c64779f3bd8a95560cab9f60e626818aed3aa64ee1a5b437c5e976fc8b0f915"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_036.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_036.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "f009bb747aa877a5de8f15036dbf1fe219a0ecd4b955c9a66d78e93e685b5757",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_036.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "f009bb747aa877a5de8f15036dbf1fe219a0ecd4b955c9a66d78e93e685b5757"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_037.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_037.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "337114f74c8aa5eb2a2c87eff10629c23cc049288ce21a4af7445f461c7ecd0d",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_037.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "337114f74c8aa5eb2a2c87eff10629c23cc049288ce21a4af7445f461c7ecd0d"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_038.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_038.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "c90a5277a5bda397a3e0f35195424d1578164f337f578b952a3efeb7a61d275f",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_038.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "c90a5277a5bda397a3e0f35195424d1578164f337f578b952a3efeb7a61d275f"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_039.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_039.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "775902ddee7545a73bd3e7b83e4aaac2f6a0f1601f84837fe456296b5d4dab6a",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_039.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "775902ddee7545a73bd3e7b83e4aaac2f6a0f1601f84837fe456296b5d4dab6a"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_040.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_040.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "428cf4e36570cadc73112031fa1efa91eee5419937f295b7ac820104d6cadc51",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_040.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "428cf4e36570cadc73112031fa1efa91eee5419937f295b7ac820104d6cadc51"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_041.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_041.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "2d3d6ff4cfce1ecd124af8e4b3017729d0dcbcaf38a688f4b4768de77fe06386",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_041.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "2d3d6ff4cfce1ecd124af8e4b3017729d0dcbcaf38a688f4b4768de77fe06386"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_042.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_042.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "1109a6e96c498b88d0a435ba3d65ddb03e8a07e816bb2fbe0bf7eb51b17e1eac",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_042.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "1109a6e96c498b88d0a435ba3d65ddb03e8a07e816bb2fbe0bf7eb51b17e1eac"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_043.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_043.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "2d74b9a2074e9b5eea3433534afdad02cd291777d2166a3968d652a3b49b75c3",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_043.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "2d74b9a2074e9b5eea3433534afdad02cd291777d2166a3968d652a3b49b75c3"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_044.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_044.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "261180d08ff9090f90f59758174a3e426eef4899a8a08f8095d9f7d2816c99c1",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_044.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "261180d08ff9090f90f59758174a3e426eef4899a8a08f8095d9f7d2816c99c1"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_045.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_045.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "b657d4646c54d48d45ea59adc368d66135baf725c07d95f00dce3cbfa7427f16",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_045.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "b657d4646c54d48d45ea59adc368d66135baf725c07d95f00dce3cbfa7427f16"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_046.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_046.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "37d6a61adeef060cdc2a4476b91055fa1d09869a4755815a5d25678a4b0f7ffd",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_046.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "37d6a61adeef060cdc2a4476b91055fa1d09869a4755815a5d25678a4b0f7ffd"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_047.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_047.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "8abe79e6eb78157060bb0cffd28b5a421f994fffff804cce597b0cb0e0f04f6c",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_047.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "8abe79e6eb78157060bb0cffd28b5a421f994fffff804cce597b0cb0e0f04f6c"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_048.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_048.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "19c7bc49b5d3018500c16e5a062c426ec1b6ca5efacacbded56ad5f391230af5",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_048.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "19c7bc49b5d3018500c16e5a062c426ec1b6ca5efacacbded56ad5f391230af5"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_049.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_049.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "c1cf94393ee94633b34858b91ad75be9850691e06f2d9a3984b5a6bd7dc1f242",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_049.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "c1cf94393ee94633b34858b91ad75be9850691e06f2d9a3984b5a6bd7dc1f242"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_050.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_050.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "e3c78f127a73e6cbdc88b13a90886e578cf9cbfced0d93c20b941195fe657062",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_050.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "e3c78f127a73e6cbdc88b13a90886e578cf9cbfced0d93c20b941195fe657062"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_051.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_051.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "1f568a82033f39bdadca933f58378e1423ad6a9783d279c230408efc3fbc28f2",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_051.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "1f568a82033f39bdadca933f58378e1423ad6a9783d279c230408efc3fbc28f2"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_052.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_052.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "889e093b075a933b6609922d8068de5f7588895fa2b74d8c3ed0c441215786f8",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_052.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "889e093b075a933b6609922d8068de5f7588895fa2b74d8c3ed0c441215786f8"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_053.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_053.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "e208d5e82bfa51fd9f083fb997885a78314ad66b2a92965f6c8af1d42c1520d7",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_053.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "e208d5e82bfa51fd9f083fb997885a78314ad66b2a92965f6c8af1d42c1520d7"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_054.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_054.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "d7e2197e81df2db6795cac43bd10be026756cb0e284a7ef364f3763728754e4b",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_054.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "d7e2197e81df2db6795cac43bd10be026756cb0e284a7ef364f3763728754e4b"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_055.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_055.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "22ee387853dd76e3b4578e963c8993b50529f1b1613be560aecd2a4fba553629",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_055.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "22ee387853dd76e3b4578e963c8993b50529f1b1613be560aecd2a4fba553629"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_056.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_056.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "c48c8d5e80f3505ebd6f83b00dc11a41cd0dbd00227de6d74267f071753bb8ee",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_056.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "c48c8d5e80f3505ebd6f83b00dc11a41cd0dbd00227de6d74267f071753bb8ee"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_057.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_057.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "0537beec2f5dbca8a89b670957d587d639c8b351e46d6a397131594f282593c6",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_057.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "0537beec2f5dbca8a89b670957d587d639c8b351e46d6a397131594f282593c6"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_058.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_058.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "0bd3cf8f608e8eb9010fc5cbffad5bda128d6a1561dd48f2776da56527a981a8",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_058.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "0bd3cf8f608e8eb9010fc5cbffad5bda128d6a1561dd48f2776da56527a981a8"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_059.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_059.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "6b6bfa766a8ed4305c481482355c534255de6cbc2b8801e88abd73f13713e863",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_059.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "6b6bfa766a8ed4305c481482355c534255de6cbc2b8801e88abd73f13713e863"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_060.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_060.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "da1de3bb6df6d6b8a83cefc6c004e01202bb3ea59c277b9b4face19105643dcb",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_060.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "da1de3bb6df6d6b8a83cefc6c004e01202bb3ea59c277b9b4face19105643dcb"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_061.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_061.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "b060d32ced173f29a6038c6c1f24cbe6ef4f41cc298cb7359d92dc513761b29d",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_061.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "b060d32ced173f29a6038c6c1f24cbe6ef4f41cc298cb7359d92dc513761b29d"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_062.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_062.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "a43937704c11e55c50f34ed095cc71fb8befce358a396c202154812839a515f0",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_062.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "a43937704c11e55c50f34ed095cc71fb8befce358a396c202154812839a515f0"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_063.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_063.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "ef80c0a74ce88f938bff7eef36c9305b3c8000da19d8164689a1e6531ee56f6e",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_063.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "ef80c0a74ce88f938bff7eef36c9305b3c8000da19d8164689a1e6531ee56f6e"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_064.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_064.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "7ab340b9cb5ecde0fb7a81e64315d2f9af786c7cb1ab0b8b666011ae4e81e02e",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_064.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "7ab340b9cb5ecde0fb7a81e64315d2f9af786c7cb1ab0b8b666011ae4e81e02e"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_065.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_065.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "57741f42e071be4bf07af387ccfc86dabd7f0fae022eb50b75a3325de807b33e",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_065.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "57741f42e071be4bf07af387ccfc86dabd7f0fae022eb50b75a3325de807b33e"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_066.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_066.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "c21a4c6bf374e6f15f356a1fc98b9de5d26ea8b6447c3716a6e91cd4f99f1832",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_066.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "c21a4c6bf374e6f15f356a1fc98b9de5d26ea8b6447c3716a6e91cd4f99f1832"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_067.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_067.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "0816c52cf0580f615c81c93186c0fcae3c8eb28f2f861a045b7b8efcffc369fb",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_067.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "0816c52cf0580f615c81c93186c0fcae3c8eb28f2f861a045b7b8efcffc369fb"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_068.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_068.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "49a173912d174a97a42e6160f9fe274eeb56d53ce4c344e0cba624c78f50e3d9",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_068.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "49a173912d174a97a42e6160f9fe274eeb56d53ce4c344e0cba624c78f50e3d9"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_069.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_069.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "4fca6940bcb6a2aca4ff06f95a4c1f2a896ecfdcf70d4763590270750c9b0e85",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_069.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "4fca6940bcb6a2aca4ff06f95a4c1f2a896ecfdcf70d4763590270750c9b0e85"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_070.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_070.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "1618af36909d99e99f34c20eb3e84c270f0d186187c594d1c31bb50fccfcf677",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_070.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "1618af36909d99e99f34c20eb3e84c270f0d186187c594d1c31bb50fccfcf677"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_071.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_071.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "0324f2a2f0aabe0f41d9d89f6edaf4794ce433f6da8fab19c04513af1cb5a18d",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_071.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "0324f2a2f0aabe0f41d9d89f6edaf4794ce433f6da8fab19c04513af1cb5a18d"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_072.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_072.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "dcc36da9f8b43245ef0476eac4ab55656166adc2d859522b5bad250e2e873578",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_072.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "dcc36da9f8b43245ef0476eac4ab55656166adc2d859522b5bad250e2e873578"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_073.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_073.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "510ca22200297d19d547fff964b14a1dbb79bd3548e54c920bd936d109ae5ba3",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_073.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "510ca22200297d19d547fff964b14a1dbb79bd3548e54c920bd936d109ae5ba3"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_074.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_074.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "6205435c283b1459ba91e98a68b43db91253a8723bba79ad1cb83f11843a6427",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_074.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "6205435c283b1459ba91e98a68b43db91253a8723bba79ad1cb83f11843a6427"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_075.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_075.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "a672a5b3d643edc804f5e927e5f040e0cca165eee29cf87e9f3b1cfd486bcbed",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_075.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "a672a5b3d643edc804f5e927e5f040e0cca165eee29cf87e9f3b1cfd486bcbed"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_076.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_076.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "3b2c311f02c0ea141cfaa2358daf5660b503d929ae8b05d56ff4316332ba624a",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_076.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "3b2c311f02c0ea141cfaa2358daf5660b503d929ae8b05d56ff4316332ba624a"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_077.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_077.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "e50b411348b58dfbb17f105e246f8d58afdd245a7b4a03aa8fe37747c9999b8e",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_077.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "e50b411348b58dfbb17f105e246f8d58afdd245a7b4a03aa8fe37747c9999b8e"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_078.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_078.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "5122caddd8ec739ad0fcee1671b1647dacbf1c8c5ea65cc0605bdf8affba35a5",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_078.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "5122caddd8ec739ad0fcee1671b1647dacbf1c8c5ea65cc0605bdf8affba35a5"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_079.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_079.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "cdb0bf43f10cc276c116f7a15557854050705ce939769e509af51780fee17fa8",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_079.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "cdb0bf43f10cc276c116f7a15557854050705ce939769e509af51780fee17fa8"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_080.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_080.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "7bef60a4a0cc0b7463671fea2ec52eae8bfc36d1488e5b0ba4caaf9f7eb462d5",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_080.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "7bef60a4a0cc0b7463671fea2ec52eae8bfc36d1488e5b0ba4caaf9f7eb462d5"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_081.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_081.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "29ef266cc81fcacb4c5661f50e479c3bef94be3b86037834a4b2005dce9e08a0",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_081.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "29ef266cc81fcacb4c5661f50e479c3bef94be3b86037834a4b2005dce9e08a0"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_082.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_082.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "5c2cd61fd4caa95fd13c34c6b92bda6a38a60820ed5f7d233756ad94c423d7a6",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_082.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "5c2cd61fd4caa95fd13c34c6b92bda6a38a60820ed5f7d233756ad94c423d7a6"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_083.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_083.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "cedb6e11c9506a671587f953fc77f9596bdf50854000c3af9d488ebba03e18ad",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_083.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "cedb6e11c9506a671587f953fc77f9596bdf50854000c3af9d488ebba03e18ad"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_084.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_084.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "29b9f0a22dfdd7419934ae6e569279bfc1ee1676168c51f7ff3eb28a39b8b9c2",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_084.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "29b9f0a22dfdd7419934ae6e569279bfc1ee1676168c51f7ff3eb28a39b8b9c2"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_085.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_085.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "d22e42a8b0182e755193f46985b17073b936aa0e4861003d9c157f19f9755033",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_085.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "d22e42a8b0182e755193f46985b17073b936aa0e4861003d9c157f19f9755033"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_086.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_086.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "08fba1a8c1b52dac581a976cde09bf5ee20f991c0ef05586b0005c9bec8e9ed1",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_086.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "08fba1a8c1b52dac581a976cde09bf5ee20f991c0ef05586b0005c9bec8e9ed1"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_087.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_087.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "d8bdb78901fc41b86973b49aa2a6d3f69805d0ac1838aaa7d64ced5e8e49e04b",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_087.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "d8bdb78901fc41b86973b49aa2a6d3f69805d0ac1838aaa7d64ced5e8e49e04b"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Box_088.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Box_088.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "eafa33d00d9a1f06ba1aa5938f0956825e1c3b82f23ea4270584eabb4a01d59e",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Box_088.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "eafa33d00d9a1f06ba1aa5938f0956825e1c3b82f23ea4270584eabb4a01d59e"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Glue.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Glue.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "28a5214959a44c74e9c74ae826be73ca7fe756db97b908b119cebdd3ce4df6f2",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Glue.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "28a5214959a44c74e9c74ae826be73ca7fe756db97b908b119cebdd3ce4df6f2"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Main.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Main.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "04b8e68429a4009fe00f854ac0f01495429abb943513b6668ab125505693550b",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Main.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "04b8e68429a4009fe00f854ac0f01495429abb943513b6668ab125505693550b"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/BAOCert/P3/Point.lean",
+   "aliases": [
+    "formal_cert/BAOCert/P3/Point.lean"
+   ],
+   "recorded_sha256": [],
+   "via": [
+    "cited in the paper text (no hash recorded)"
+   ],
+   "current_sha256": "a7da64d9bf99e22047c3d8db4689e55e4e8c5463438386c27c22cae25a6cd4eb",
+   "copied_to": "lean/formal_cert/BAOCert/P3/Point.lean",
+   "upstream": null,
+   "status": "copied; identical to the version last committed before publication (60e8020cbda0)",
+   "pub_commit": "60e8020cbda08a558c51f754067e49d9fefc5059",
+   "pub_sha256": "a7da64d9bf99e22047c3d8db4689e55e4e8c5463438386c27c22cae25a6cd4eb"
+  }
+ ]
+}

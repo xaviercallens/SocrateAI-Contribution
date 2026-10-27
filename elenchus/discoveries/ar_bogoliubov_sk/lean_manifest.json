@@ -1,0 +1,53 @@
+{
+ "slug": "ar_bogoliubov_sk",
+ "files": [
+  {
+   "ref": "<producer-repo>/results/autoresearch/2026-10-25/H8/contribution/Autoresearch_SkBoundShape.lean",
+   "aliases": [
+    "<producer-repo>/results/autoresearch/2026-10-25/H8/contribution/Autoresearch_SkBoundShape.lean"
+   ],
+   "recorded_sha256": [
+    "fac6c85f9e6c0bd7b60861a9e1286a56283ef211d006630351ebb3c0e9e39454"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "fac6c85f9e6c0bd7b60861a9e1286a56283ef211d006630351ebb3c0e9e39454",
+   "copied_to": "lean/results/autoresearch/2026-10-25/H8/contribution/Autoresearch_SkBoundShape.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/results/autoresearch/2026-10-25/H8/contribution/Autoresearch_SkBoundShapeControls.lean",
+   "aliases": [
+    "<producer-repo>/results/autoresearch/2026-10-25/H8/contribution/Autoresearch_SkBoundShapeControls.lean"
+   ],
+   "recorded_sha256": [
+    "0beb41c999802886a4ee02d29875a01a064da2ea8936fc3b577dbe707db92ed5"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "0beb41c999802886a4ee02d29875a01a064da2ea8936fc3b577dbe707db92ed5",
+   "copied_to": "lean/results/autoresearch/2026-10-25/H8/contribution/Autoresearch_SkBoundShapeControls.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<data-disk>/leanmaster/SocrateAI-Scientific-QuantumFluids/lean_src/DualLength.lean",
+   "aliases": [
+    "<data-disk>/leanmaster/SocrateAI-Scientific-QuantumFluids/lean_src/DualLength.lean"
+   ],
+   "recorded_sha256": [
+    "a28ce47e70c64ce9edb0496cba41a698cb40a93fc622927025f801501e740d04"
+   ],
+   "via": [
+    "ledger evidence"
+   ],
+   "current_sha256": "a28ce47e70c64ce9edb0496cba41a698cb40a93fc622927025f801501e740d04",
+   "copied_to": "lean/external/SocrateAI-Scientific-QuantumFluids/lean_src/DualLength.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  }
+ ]
+}

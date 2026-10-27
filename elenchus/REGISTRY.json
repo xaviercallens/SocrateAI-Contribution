@@ -1,0 +1,1367 @@
+{
+ "schema": "elenchus-discoveries-registry/1",
+ "generated_utc": "2026-10-26T10:11:42Z",
+ "source": "AutoevolveAI branch worktree-openai-math-discovery, papers/ (+ results/ ledgers and audits)",
+ "excluded": [
+  {
+   "doi": "10.5281/zenodo.23003926",
+   "why": "cosmo3 BAO reproduction (Sept 2026): a different run and worktree (worktree-cosmo3-run), before this programme"
+  },
+  {
+   "doi": "10.5281/zenodo.23293111",
+   "why": "concept DOI of ED-06/ED-07, recorded as concept_doi, not a separate publication"
+  },
+  {
+   "item": "papers/textbook_formalisation_2026",
+   "why": "no DOI: unaudited draft"
+  }
+ ],
+ "entries": [
+  {
+   "id": "ED-01",
+   "slug": "dyadic_triangular_hilbert",
+   "version": "v1",
+   "title": "The sharp constant of the absolute dyadic triangular Hilbert sum is at least 3",
+   "doi": "10.5281/zenodo.23232389",
+   "doi_url": "https://doi.org/10.5281/zenodo.23232389",
+   "zenodo_record": "https://zenodo.org/records/23232389",
+   "concept_doi": "10.5281/zenodo.23232388",
+   "date": "2026-10-08",
+   "type": "paper",
+   "domain": "harmonic analysis",
+   "result_kind": "positive (lower bound)",
+   "tiers": null,
+   "ledger_gate": null,
+   "audit_verdict": null,
+   "audit_source": null,
+   "audit_note": "independent pre-publication review (run notes); no AUDIT.md file",
+   "auditor": null,
+   "human_audit": false,
+   "lean_files": {
+    "cited": 0,
+    "copied": 0,
+    "upstream_listed": 0,
+    "list": "discoveries/dyadic_triangular_hilbert/LEAN.md"
+   },
+   "code": [],
+   "caveat": "C* >= 3 holds for the ABSOLUTE dyadic sum only; nothing transfers to upstream's signed form; nothing in it is machine-checked.",
+   "discovery_dir": "discoveries/dyadic_triangular_hilbert/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "The sharp constant of the absolute dyadic triangular Hilbert sum is at least 3",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23232389",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23232389"
+  },
+  {
+   "id": "ED-02",
+   "slug": "lt_matrix_audit",
+   "version": "v1",
+   "title": "A null result for the matrix-valued sharp one-dimensional Lieb-Thirring inequality, and a Comparator check of the scalar Lean formalisation",
+   "doi": "10.5281/zenodo.23245266",
+   "doi_url": "https://doi.org/10.5281/zenodo.23245266",
+   "zenodo_record": "https://zenodo.org/records/23245266",
+   "concept_doi": "10.5281/zenodo.23245265",
+   "date": "2026-10-08",
+   "type": "paper",
+   "domain": "mathematical physics (Lieb-Thirring)",
+   "result_kind": "negative (null result) + audit",
+   "tiers": null,
+   "ledger_gate": null,
+   "audit_verdict": null,
+   "audit_source": null,
+   "audit_note": "independent pre-publication review (run notes); no AUDIT.md file",
+   "auditor": null,
+   "human_audit": false,
+   "lean_files": {
+    "cited": 0,
+    "copied": 0,
+    "upstream_listed": 0,
+    "list": "discoveries/lt_matrix_audit/LEAN.md"
+   },
+   "code": [],
+   "caveat": "No violation found at ~1e-6 instrument resolution: a null result, not a proof; fidelity of the scalar Lean statement to the conjecture is not audited.",
+   "discovery_dir": "discoveries/lt_matrix_audit/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "A null result for the matrix-valued sharp one-dimensional Lieb-Thirring inequality, and a Comparator check of the scalar Lean formalisation",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23245266",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23245266"
+  },
+  {
+   "id": "ED-03",
+   "slug": "certified_bao",
+   "version": "v1",
+   "title": "Kernel-checked enclosures of DESI DR2 BAO distances in Lean 4: certifying solver output with integer certificates",
+   "doi": "10.5281/zenodo.23247730",
+   "doi_url": "https://doi.org/10.5281/zenodo.23247730",
+   "zenodo_record": "https://zenodo.org/records/23247730",
+   "concept_doi": "10.5281/zenodo.23247729",
+   "date": "2026-10-08",
+   "type": "paper",
+   "domain": "cosmology (certified numerics)",
+   "result_kind": "positive",
+   "tiers": null,
+   "ledger_gate": null,
+   "audit_verdict": "CONFIRMED_WITH_CORRECTIONS",
+   "audit_source": [
+    "results/certified_numerics/P1_bao/verification.md"
+   ],
+   "audit_note": null,
+   "auditor": "AI agent instance (model not named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 6,
+    "copied": 6,
+    "upstream_listed": 0,
+    "list": "discoveries/certified_bao/LEAN.md"
+   },
+   "code": [],
+   "caveat": "Kernel-checked enclosures of integrals at one parameter point (Om = 0.29743, the rusty-SUNDIALS fit, not DESI's value); not a new measurement.",
+   "discovery_dir": "discoveries/certified_bao/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "Kernel-checked enclosures of DESI DR2 BAO distances in Lean 4: certifying solver output with integer certificates",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23247730",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23247730"
+  },
+  {
+   "id": "ED-04",
+   "slug": "certified_desi_h0",
+   "version": "v1",
+   "title": "Kernel-checked constraints from DESI DR2 BAO in Lean 4: certified exclusions of Omega_m bands and of H0 >= 73 km/s/Mpc with a BBN prior",
+   "doi": "10.5281/zenodo.23284020",
+   "doi_url": "https://doi.org/10.5281/zenodo.23284020",
+   "zenodo_record": "https://zenodo.org/records/23284020",
+   "concept_doi": "10.5281/zenodo.23284019",
+   "date": "2026-10-10",
+   "type": "paper",
+   "domain": "cosmology (certified numerics)",
+   "result_kind": "partial (P2) + positive (P3)",
+   "tiers": null,
+   "ledger_gate": null,
+   "audit_verdict": "CONFIRMED_WITH_CORRECTIONS / CONFIRMED_WITH_CORRECTIONS",
+   "audit_source": [
+    "results/certified_numerics/P2_likelihood/verification.md",
+    "results/certified_numerics/P3_h0/verification.md"
+   ],
+   "audit_note": null,
+   "auditor": "AI agent instance (model not named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 206,
+    "copied": 206,
+    "upstream_listed": 0,
+    "list": "discoveries/certified_desi_h0/LEAN.md"
+   },
+   "code": [],
+   "caveat": "Certified version of a known tension (radiation off, Aubourg fitting formula, Gaussian likelihoods); preregistered slab layout H8 failed and was amended.",
+   "discovery_dir": "discoveries/certified_desi_h0/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "Kernel-checked constraints from DESI DR2 BAO in Lean 4: certified exclusions of Omega_m bands and of H0 >= 73 km/s/Mpc with a BBN prior",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23284020",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23284020"
+  },
+  {
+   "id": "ED-05",
+   "slug": "triangular_riesz",
+   "version": "v1",
+   "title": "Riesz-energy, finiteness and every-density corollaries of the openai/math planar universal-optimality theorem, kernel-checked in Lean 4",
+   "doi": "10.5281/zenodo.23285631",
+   "doi_url": "https://doi.org/10.5281/zenodo.23285631",
+   "zenodo_record": "https://zenodo.org/records/23285631",
+   "concept_doi": "10.5281/zenodo.23285630",
+   "date": "2026-10-10",
+   "type": "paper",
+   "domain": "discrete geometry / energy minimisation",
+   "result_kind": "positive (corollaries)",
+   "tiers": null,
+   "ledger_gate": null,
+   "audit_verdict": "CONFIRMED_WITH_CORRECTIONS / CONFIRMED_WITH_CORRECTIONS",
+   "audit_source": [
+    "results/discovery/D1/verification.md",
+    "results/discovery/D2/verification.md"
+   ],
+   "audit_note": null,
+   "auditor": "AI agent instance (model not named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 4,
+    "copied": 4,
+    "upstream_listed": 0,
+    "list": "discoveries/triangular_riesz/LEAN.md"
+   },
+   "code": [],
+   "caveat": "Conditional on upstream openai/math universal_energy_minimum (AI-generated, Comparator-accepted, statement not human-audited); informative only for Riesz s > 2.",
+   "discovery_dir": "discoveries/triangular_riesz/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "Riesz-energy, finiteness and every-density corollaries of the openai/math planar universal-optimality theorem, kernel-checked in Lean 4",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23285631",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23285631"
+  },
+  {
+   "id": "ED-06",
+   "slug": "universal_optimality_tiered",
+   "version": "v1",
+   "title": "Planar universal optimality, tiered: kernel-checked consequences, a non-uniqueness theorem, and a CVODE N-body consistency check for the Yukawa interaction",
+   "doi": "10.5281/zenodo.23293112",
+   "doi_url": "https://doi.org/10.5281/zenodo.23293112",
+   "zenodo_record": "https://zenodo.org/records/23293112",
+   "concept_doi": "10.5281/zenodo.23293111",
+   "date": "2026-10-11",
+   "type": "paper",
+   "domain": "discrete geometry + N-body numerics",
+   "result_kind": "positive (Tier A) + partial numerics",
+   "tiers": {
+    "A": 6,
+    "B": 0,
+    "L": 7,
+    "C": 3,
+    "X": 6
+   },
+   "ledger_gate": {
+    "claims": 22,
+    "gate_exit": 1,
+    "blocks": 0,
+    "flags": 6,
+    "flag_codes": [
+     "LEDGER_UNAUDITED_TIER_A"
+    ],
+    "block_codes": []
+   },
+   "audit_verdict": "ACCEPT_WITH_CORRECTIONS / CONFIRMED_WITH_CORRECTIONS",
+   "audit_source": [
+    "results/discovery/ledger/manuscript_audit_2026-10-11.md",
+    "results/discovery/D3/verification.md"
+   ],
+   "audit_note": null,
+   "auditor": "separate instance of the same AI model (named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 8,
+    "copied": 5,
+    "upstream_listed": 3,
+    "list": "discoveries/universal_optimality_tiered/LEAN.md"
+   },
+   "code": [
+    "https://github.com/xaviercallens/rusty-SUNDIALS/pull/72 (open, empty diff: its content reached main via #73, merged)",
+    "https://github.com/xaviercallens/SocrateAI-Scientific-MechanicaFluidorum/pull/1 (merged)",
+    "https://github.com/xaviercallens/SocrateAI-Scientific-Agora-LeanMaster/releases/tag/v3.49.0"
+   ],
+   "caveat": "v1. Shifted-force truncation at r_c = 8 shifts energies by more than the tri/square gap (erratum; exact-potential fix in ED-09); annealing fails at kappa = 1; 6 Tier A rows unaudited by a human; published by owner decision with gate exit 1.",
+   "discovery_dir": "discoveries/universal_optimality_tiered/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "Planar universal optimality, tiered: kernel-checked consequences, a non-uniqueness theorem, and a CVODE N-body consistency check for the Yukawa interaction",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23293112",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23293112"
+  },
+  {
+   "id": "ED-07",
+   "slug": "universal_optimality_tiered",
+   "version": "v2",
+   "title": "Planar universal optimality, tiered: kernel-checked consequences, a non-uniqueness theorem, and a CVODE N-body consistency check for the Yukawa interaction",
+   "doi": "10.5281/zenodo.23293429",
+   "doi_url": "https://doi.org/10.5281/zenodo.23293429",
+   "zenodo_record": "https://zenodo.org/records/23293429",
+   "concept_doi": "10.5281/zenodo.23293111",
+   "date": "2026-10-11",
+   "type": "paper",
+   "domain": "discrete geometry + N-body numerics",
+   "result_kind": "positive (Tier A) + partial numerics",
+   "tiers": {
+    "A": 6,
+    "B": 0,
+    "L": 7,
+    "C": 3,
+    "X": 6
+   },
+   "ledger_gate": {
+    "claims": 22,
+    "gate_exit": 1,
+    "blocks": 0,
+    "flags": 6,
+    "flag_codes": [
+     "LEDGER_UNAUDITED_TIER_A"
+    ],
+    "block_codes": []
+   },
+   "audit_verdict": "ACCEPT_WITH_CORRECTIONS / CONFIRMED_WITH_CORRECTIONS",
+   "audit_source": [
+    "results/discovery/ledger/manuscript_audit_2026-10-11.md",
+    "results/discovery/D3/verification.md"
+   ],
+   "audit_note": null,
+   "auditor": "separate instance of the same AI model (named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 8,
+    "copied": 5,
+    "upstream_listed": 3,
+    "list": "discoveries/universal_optimality_tiered/LEAN.md"
+   },
+   "code": [
+    "https://github.com/xaviercallens/rusty-SUNDIALS/pull/72 (open, empty diff: its content reached main via #73, merged)",
+    "https://github.com/xaviercallens/SocrateAI-Scientific-MechanicaFluidorum/pull/1 (merged)",
+    "https://github.com/xaviercallens/SocrateAI-Scientific-Agora-LeanMaster/releases/tag/v3.49.0"
+   ],
+   "caveat": "v2 of ED-06 (figures, jellium controls, lab protocols). Same truncation erratum (owed; fixed by ED-09). The local PDF is the current build, which may differ from the v2 upload.",
+   "discovery_dir": "discoveries/universal_optimality_tiered/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "Planar universal optimality, tiered: kernel-checked consequences, a non-uniqueness theorem, and a CVODE N-body consistency check for the Yukawa interaction",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23293429",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23293429"
+  },
+  {
+   "id": "ED-08",
+   "slug": "textbook_universal_optimality",
+   "version": "v1",
+   "title": "The Triangular Lattice and Universal Optimality: human proofs, Lean 4 verification, numerical validation in Python and Rust, and physics from fluids to plasmas (a textbook for students)",
+   "doi": "10.5281/zenodo.23295142",
+   "doi_url": "https://doi.org/10.5281/zenodo.23295142",
+   "zenodo_record": "https://zenodo.org/records/23295142",
+   "concept_doi": "10.5281/zenodo.23295141",
+   "date": "2026-10-11",
+   "type": "textbook",
+   "domain": "discrete geometry / physics (teaching)",
+   "result_kind": "exposition",
+   "tiers": null,
+   "ledger_gate": null,
+   "audit_verdict": "ACCEPT_WITH_CORRECTIONS",
+   "audit_source": [
+    "results/discovery/D4/verification.md"
+   ],
+   "audit_note": "D4 Lean verifier file; whole-book independent AI audit (run notes, 20 fixes) has no AUDIT.md file",
+   "auditor": "AI agent instance (model not named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 7,
+    "copied": 7,
+    "upstream_listed": 0,
+    "list": "discoveries/textbook_universal_optimality/LEAN.md"
+   },
+   "code": [
+    "rusty-SUNDIALS b7e4380 (jellium worktree)"
+   ],
+   "caveat": "Five chapters written by independent agents from one fact sheet; whole-book AI audit only; inherits the ED-06/07 truncation erratum; no ledger of its own.",
+   "discovery_dir": "discoveries/textbook_universal_optimality/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "The Triangular Lattice and Universal Optimality: human proofs, Lean 4 verification, numerical validation in Python and Rust, and physics from fluids to plasmas (a textbook for students)",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23295142",
+    "doi_match": true,
+    "resource_type": "Book",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23295142"
+  },
+  {
+   "id": "ED-09",
+   "slug": "ar_dipolar_exciton",
+   "version": "v1",
+   "title": "The bilayer dipolar-exciton interaction is completely monotone in r^2: kernel-checked triangular-lattice corollaries at every density and an exact-Ewald CVODE consistency study",
+   "doi": "10.5281/zenodo.23646103",
+   "doi_url": "https://doi.org/10.5281/zenodo.23646103",
+   "zenodo_record": "https://zenodo.org/records/23646103",
+   "concept_doi": "10.5281/zenodo.23646102",
+   "date": "2026-10-25",
+   "type": "paper",
+   "domain": "condensed matter (excitons)",
+   "result_kind": "positive",
+   "tiers": {
+    "A": 14,
+    "B": 0,
+    "L": 4,
+    "C": 7,
+    "X": 8
+   },
+   "ledger_gate": {
+    "claims": 33,
+    "gate_exit": 1,
+    "blocks": 0,
+    "flags": 14,
+    "flag_codes": [
+     "LEDGER_UNAUDITED_TIER_A"
+    ],
+    "block_codes": []
+   },
+   "audit_verdict": "ACCEPT_WITH_CORRECTIONS",
+   "audit_source": [
+    "papers/ar_dipolar_exciton/AUDIT.md"
+   ],
+   "audit_note": null,
+   "auditor": "AI agent instance (model not named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 9,
+    "copied": 7,
+    "upstream_listed": 2,
+    "list": "discoveries/ar_dipolar_exciton/LEAN.md"
+   },
+   "code": [
+    "https://github.com/xaviercallens/rusty-SUNDIALS/pull/74 (merged)",
+    "https://github.com/xaviercallens/SocrateAI-Scientific-Agora-LeanMaster/releases/tag/v3.49.0"
+   ],
+   "caveat": "Corollaries conditional on upstream universal_energy_minimum; CVODE numerics are Tier X.",
+   "discovery_dir": "discoveries/ar_dipolar_exciton/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "The bilayer dipolar-exciton interaction is completely monotone in r^2: kernel-checked triangular-lattice corollaries at every density and an exact-Ewald CVODE consistency study",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23646103",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23646103"
+  },
+  {
+   "id": "ED-10",
+   "slug": "ar_yukawa_crystal",
+   "version": "v1",
+   "title": "The triangular lattice minimises the planar Yukawa energy at every density and for every finite mixture of screening lengths: kernel-checked corollaries of planar universal optimality, a human proof, and an exact-potential CVODE consistency study",
+   "doi": "10.5281/zenodo.23646105",
+   "doi_url": "https://doi.org/10.5281/zenodo.23646105",
+   "zenodo_record": "https://zenodo.org/records/23646105",
+   "concept_doi": "10.5281/zenodo.23646104",
+   "date": "2026-10-25",
+   "type": "paper",
+   "domain": "plasma / colloids (Yukawa)",
+   "result_kind": "positive + erratum fix",
+   "tiers": {
+    "A": 11,
+    "B": 0,
+    "L": 5,
+    "C": 3,
+    "X": 6
+   },
+   "ledger_gate": {
+    "claims": 25,
+    "gate_exit": 1,
+    "blocks": 0,
+    "flags": 11,
+    "flag_codes": [
+     "LEDGER_UNAUDITED_TIER_A"
+    ],
+    "block_codes": []
+   },
+   "audit_verdict": "ACCEPT_WITH_CORRECTIONS",
+   "audit_source": [
+    "papers/ar_yukawa_crystal/AUDIT.md"
+   ],
+   "audit_note": null,
+   "auditor": "AI agent instance (model not named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 8,
+    "copied": 5,
+    "upstream_listed": 3,
+    "list": "discoveries/ar_yukawa_crystal/LEAN.md"
+   },
+   "code": [
+    "https://github.com/xaviercallens/rusty-SUNDIALS/pull/75 (merged)",
+    "https://github.com/xaviercallens/SocrateAI-Scientific-Agora-LeanMaster/releases/tag/v3.49.0"
+   ],
+   "caveat": "Exact (untruncated) potential fixes the shifted-force erratum of ED-06/07; corollaries conditional on upstream.",
+   "discovery_dir": "discoveries/ar_yukawa_crystal/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "The triangular lattice minimises the planar Yukawa energy at every density and for every finite mixture of screening lengths: kernel-checked corollaries of planar universal optimality, a human proof, and an exact-potential CVODE consistency study",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23646105",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23646105"
+  },
+  {
+   "id": "ED-11",
+   "slug": "ar_keldysh_tmd",
+   "version": "v1",
+   "title": "The Rytova-Keldysh interaction is a positive Gaussian mixture: kernel-checked admissibility for planar universal optimality and Keldysh-jellium Madelung energies of TMD Wigner lattices",
+   "doi": "10.5281/zenodo.23646107",
+   "doi_url": "https://doi.org/10.5281/zenodo.23646107",
+   "zenodo_record": "https://zenodo.org/records/23646107",
+   "concept_doi": "10.5281/zenodo.23646106",
+   "date": "2026-10-25",
+   "type": "paper",
+   "domain": "2D materials (TMD)",
+   "result_kind": "positive",
+   "tiers": {
+    "A": 9,
+    "B": 0,
+    "L": 5,
+    "C": 6,
+    "X": 10
+   },
+   "ledger_gate": {
+    "claims": 30,
+    "gate_exit": 1,
+    "blocks": 0,
+    "flags": 9,
+    "flag_codes": [
+     "LEDGER_UNAUDITED_TIER_A"
+    ],
+    "block_codes": []
+   },
+   "audit_verdict": "ACCEPT_WITH_CORRECTIONS",
+   "audit_source": [
+    "papers/ar_keldysh_tmd/AUDIT.md"
+   ],
+   "audit_note": null,
+   "auditor": "AI agent instance (model not named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 5,
+    "copied": 3,
+    "upstream_listed": 2,
+    "list": "discoveries/ar_keldysh_tmd/LEAN.md"
+   },
+   "code": [
+    "https://github.com/xaviercallens/rusty-SUNDIALS/pull/76 (merged)",
+    "https://github.com/xaviercallens/SocrateAI-Scientific-Agora-LeanMaster/releases/tag/v3.49.0"
+   ],
+   "caveat": "The Struve-form identification is Tier C (human argument, not machine-checked); finiteness of the regularised energy not proved; producer and verifier not separated at paper stage.",
+   "discovery_dir": "discoveries/ar_keldysh_tmd/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "The Rytova-Keldysh interaction is a positive Gaussian mixture: kernel-checked admissibility for planar universal optimality and Keldysh-jellium Madelung energies of TMD Wigner lattices",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23646107",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23646107"
+  },
+  {
+   "id": "ED-12",
+   "slug": "ar_sigma3_enstrophy",
+   "version": "v1",
+   "title": "A cutoff-independent enstrophy bound for the sigma = 3 dispersive dyadic shell model: kernel-checked conservation of the second invariant along solutions, CVODE controls, and an illustration on The Well data",
+   "doi": "10.5281/zenodo.23646111",
+   "doi_url": "https://doi.org/10.5281/zenodo.23646111",
+   "zenodo_record": "https://zenodo.org/records/23646111",
+   "concept_doi": "10.5281/zenodo.23646110",
+   "date": "2026-10-25",
+   "type": "paper",
+   "domain": "turbulence (shell models)",
+   "result_kind": "positive",
+   "tiers": {
+    "A": 7,
+    "B": 0,
+    "L": 2,
+    "C": 4,
+    "X": 5
+   },
+   "ledger_gate": {
+    "claims": 18,
+    "gate_exit": 1,
+    "blocks": 0,
+    "flags": 7,
+    "flag_codes": [
+     "LEDGER_UNAUDITED_TIER_A"
+    ],
+    "block_codes": []
+   },
+   "audit_verdict": "ACCEPT_WITH_CORRECTIONS",
+   "audit_source": [
+    "papers/ar_sigma3_enstrophy/AUDIT.md"
+   ],
+   "audit_note": null,
+   "auditor": "AI agent instance (model not named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 6,
+    "copied": 6,
+    "upstream_listed": 0,
+    "list": "discoveries/ar_sigma3_enstrophy/LEAN.md"
+   },
+   "code": [
+    "https://github.com/xaviercallens/rusty-SUNDIALS/pull/77 (merged)",
+    "https://github.com/xaviercallens/SocrateAI-Scientific-Agora-LeanMaster/releases/tag/v3.49.0"
+   ],
+   "caveat": "Specialisation of an existing owner lemma (dispersive_norm_le); The Well data used as illustration only.",
+   "discovery_dir": "discoveries/ar_sigma3_enstrophy/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "A cutoff-independent enstrophy bound for the sigma = 3 dispersive dyadic shell model: kernel-checked conservation of the second invariant along solutions, CVODE controls, and an illustration on The Well data",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23646111",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23646111"
+  },
+  {
+   "id": "ED-13",
+   "slug": "ar_bogoliubov_sk",
+   "version": "v1",
+   "title": "The Bogoliubov structure factor under the dual-scale envelope sqrt(k/2k_s): kernel-checked shape theorems, a one-sided diffraction test, and a Gross-Pitaevskii linear-response check in rusty-SUNDIALS",
+   "doi": "10.5281/zenodo.23646117",
+   "doi_url": "https://doi.org/10.5281/zenodo.23646117",
+   "zenodo_record": "https://zenodo.org/records/23646117",
+   "concept_doi": "10.5281/zenodo.23646116",
+   "date": "2026-10-25",
+   "type": "paper",
+   "domain": "superfluids (Bogoliubov)",
+   "result_kind": "positive (shape) + one-sided test",
+   "tiers": {
+    "A": 8,
+    "B": 0,
+    "L": 4,
+    "C": 4,
+    "X": 8
+   },
+   "ledger_gate": {
+    "claims": 24,
+    "gate_exit": 1,
+    "blocks": 0,
+    "flags": 8,
+    "flag_codes": [
+     "LEDGER_UNAUDITED_TIER_A"
+    ],
+    "block_codes": []
+   },
+   "audit_verdict": "ACCEPT_WITH_CORRECTIONS",
+   "audit_source": [
+    "papers/ar_bogoliubov_sk/AUDIT.md"
+   ],
+   "audit_note": null,
+   "auditor": "AI agent instance (model not named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 3,
+    "copied": 3,
+    "upstream_listed": 0,
+    "list": "discoveries/ar_bogoliubov_sk/LEAN.md"
+   },
+   "code": [
+    "https://github.com/xaviercallens/rusty-SUNDIALS/pull/78 (merged)",
+    "https://github.com/xaviercallens/SocrateAI-Scientific-Agora-LeanMaster/releases/tag/v3.49.0"
+   ],
+   "caveat": "No HuggingFace S(k) dataset exists (the paper says so); the diffraction test is one-sided.",
+   "discovery_dir": "discoveries/ar_bogoliubov_sk/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "The Bogoliubov structure factor under the dual-scale envelope sqrt(k/2k_s): kernel-checked shape theorems, a one-sided diffraction test, and a Gross-Pitaevskii linear-response check in rusty-SUNDIALS",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23646117",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23646117"
+  },
+  {
+   "id": "ED-14",
+   "slug": "prog_sandier_serfaty_audit",
+   "version": "v1",
+   "title": "The Sandier-Serfaty triangular-lattice conjecture: an independent reproduction of a claimed finite certificate, an adversarial audit of the claimed reduction, and a Lean statement (no proof of the conjecture is claimed)",
+   "doi": "10.5281/zenodo.23653827",
+   "doi_url": "https://doi.org/10.5281/zenodo.23653827",
+   "zenodo_record": "https://zenodo.org/records/23653827",
+   "concept_doi": "10.5281/zenodo.23653826",
+   "date": "2026-10-26",
+   "type": "paper",
+   "domain": "mathematical physics (Coulomb gases)",
+   "result_kind": "audit / reproduction",
+   "tiers": {
+    "A": 7,
+    "B": 0,
+    "L": 5,
+    "C": 5,
+    "X": 8
+   },
+   "ledger_gate": {
+    "claims": 25,
+    "gate_exit": 1,
+    "blocks": 0,
+    "flags": 7,
+    "flag_codes": [
+     "LEDGER_UNAUDITED_TIER_A"
+    ],
+    "block_codes": []
+   },
+   "audit_verdict": "ACCEPT_WITH_CORRECTIONS",
+   "audit_source": [
+    "papers/prog_sandier_serfaty_audit/AUDIT.md"
+   ],
+   "audit_note": null,
+   "auditor": "AI agent instance (model not named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 2,
+    "copied": 2,
+    "upstream_listed": 0,
+    "list": "discoveries/prog_sandier_serfaty_audit/LEAN.md"
+   },
+   "code": [
+    "[private LeanFlow repository] (open): commits 542cea97 (generator), 2c168be2 (sentinel + #exit refusal), 84e0c289 (docs)"
+   ],
+   "caveat": "No proof of the conjecture is claimed; the Lean file states the conjecture (not proved); the reduction is Tier C.",
+   "discovery_dir": "discoveries/prog_sandier_serfaty_audit/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "The Sandier-Serfaty triangular-lattice conjecture: an independent reproduction of a claimed finite certificate, an adversarial audit of the claimed reduction, and a Lean statement (no proof of the conjecture is claimed)",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23653827",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23653827"
+  },
+  {
+   "id": "ED-15",
+   "slug": "prog_zero_point_optimality",
+   "version": "v1",
+   "title": "Does the triangular lattice minimise the harmonic zero-point energy? A numerical counterexample for completely monotone potentials, with kernel-checked curvature identities",
+   "doi": "10.5281/zenodo.23653833",
+   "doi_url": "https://doi.org/10.5281/zenodo.23653833",
+   "zenodo_record": "https://zenodo.org/records/23653833",
+   "concept_doi": "10.5281/zenodo.23653832",
+   "date": "2026-10-26",
+   "type": "paper",
+   "domain": "lattice dynamics (zero-point energy)",
+   "result_kind": "negative (QU-1 refuted numerically)",
+   "tiers": {
+    "A": 8,
+    "B": 0,
+    "L": 3,
+    "C": 13,
+    "X": 13
+   },
+   "ledger_gate": {
+    "claims": 37,
+    "gate_exit": 1,
+    "blocks": 0,
+    "flags": 8,
+    "flag_codes": [
+     "LEDGER_UNAUDITED_TIER_A"
+    ],
+    "block_codes": []
+   },
+   "audit_verdict": "ACCEPT_WITH_CORRECTIONS",
+   "audit_source": [
+    "papers/prog_zero_point_optimality/AUDIT.md"
+   ],
+   "audit_note": null,
+   "auditor": "AI agent instance (model not named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 2,
+    "copied": 2,
+    "upstream_listed": 0,
+    "list": "discoveries/prog_zero_point_optimality/LEAN.md"
+   },
+   "code": [
+    "https://github.com/xaviercallens/rusty-SUNDIALS/pull/79 (open)"
+   ],
+   "caveat": "The refutation is a floating-point result (Tier X), reproduced by an independent spectral implementation to 1e-14; certified in part by ED-20.",
+   "discovery_dir": "discoveries/prog_zero_point_optimality/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "Does the triangular lattice minimise the harmonic zero-point energy? A numerical counterexample for completely monotone potentials, with kernel-checked curvature identities",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23653833",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23653833"
+  },
+  {
+   "id": "ED-16",
+   "slug": "prog_cm_bernstein_library",
+   "version": "v1",
+   "title": "Completely monotone and Bernstein functions in Lean 4: a kernel-checked library with a general subordination theorem, applied to planar universal optimality",
+   "doi": "10.5281/zenodo.23653842",
+   "doi_url": "https://doi.org/10.5281/zenodo.23653842",
+   "zenodo_record": "https://zenodo.org/records/23653842",
+   "concept_doi": "10.5281/zenodo.23653840",
+   "date": "2026-10-26",
+   "type": "paper",
+   "domain": "analysis (completely monotone functions)",
+   "result_kind": "positive (library)",
+   "tiers": {
+    "A": 20,
+    "B": 0,
+    "L": 5,
+    "C": 6,
+    "X": 4
+   },
+   "ledger_gate": {
+    "claims": 35,
+    "gate_exit": 1,
+    "blocks": 0,
+    "flags": 20,
+    "flag_codes": [
+     "LEDGER_UNAUDITED_TIER_A"
+    ],
+    "block_codes": []
+   },
+   "audit_verdict": "ACCEPT_WITH_CORRECTIONS",
+   "audit_source": [
+    "papers/prog_cm_bernstein_library/AUDIT.md"
+   ],
+   "audit_note": null,
+   "auditor": "AI agent, Claude Opus-family (named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 14,
+    "copied": 11,
+    "upstream_listed": 3,
+    "list": "discoveries/prog_cm_bernstein_library/LEAN.md"
+   },
+   "code": [],
+   "caveat": "Mathlib PR not opened (needs owner OK and Mathlib AI-policy review).",
+   "discovery_dir": "discoveries/prog_cm_bernstein_library/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "Completely monotone and Bernstein functions in Lean 4: a kernel-checked library with a general subordination theorem, applied to planar universal optimality",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23653842",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23653842"
+  },
+  {
+   "id": "ED-17",
+   "slug": "prog_superfluid_structure_factor",
+   "version": "v1",
+   "title": "The Feynman-Bijl single-mode bound in Lean, and a diffraction test of the Bogoliubov envelope on published structure factors of superfluid 4He and trapped Bose gases",
+   "doi": "10.5281/zenodo.23653846",
+   "doi_url": "https://doi.org/10.5281/zenodo.23653846",
+   "zenodo_record": "https://zenodo.org/records/23653846",
+   "concept_doi": "10.5281/zenodo.23653845",
+   "date": "2026-10-26",
+   "type": "paper",
+   "domain": "superfluids (helium-4)",
+   "result_kind": "positive (Lean) + negative (envelope refuted)",
+   "tiers": {
+    "A": 11,
+    "B": 0,
+    "L": 5,
+    "C": 7,
+    "X": 8
+   },
+   "ledger_gate": {
+    "claims": 31,
+    "gate_exit": 1,
+    "blocks": 0,
+    "flags": 11,
+    "flag_codes": [
+     "LEDGER_UNAUDITED_TIER_A"
+    ],
+    "block_codes": []
+   },
+   "audit_verdict": "ACCEPT_WITH_CORRECTIONS",
+   "audit_source": [
+    "papers/prog_superfluid_structure_factor/AUDIT.md"
+   ],
+   "audit_note": null,
+   "auditor": "AI agent instance (model not named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 4,
+    "copied": 4,
+    "upstream_listed": 0,
+    "list": "discoveries/prog_superfluid_structure_factor/LEAN.md"
+   },
+   "code": [],
+   "caveat": "He-4 data from a published table (Tier L); BEC data figure-read (Tier X).",
+   "discovery_dir": "discoveries/prog_superfluid_structure_factor/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "The Feynman-Bijl single-mode bound in Lean, and a diffraction test of the Bogoliubov envelope on published structure factors of superfluid 4He and trapped Bose gases",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23653846",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23653846"
+  },
+  {
+   "id": "ED-18",
+   "slug": "prog_population_genetics_fixation",
+   "version": "v1",
+   "title": "Fixation probabilities as absorption limits of matrix powers, kernel-checked: neutral Wright-Fisher, the Moran model with selection, the Price equation, and a fail-closed CVODE certificate",
+   "doi": "10.5281/zenodo.23653850",
+   "doi_url": "https://doi.org/10.5281/zenodo.23653850",
+   "zenodo_record": "https://zenodo.org/records/23653850",
+   "concept_doi": "10.5281/zenodo.23653849",
+   "date": "2026-10-26",
+   "type": "paper",
+   "domain": "population genetics",
+   "result_kind": "positive",
+   "tiers": {
+    "A": 14,
+    "B": 0,
+    "L": 5,
+    "C": 8,
+    "X": 9
+   },
+   "ledger_gate": {
+    "claims": 36,
+    "gate_exit": 1,
+    "blocks": 0,
+    "flags": 14,
+    "flag_codes": [
+     "LEDGER_UNAUDITED_TIER_A"
+    ],
+    "block_codes": []
+   },
+   "audit_verdict": "ACCEPT_WITH_CORRECTIONS",
+   "audit_source": [
+    "papers/prog_population_genetics_fixation/AUDIT.md"
+   ],
+   "audit_note": null,
+   "auditor": "AI agent, Claude Opus-family (named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 15,
+    "copied": 15,
+    "upstream_listed": 0,
+    "list": "discoveries/prog_population_genetics_fixation/LEAN.md"
+   },
+   "code": [
+    "https://github.com/xaviercallens/rusty-SUNDIALS/pull/80 (open)",
+    "https://github.com/xaviercallens/SocrateAI-Scientific-Genetic/pull/1 (open)",
+    "https://github.com/xaviercallens/SocrateAI-Scientific-Genetic/pull/2 (open)"
+   ],
+   "caveat": "Textbook results, newly kernel-checked; Genetic PRs overlap and are unmerged.",
+   "discovery_dir": "discoveries/prog_population_genetics_fixation/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "Fixation probabilities as absorption limits of matrix powers, kernel-checked: neutral Wright-Fisher, the Moran model with selection, the Price equation, and a fail-closed CVODE certificate",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23653850",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23653850"
+  },
+  {
+   "id": "ED-19",
+   "slug": "p2_3d_feasibility",
+   "version": "v1",
+   "title": "Can the planar Sandier-Serfaty proof architecture reach three-dimensional bcc jellium? A feasibility study with a negative outcome",
+   "doi": "10.5281/zenodo.23655002",
+   "doi_url": "https://doi.org/10.5281/zenodo.23655002",
+   "zenodo_record": "https://zenodo.org/records/23655002",
+   "concept_doi": "10.5281/zenodo.23655001",
+   "date": "2026-10-26",
+   "type": "paper",
+   "domain": "mathematical physics (3D jellium)",
+   "result_kind": "negative",
+   "tiers": {
+    "A": 0,
+    "B": 0,
+    "L": 4,
+    "C": 18,
+    "X": 8
+   },
+   "ledger_gate": {
+    "claims": 30,
+    "gate_exit": 0,
+    "blocks": 0,
+    "flags": 0,
+    "flag_codes": [],
+    "block_codes": []
+   },
+   "audit_verdict": "ACCEPT_WITH_CORRECTIONS",
+   "audit_source": [
+    "papers/p2_3d_feasibility/AUDIT.md"
+   ],
+   "audit_note": null,
+   "auditor": "AI agent instance (model not named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 0,
+    "copied": 0,
+    "upstream_listed": 0,
+    "list": "discoveries/p2_3d_feasibility/LEAN.md"
+   },
+   "code": [],
+   "caveat": "Negative feasibility result scoped by rotation invariance; floating-point numerics only.",
+   "discovery_dir": "discoveries/p2_3d_feasibility/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "Can the planar Sandier-Serfaty proof architecture reach three-dimensional bcc jellium? A feasibility study with a negative outcome",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23655002",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23655002"
+  },
+  {
+   "id": "ED-20",
+   "slug": "p2_certified_zero_point",
+   "version": "v1",
+   "title": "The triangular lattice is not a local minimum of the harmonic zero-point energy for exp(-pi r^2): a certified linear-response majorant along a symmetric shear",
+   "doi": "10.5281/zenodo.23655392",
+   "doi_url": "https://doi.org/10.5281/zenodo.23655392",
+   "zenodo_record": "https://zenodo.org/records/23655392",
+   "concept_doi": "10.5281/zenodo.23655391",
+   "date": "2026-10-26",
+   "type": "paper",
+   "domain": "lattice dynamics (certified)",
+   "result_kind": "positive (certified counterexample)",
+   "tiers": {
+    "A": 8,
+    "B": 0,
+    "L": 0,
+    "C": 13,
+    "X": 2
+   },
+   "ledger_gate": {
+    "claims": 23,
+    "gate_exit": 1,
+    "blocks": 0,
+    "flags": 8,
+    "flag_codes": [
+     "LEDGER_UNAUDITED_TIER_A"
+    ],
+    "block_codes": []
+   },
+   "audit_verdict": "ACCEPT_WITH_CORRECTIONS",
+   "audit_source": [
+    "papers/p2_certified_zero_point/AUDIT.md"
+   ],
+   "audit_note": null,
+   "auditor": "AI agent, Claude Opus-family (named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 9,
+    "copied": 9,
+    "upstream_listed": 0,
+    "list": "discoveries/p2_certified_zero_point/LEAN.md"
+   },
+   "code": [
+    "LeanFlow lean.certify (unmodified)"
+   ],
+   "caveat": "Lean holds the logic and rationals; the integrals are ball arithmetic (python-flint), outside the kernel.",
+   "discovery_dir": "discoveries/p2_certified_zero_point/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "The triangular lattice is not a local minimum of the harmonic zero-point energy for exp(-pi r^2): a certified linear-response majorant along a symmetric shear",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23655392",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23655392"
+  },
+  {
+   "id": "ED-21",
+   "slug": "p2_quantum_transition",
+   "version": "v1",
+   "title": "The harmonic triangular-to-oblique instability of the quantum Gaussian-core crystal: first order, near the Lindemann melting estimate, and absent in the self-consistent harmonic approximation (a preregistered negative result)",
+   "doi": "10.5281/zenodo.23655625",
+   "doi_url": "https://doi.org/10.5281/zenodo.23655625",
+   "zenodo_record": "https://zenodo.org/records/23655625",
+   "concept_doi": "10.5281/zenodo.23655624",
+   "date": "2026-10-26",
+   "type": "paper",
+   "domain": "quantum crystals",
+   "result_kind": "negative (within SCHA)",
+   "tiers": {
+    "A": 0,
+    "B": 0,
+    "L": 0,
+    "C": 26,
+    "X": 13
+   },
+   "ledger_gate": {
+    "claims": 39,
+    "gate_exit": 0,
+    "blocks": 0,
+    "flags": 0,
+    "flag_codes": [],
+    "block_codes": []
+   },
+   "audit_verdict": "ACCEPT_WITH_CORRECTIONS",
+   "audit_source": [
+    "papers/p2_quantum_transition/AUDIT.md"
+   ],
+   "audit_note": null,
+   "auditor": "AI agent instance (model not named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 0,
+    "copied": 0,
+    "upstream_listed": 0,
+    "list": "discoveries/p2_quantum_transition/LEAN.md"
+   },
+   "code": [
+    "https://github.com/xaviercallens/rusty-SUNDIALS/pull/79 (open; SCHA module on the same branch)"
+   ],
+   "caveat": "Negative within the self-consistent harmonic approximation; Rydberg dressing is a soft shoulder, not a Gaussian.",
+   "discovery_dir": "discoveries/p2_quantum_transition/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "The harmonic triangular-to-oblique instability of the quantum Gaussian-core crystal: first order, near the Lindemann melting estimate, and absent in the self-consistent harmonic approximation (a preregistered negative result)",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23655625",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23655625"
+  },
+  {
+   "id": "ED-22",
+   "slug": "p2_sandier_serfaty_lean",
+   "version": "v1",
+   "title": "Toward a machine-checked proof of the claimed Sandier-Serfaty certificate: 4 of 12 stages re-executed in the Lean kernel, one reduction lemma proved, and the measured cost of the rest (a partial formalization; the conjecture is not formally proved)",
+   "doi": "10.5281/zenodo.23656804",
+   "doi_url": "https://doi.org/10.5281/zenodo.23656804",
+   "zenodo_record": "https://zenodo.org/records/23656804",
+   "concept_doi": "10.5281/zenodo.23656803",
+   "date": "2026-10-26",
+   "type": "paper",
+   "domain": "mathematical physics (Coulomb gases)",
+   "result_kind": "partial (4/12 stages)",
+   "tiers": {
+    "A": 16,
+    "B": 0,
+    "L": 1,
+    "C": 8,
+    "X": 10
+   },
+   "ledger_gate": {
+    "claims": 35,
+    "gate_exit": 1,
+    "blocks": 0,
+    "flags": 16,
+    "flag_codes": [
+     "LEDGER_UNAUDITED_TIER_A"
+    ],
+    "block_codes": []
+   },
+   "audit_verdict": "ACCEPT_WITH_CORRECTIONS",
+   "audit_source": [
+    "papers/p2_sandier_serfaty_lean/AUDIT.md"
+   ],
+   "audit_note": null,
+   "auditor": "AI agent instance (model not named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 53,
+    "copied": 53,
+    "upstream_listed": 0,
+    "list": "discoveries/p2_sandier_serfaty_lean/LEAN.md"
+   },
+   "code": [
+    "LeanFlow commit 06084ef5c40057c66c476feba18ea3da8fb150ba (decide_kernel tactic; local, in no remote branch at the time of writing; not part of PR #1)"
+   ],
+   "caveat": "Partial formalisation: 4 of 12 stages; the conjecture is not formally proved; 16 Tier A rows unaudited by a human.",
+   "discovery_dir": "discoveries/p2_sandier_serfaty_lean/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "Toward a machine-checked proof of the claimed Sandier-Serfaty certificate: 4 of 12 stages re-executed in the Lean kernel, one reduction lemma proved, and the measured cost of the rest (a partial formalization; the conjecture is not formally proved)",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23656804",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23656804"
+  },
+  {
+   "id": "ED-23",
+   "slug": "p3_isothermal_theorem",
+   "version": "v1",
+   "title": "The isothermal theorem of evolutionary graph theory for birth-death updating, kernel-checked in Lean 4: Moran fixation on strongly connected isothermal graphs and its stationary-selection generalization",
+   "doi": "10.5281/zenodo.23660071",
+   "doi_url": "https://doi.org/10.5281/zenodo.23660071",
+   "zenodo_record": "https://zenodo.org/records/23660071",
+   "concept_doi": "10.5281/zenodo.23660070",
+   "date": "2026-10-26",
+   "type": "paper",
+   "domain": "evolutionary graph theory",
+   "result_kind": "positive (+ preregistration error caught)",
+   "tiers": {
+    "A": 11,
+    "B": 0,
+    "L": 4,
+    "C": 9,
+    "X": 2
+   },
+   "ledger_gate": {
+    "claims": 26,
+    "gate_exit": 1,
+    "blocks": 0,
+    "flags": 11,
+    "flag_codes": [
+     "LEDGER_UNAUDITED_TIER_A"
+    ],
+    "block_codes": []
+   },
+   "audit_verdict": "ACCEPT_WITH_CORRECTIONS",
+   "audit_source": [
+    "papers/p3_isothermal_theorem/AUDIT.md"
+   ],
+   "audit_note": null,
+   "auditor": "AI agent instance (model not named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 7,
+    "copied": 7,
+    "upstream_listed": 0,
+    "list": "discoveries/p3_isothermal_theorem/LEAN.md"
+   },
+   "code": [
+    "https://github.com/xaviercallens/SocrateAI-Scientific-Genetic/pull/3 (open)"
+   ],
+   "caveat": "Known theorem, newly kernel-checked; the preregistered 'count is a birth-death chain' clause was false (not strongly lumpable) and is reported.",
+   "discovery_dir": "discoveries/p3_isothermal_theorem/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "The isothermal theorem of evolutionary graph theory for birth-death updating, kernel-checked in Lean 4: Moran fixation on strongly connected isothermal graphs and its stationary-selection generalization",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23660071",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23660071"
+  },
+  {
+   "id": "ED-24",
+   "slug": "p2_navier_stokes_audit",
+   "version": "v1.1",
+   "title": "An independent rebuild, kernel replay and statement audit of the openai/NavierStokesAndEuler breakdown theorems (independently rebuilt and audited; not a claim that a Clay problem is solved)",
+   "doi": "10.5281/zenodo.23661381",
+   "doi_url": "https://doi.org/10.5281/zenodo.23661381",
+   "zenodo_record": "https://zenodo.org/records/23661381",
+   "concept_doi": "10.5281/zenodo.23661380",
+   "date": "2026-10-26",
+   "type": "paper",
+   "domain": "fluid PDE (audit of openai/NavierStokesAndEuler)",
+   "result_kind": "audit",
+   "tiers": {
+    "A": 4,
+    "B": 0,
+    "L": 4,
+    "C": 8,
+    "X": 10
+   },
+   "ledger_gate": {
+    "claims": 26,
+    "gate_exit": 1,
+    "blocks": 0,
+    "flags": 4,
+    "flag_codes": [
+     "LEDGER_UNAUDITED_TIER_A"
+    ],
+    "block_codes": []
+   },
+   "audit_verdict": "ACCEPT_WITH_CORRECTIONS",
+   "audit_source": [
+    "papers/p2_navier_stokes_audit/AUDIT.md"
+   ],
+   "audit_note": null,
+   "auditor": "AI agent instance (model not named in the audit file)",
+   "human_audit": false,
+   "lean_files": {
+    "cited": 9,
+    "copied": 7,
+    "upstream_listed": 2,
+    "list": "discoveries/p2_navier_stokes_audit/LEAN.md"
+   },
+   "code": [],
+   "caveat": "Independently rebuilt and audited; NOT a claim that a Clay problem is solved; credit for the corpus belongs to its authors (OpenAI).",
+   "discovery_dir": "discoveries/p2_navier_stokes_audit/",
+   "zenodo_check": {
+    "resolves": true,
+    "zenodo_title": "An independent rebuild, kernel replay and statement audit of the openai/NavierStokesAndEuler breakdown theorems (independently rebuilt and audited; not a claim that a Clay problem is solved)",
+    "title_exact": true,
+    "title_normalised": true,
+    "zenodo_doi": "10.5281/zenodo.23661381",
+    "doi_match": true,
+    "resource_type": "Preprint",
+    "error": null
+   },
+   "pdf": "https://zenodo.org/records/23661381"
+  }
+ ],
+ "public_release": {
+  "date": "2026-10-27",
+  "location": "elenchus/ in the public showcase repository; discovery_dir paths are relative to elenchus/",
+  "pdfs": "not copied: each publication's PDF is on Zenodo at its DOI (zenodo_record)",
+  "ledger_gate": "Elenchus ledger.py included unmodified in tool/; committed gate outputs kept",
+  "redaction": "machine paths and private repository names redacted; evidence blobs re-hashed; see REDACTION.md"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "slug": "prog_sandier_serfaty_audit",
+ "files": [
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfatyStatement.lean",
+   "aliases": [
+    "formal_cert/Programmes/SandierSerfatyStatement.lean"
+   ],
+   "recorded_sha256": [
+    "35add509990d50ebbdbbb70476fc652867d236a62534eda3d1021a414c21ae4d"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json",
+    "ledger evidence"
+   ],
+   "current_sha256": "35add509990d50ebbdbbb70476fc652867d236a62534eda3d1021a414c21ae4d",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfatyStatement.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  },
+  {
+   "ref": "<producer-repo>/formal_cert/Programmes/SandierSerfatyStatementControls.lean",
+   "aliases": [
+    "formal_cert/Programmes/SandierSerfatyStatementControls.lean"
+   ],
+   "recorded_sha256": [
+    "aa94aca898a83529624931dd73dc7f0a3ab0ab31e78c9393de8c597661613895"
+   ],
+   "via": [
+    "STATEMENT_LOCK.json",
+    "ledger evidence"
+   ],
+   "current_sha256": "aa94aca898a83529624931dd73dc7f0a3ab0ab31e78c9393de8c597661613895",
+   "copied_to": "lean/formal_cert/Programmes/SandierSerfatyStatementControls.lean",
+   "upstream": null,
+   "status": "copied; sha256 matches record"
+  }
+ ]
+}
