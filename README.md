@@ -6,7 +6,7 @@
 
 ## What this is
 
-- My name is Xavier Callens (SocrateAI Lab). I am not a professional mathematician. For two years I have worked with AI agents: programs that can be handed a whole task, such as searching, calculating, writing or checking, and that carry it out step by step.
+- My name is Xavier Callens (SocrateAI Lab). For two years I have worked with AI agents: programs that can be handed a whole task, such as searching, calculating, writing or checking, and that carry it out step by step.
 - The agents write fast and they write well. They also write false things, just as confidently. In my first months I believed them too easily, and I had to withdraw claims in public.
 - What came out of that is a habit borrowed from Socrates: question every claim before believing it. I call it **Elenchus**, after the Greek word for his kind of questioning.
 - This repository is a showcase of what that habit produced. It holds two books, written for readers who are not scientists, twenty contributions checked as carefully as I could manage, the claims I got wrong, and everything you need to check the work yourself.
@@ -115,4 +115,4 @@ Please use the issue tracker. Challenges ("red-team" issues) are especially welc
 - **Give back.** The code is under the GNU Affero GPL (version 3 or later). If you share an improved version, or run one for others over a network, you share its source under the same licence. The new texts and figures are under CC BY-SA 4.0, which asks the same of adaptations. The books already published on Zenodo stay under CC BY 4.0.
 - **Cite it.** A licence cannot force a citation, so this is a request: if this work helps you, please cite the books. [`CITATION.cff`](CITATION.cff) gives the details.
 
-Which licence covers which file: [`LICENSING.md`](LICENSING.md). It is still to be confirmed by the author.
+Which licence covers which file: [`LICENSING.md`](LICENSING.md). These terms were chosen on 27 October 2026 to carry out the author's wish that credit is kept and that improvements stay open source. Legal advice is still recommended before relying on any of them being enforced.

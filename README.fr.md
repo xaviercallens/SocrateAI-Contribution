@@ -6,7 +6,7 @@
 
 ## Ce que c'est
 
-- Je m'appelle Xavier Callens (SocrateAI Lab). Je ne suis pas mathématicien de métier. Depuis deux ans, je travaille avec des agents d'IA : des programmes à qui l'on confie une tâche entière (chercher, calculer, écrire, vérifier) et qui la mènent pas à pas.
+- Je m'appelle Xavier Callens (SocrateAI Lab). Depuis deux ans, je travaille avec des agents d'IA : des programmes à qui l'on confie une tâche entière (chercher, calculer, écrire, vérifier) et qui la mènent pas à pas.
 - Les agents écrivent vite et bien. Ils écrivent aussi des choses fausses, avec la même assurance. Les premiers mois, je les ai crus trop facilement, et j'ai dû retirer publiquement des affirmations.
 - J'en ai tiré une habitude empruntée à Socrate : interroger chaque affirmation avant de la croire. Je l'appelle **Elenchus**, du mot grec qui désigne sa manière de questionner.
 - Ce dépôt est une vitrine de ce que cette habitude a produit. Il contient deux livres écrits pour des lecteurs qui ne sont pas scientifiques, vingt contributions vérifiées aussi soigneusement que j'ai pu, les affirmations sur lesquelles je me suis trompé, et tout ce qu'il faut pour vérifier le travail vous-même.
@@ -115,4 +115,4 @@ Utilisez le suivi des tickets (*issues*). Les contestations (tickets « red team
 - **Rendez la pareille.** Le code est sous licence GNU Affero GPL (version 3 ou ultérieure). Si vous partagez une version améliorée, ou la faites tourner pour d'autres par le réseau, vous en partagez le code source sous la même licence. Les nouveaux textes et figures sont sous CC BY-SA 4.0, qui demande la même chose pour les adaptations. Les livres déjà publiés sur Zenodo restent sous CC BY 4.0.
 - **Citez-le.** Une licence ne peut pas imposer une citation ; c'est donc une demande : si ce travail vous aide, citez les livres, s'il vous plaît. [`CITATION.cff`](CITATION.cff) donne les détails.
 
-Quelle licence couvre quel fichier : [`LICENSING.md`](LICENSING.md) (en anglais). Ce texte reste à confirmer par l'auteur.
+Quelle licence couvre quel fichier : [`LICENSING.md`](LICENSING.md) (en anglais). Ces conditions ont été choisies le 27 octobre 2026 pour réaliser le souhait de l'auteur : que le crédit soit conservé et que les améliorations restent libres. Un avis juridique reste recommandé avant de compter sur leur application.

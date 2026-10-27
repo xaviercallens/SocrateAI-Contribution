@@ -1,6 +1,6 @@
 # Licensing
 
-> **To be confirmed by the author.** This file sets out the licensing intended by the author, Xavier Callens. He has to confirm it before the repository becomes public, and he should take legal advice before relying on any of these terms being enforced.
+> **Status.** These terms were chosen by the author on 27 October 2026 to carry out his wish that credit is kept and that improvements stay open source. The licences below are the way that wish is implemented. Legal advice is still recommended before relying on any of them being enforced.
 
 Three licences apply, each to a different part of the repository.
 
