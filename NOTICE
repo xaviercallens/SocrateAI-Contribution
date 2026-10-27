@@ -1,0 +1,28 @@
+SocrateAI-Contribution
+https://github.com/xaviercallens/SocrateAI-Contribution
+
+Copyright (c) 2026 Xavier Callens (SocrateAI Lab).
+The Elenchus ledger gate (elenchus/tool/ledger.py): Copyright (c) 2026 Xavier Callens (SocrateAI Lab), also
+credited as "Socrate AI Lab" in earlier copies.
+
+This work was produced by AI agents (Claude) under the direction of Xavier Callens, and audited by other AI agents.
+No human scientist has reviewed it.
+
+Licences (see LICENSING.md for which licence covers which path):
+- Code: GNU Affero General Public License v3.0 or later (LICENSE), with the additional terms below.
+- New texts and figures of this repository: CC BY-SA 4.0 (LICENSE-CONTENT-SA.txt).
+- The published books and the records of published works: CC BY 4.0 (LICENSE-CONTENT.txt).
+
+Additional terms under section 7(b) of the GNU Affero General Public License, version 3:
+Any copy or derivative work of the code in this repository, in whole or in part, must preserve
+  (1) this NOTICE file,
+  (2) the copyright notices and the LICENSE file, and
+  (3) the author attribution "Xavier Callens (SocrateAI Lab)" and, for elenchus/tool/ledger.py, the statement
+      that it is the Elenchus ledger gate by Xavier Callens (SocrateAI Lab),
+in the source files that carry them and in the Appropriate Legal Notices of any work that contains the code.
+
+How to cite
+A licence can require that these notices are kept; it cannot require an academic citation. If you use this work,
+please cite it anyway (CITATION.cff gives the details):
+- Xavier Callens, "The Discovery Journal", SocrateAI Lab, 2026. doi:10.5281/zenodo.23669463
+- Xavier Callens, "Le journal des découvertes", SocrateAI Lab, 2026. doi:10.5281/zenodo.23669395
