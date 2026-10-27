@@ -1,0 +1,71 @@
+cff-version: 1.2.0
+message: >-
+  If you use this work, please cite the Discovery Journal (English or French edition).
+  This work was produced by AI agents under the author's direction and audited by AI agents;
+  no human scientist has reviewed it.
+title: "SocrateAI-Contribution"
+type: software
+authors:
+  - family-names: Callens
+    given-names: Xavier
+    affiliation: SocrateAI Lab
+repository-code: "https://github.com/xaviercallens/SocrateAI-Contribution"
+license: AGPL-3.0-or-later
+keywords:
+  - Elenchus
+  - AI-assisted science
+  - formal verification
+  - Lean 4
+  - negative results
+preferred-citation:
+  type: book
+  title: "The Discovery Journal — A year in which AI proposes, the computer calculates, the proof judges and humans decide what it means"
+  authors:
+    - family-names: Callens
+      given-names: Xavier
+      affiliation: SocrateAI Lab
+  publisher:
+    name: Zenodo
+  year: 2026
+  doi: 10.5281/zenodo.23669463
+  url: "https://doi.org/10.5281/zenodo.23669463"
+  languages:
+    - en
+references:
+  - type: book
+    title: "Le journal des découvertes — Une année où l'IA propose, l'ordinateur calcule, la preuve juge et l'humain décide du sens"
+    authors:
+      - family-names: Callens
+        given-names: Xavier
+        affiliation: SocrateAI Lab
+    publisher:
+      name: Zenodo
+    year: 2026
+    doi: 10.5281/zenodo.23669395
+    url: "https://doi.org/10.5281/zenodo.23669395"
+    languages:
+      - fr
+  - type: book
+    title: "From Conjecture to the Lean Kernel: optimal lattices, quantum energies and population genetics"
+    authors:
+      - family-names: Callens
+        given-names: Xavier
+        affiliation: SocrateAI Lab
+    publisher:
+      name: Zenodo
+    year: 2026
+    doi: 10.5281/zenodo.23665873
+    languages:
+      - en
+  - type: book
+    title: "De la conjecture au noyau Lean : réseaux optimaux, énergies quantiques et génétique des populations"
+    authors:
+      - family-names: Callens
+        given-names: Xavier
+        affiliation: SocrateAI Lab
+    publisher:
+      name: Zenodo
+    year: 2026
+    doi: 10.5281/zenodo.23665820
+    languages:
+      - fr
