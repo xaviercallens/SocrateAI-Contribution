@@ -43,6 +43,8 @@ A claim is only as strong as its weakest link. A few more rules complete the hab
 
 The method explained without jargon: [docs/elenchus-in-10-minutes.md](docs/elenchus-in-10-minutes.md).
 
+**What's new (28 October 2026):** a census, a correction of our own earlier statement, a replication, two models and a note, all small, all AI-checked and not human-checked. Plain-language page: [docs/whats-new-2026-10-28.md](docs/whats-new-2026-10-28.md).
+
 ## Start here
 
 - **If you are curious and not a scientist:** read the *Discovery Journal* ([English PDF](books/discovery-journal-2026-en.pdf), [French PDF](books/discovery-journal-2026-fr.pdf)). It starts with the method, explained with a trial, a smoke detector and a recipe tasted by someone else. Then read [the two-year story](docs/two-years.md) and [what we got wrong](docs/what-we-got-wrong.md).

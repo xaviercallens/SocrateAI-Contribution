@@ -43,6 +43,8 @@ Une affirmation ne vaut que ce que vaut son maillon le plus faible. Quelques rè
 
 La méthode expliquée sans jargon : [docs/elenchus-in-10-minutes.fr.md](docs/elenchus-in-10-minutes.fr.md).
 
+**Quoi de neuf (28 octobre 2026) :** un recensement, une correction de notre propre affirmation antérieure, une réplication, deux modèles et une note, le tout modeste, vérifié par IA et non par des humains. Page en langage simple : [docs/whats-new-2026-10-28.fr.md](docs/whats-new-2026-10-28.fr.md).
+
 ## Par où commencer
 
 - **Si vous êtes curieux sans être scientifique :** lisez *Le journal des découvertes* ([PDF en français](books/discovery-journal-2026-fr.pdf), [PDF en anglais](books/discovery-journal-2026-en.pdf)). Il commence par la méthode, expliquée avec un procès, un détecteur de fumée et une recette goûtée par quelqu'un d'autre. Lisez ensuite [l'histoire des deux ans](docs/two-years.fr.md) et [nos erreurs](docs/what-we-got-wrong.fr.md).
