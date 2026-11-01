@@ -45,7 +45,7 @@ La méthode expliquée sans jargon : [docs/elenchus-in-10-minutes.fr.md](docs/el
 
 **Quoi de neuf (28 octobre 2026) :** un recensement, une correction de notre propre affirmation antérieure, une réplication, deux modèles et une note, le tout modeste, vérifié par IA et non par des humains. Page en langage simple : [docs/whats-new-2026-10-28.fr.md](docs/whats-new-2026-10-28.fr.md).
 
-**Quoi de neuf (1er novembre 2026) :** onze résultats modestes de plus, dont plusieurs se sont révélés ne pas être nouveaux, ce que nous disons ; le tout vérifié par IA et non par des humains. Page en langage simple : [docs/whats-new-2026-11-01.fr.md](docs/whats-new-2026-11-01.fr.md).
+**Quoi de neuf (1er novembre 2026) :** treize résultats modestes de plus, dont plusieurs se sont révélés ne pas être nouveaux, ce que nous disons ; le tout vérifié par IA et non par des humains. Page en langage simple : [docs/whats-new-2026-11-01.fr.md](docs/whats-new-2026-11-01.fr.md).
 
 ## Par où commencer
 

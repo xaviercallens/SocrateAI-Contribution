@@ -45,7 +45,7 @@ The method explained without jargon: [docs/elenchus-in-10-minutes.md](docs/elenc
 
 **What's new (28 October 2026):** a census, a correction of our own earlier statement, a replication, two models and a note, all small, all AI-checked and not human-checked. Plain-language page: [docs/whats-new-2026-10-28.md](docs/whats-new-2026-10-28.md).
 
-**What's new (1 November 2026):** eleven more small results, several of which turned out not to be new, and we say so; all AI-checked and not human-checked. Plain-language page: [docs/whats-new-2026-11-01.md](docs/whats-new-2026-11-01.md).
+**What's new (1 November 2026):** thirteen more small results, several of which turned out not to be new, and we say so; all AI-checked and not human-checked. Plain-language page: [docs/whats-new-2026-11-01.md](docs/whats-new-2026-11-01.md).
 
 ## Start here
 
